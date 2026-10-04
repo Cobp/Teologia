@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+:root {
+  --bg-primary: #e9e2b8;
+  --bg-secondary: #d7d0a6;
+  --txt-primary: #002f49;
+  --txt-secondary: #758981;
+  --txt-tertiary: #fff8d0;
+  --red-color: #A42527;
+  --orange-color: #f67f00;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Outfit Variable", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-primary);
+  color: var(--txt-primary);
+  width: 100vw;
+  height: 100vh;
+}

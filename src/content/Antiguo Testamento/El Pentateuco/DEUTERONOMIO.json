@@ -1,0 +1,57 @@
+{
+  "titulo": "LIBRO DE DEUTERONOMIO",
+  "fuente": "Antiguo Testamento - El Pentateuco",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Moisés.",
+    "destinatarios": "Destinado a a nueva generación de israelitas a punto de entrar a la tierra prometida.",
+    "fecha": "Aproximadamente en el 1405 a.C., al final del período de los 40 años en el desierto.",
+    "lugar": "Las llanuras de Moab, frente al río Jordán.",
+    "estructura": "34 capítulos y 959 versículos.",
+    "ubicacion": "Quinto y último libro del Antiguo Testamento y del Pentateuco, después de Números y antes de Josué."
+  },
+  "contexto_historico": "El libro consiste esencialmente en una serie de discursos de despedida que Moisés dirigió al pueblo de Israel antes de su muerte y antes de que cruzaran el río Jordán para conquistar Canaán. La generación que salió de Egipto había fallecido en el desierto; por lo tanto, esta nueva generación necesitaba recordar la Ley de Dios, entender la historia de su fidelidad y renovar el pacto divino antes de enfrentarse a los desafíos culturales y religiosos de la tierra prometida. Su nombre significa \"la segunda ley\" o la repetición de la Ley.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Moisés",
+      "descripcion": "Libertador y legislador, quien actúa como profeta y maestro supremo recordando los mandamientos de Dios y despidiéndose de su pueblo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Josué",
+      "descripcion": "Sucesor designado de Moisés, quien tendría la tarea de guiar a Israel en la conquista y repartición de Canaán."
+    },
+    {
+      "url-img": "",
+      "nombre": "Eleazar",
+      "descripcion": "Sumo sacerdote que colaboró en la transición del liderazgo junto a Josué."
+    }
+  ],
+  "contenido": "El tema principal es la renovación del pacto y la fidelidad a Dios: recordar las grandes obras y exigencias de Dios, la necesidad de amar a Dios con todo el corazón, la obediencia como fuente de bendición y la desobediencia como camino a la maldición y el juicio.",
+  "sintesis": "En los capítulos 1–4, Moisés repasa la historia reciente del peregrinaje por el desierto, exhortando al pueblo a obedecer la voz de Dios y a no caer en la idolatría. En los capítulos 5–26, se presenta el núcleo del libro: la repetición y profundización de los Diez Mandamientos y las leyes morales, civiles y religiosas, destacando el famoso mandamiento del Shemá (\"Escucha, Israel: Jehová nuestro Dios, Jehová uno es\"). En los capítulos 27–34, se establecen las bendiciones por la obediencia y las maldiciones por la desobediencia (capítulo 28), se renueva formalmente el pacto en Moab, se designa oficialmente a Josué como sucesor, y el libro concluye con el cántico y la bendición de Moisés, seguida de su muerte en el monte Nebo.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Primer discurso: Memoria histórica (1:1–4:43)",
+      "descripcion": "Repaso de los hechos desde el Horeb, las victorias sobre los reyes amorreos y un fuerte llamado a la obediencia y fidelidad exclusiva a Dios."
+    },
+    {
+      "url-img": "",
+      "seccion": "Segundo discurso: La Ley y los mandamientos (4:44–26:19)",
+      "descripcion": "Exposición de los Diez Mandamientos, el llamado a amar a Dios con todo el ser (Shemá), leyes sobre el culto, la justicia social, la pureza y los deberes civiles."
+    },
+    {
+      "url-img": "",
+      "seccion": "Tercer discurso: Bendiciones, maldiciones y renovación del pacto (27:1–30:20)",
+      "descripcion": "Instrucciones sobre el monte Ebal y el monte Gerizim, las consecuencias de la obediencia y la desobediencia, y la promesa de restauración para el futuro."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conclusión: Transición, cántico y muerte de Moisés (31:1–34:12)",
+      "descripcion": "Entrega del liderazgo a Josué, el cántico profético de Moisés, su bendición final a las tribus de Israel y su muerte en el monte Nebo, despedido por el mismo Dios."
+    }
+  ],
+  "versiculo_clave": "Oye, Israel: Jehová nuestro Dios, Jehová uno es. Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas. Deuteronomio 6:4-5"
+}

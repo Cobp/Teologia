@@ -53,5 +53,8 @@
       "descripcion": "Entrega del liderazgo a Josué, el cántico profético de Moisés, su bendición final a las tribus de Israel y su muerte en el monte Nebo, despedido por el mismo Dios."
     }
   ],
-  "versiculo_clave": "Oye, Israel: Jehová nuestro Dios, Jehová uno es. Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas. Deuteronomio 6:4-5"
+  "versiculo_clave": {
+    "texto": "Oye, Israel: Jehová nuestro Dios, Jehová uno es. Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas.",
+    "pasaje": "Deuteronomio 6:4-5"
+  }
 }

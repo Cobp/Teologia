@@ -1,0 +1,60 @@
+{
+  "titulo": "LIBRO DE HECHOS",
+  "fuente": "Nuevo Testamento - Historia de la Iglesia",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Lucas, compañero del apóstol Pablo.",
+    "destinatarios": "Teófilo y la comunidad cristiana.",
+    "fecha": "Aproximadamente entre 60 y 85 d.C. (fecha debatida).",
+    "lugar": "Desconocido.",
+    "estructura": "28 capítulos y 1.007 versículos.",
+    "ubicacion": "Quinto libro del Nuevo Testamento, después de Juan y antes de Romanos."
+  },
+  "contexto_historico": "Hechos narra el nacimiento y crecimiento de la iglesia después de la ascensión de Jesús, y la expansión del evangelio mediante el Espíritu Santo, a pesar de las persecuciones.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pedro",
+      "descripcion": "Apóstol que predica el evangelio y participa en la expansión de la iglesia."
+    },
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Apóstol que realiza viajes misioneros y anuncia a Cristo a judíos y gentiles."
+    }
+  ],
+  "contenido": "El tema principal es la expansión del evangelio mediante el poder del Espíritu Santo, desde Jerusalén hasta los confines de la tierra.",
+  "sintesis": "El libro relata el crecimiento de la iglesia, la predicación de Pedro y los viajes misioneros de Pablo hasta su llegada a Roma. Enseña que el Espíritu Santo guía a los creyentes para llevar el evangelio a todas las naciones.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Introducción y ascensión de Jesús (1:1-26)",
+      "descripcion": "Jesús asciende al cielo y promete el Espíritu Santo a sus discípulos."
+    },
+    {
+      "url-img": "",
+      "seccion": "Nacimiento y crecimiento de la iglesia (2:1–7:60)",
+      "descripcion": "Pentecostés, predicación de los apóstoles y persecución de los creyentes."
+    },
+    {
+      "url-img": "",
+      "seccion": "Expansión del evangelio (8:1–12:25)",
+      "descripcion": "El evangelio llega a Samaria y a los gentiles; conversión de Saulo."
+    },
+    {
+      "url-img": "",
+      "seccion": "Viajes misioneros de Pablo (13:1–21:16)",
+      "descripcion": "Pablo y sus colaboradores anuncian el evangelio en diferentes regiones."
+    },
+    {
+      "url-img": "",
+      "seccion": "Prisión y llegada de Pablo a Roma (21:17–28:31)",
+      "descripcion": "Pablo defiende su fe, enfrenta dificultades y continúa predicando el reino de Dios."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra.",
+    "pasaje": "Hechos 1:8"
+  }
+}

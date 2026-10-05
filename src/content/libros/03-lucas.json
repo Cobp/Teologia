@@ -1,0 +1,80 @@
+{
+  "titulo": "EVANGELIO SEGÚN SAN LUCAS",
+  "fuente": "Nuevo Testamento - Los Evangelios",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Tradicionalmente atribuido a Lucas, médico y colaborador del apóstol Pablo.",
+    "destinatarios": "Teófilo y, en un sentido más amplio, comunidades cristianas de origen diverso, incluyendo gentiles.",
+    "fecha": "Aproximadamente entre 70 y 90 d.C.",
+    "lugar": "No se conoce con certeza.",
+    "estructura": "24 capítulos y 1.151 versículos.",
+    "ubicacion": "Tercer libro del Nuevo Testamento y de los Evangelios, después de Marcos y antes de Juan."
+  },
+  "contexto_historico": "Lucas escribe una narración ordenada de la vida y ministerio de Jesús. Su Evangelio presta especial atención a personas que se encontraban en situaciones de vulnerabilidad o marginación social, como pobres, mujeres, samaritanos, pecadores y enfermos. El Evangelio también enfatiza la obra del Espíritu Santo, la oración, la misericordia, la salvación y la universalidad del mensaje de Jesús.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Jesús",
+      "descripcion": "Salvador, Señor y centro del plan de salvación de Dios."
+    },
+    {
+      "url-img": "",
+      "nombre": "Lucas",
+      "descripcion": "Tradicionalmente identificado como autor y colaborador de Pablo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Teófilo",
+      "descripcion": "Persona a quien Lucas dirige su obra."
+    },
+    {
+      "url-img": "",
+      "nombre": "María",
+      "descripcion": "Madre de Jesús, especialmente destacada en los relatos de la infancia."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los discípulos",
+      "descripcion": "Acompañan a Jesús y reciben formación para continuar su misión."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los pobres, enfermos y marginados",
+      "descripcion": "Personas a quienes Jesús extiende especialmente su misericordia."
+    }
+  ],
+  "contenido": "El tema principal es Jesús como Salvador universal, quien anuncia el Reino de Dios, muestra misericordia hacia los marginados y lleva a cabo el plan de salvación mediante su muerte y resurrección.",
+  "sintesis": "En los capítulos 1–4, Lucas presenta los acontecimientos relacionados con Juan el Bautista y el nacimiento de Jesús, seguido de su bautismo, genealogía y tentación. En los capítulos 4–9, Jesús desarrolla su ministerio principalmente en Galilea, enseñando, sanando y anunciando el Reino de Dios. En los capítulos 9–19, Jesús emprende el camino hacia Jerusalén. Durante este recorrido aparecen importantes enseñanzas y parábolas, como el buen samaritano, el hijo pródigo y el rico y Lázaro. En los capítulos 19–24, Jesús llega a Jerusalén, celebra la última cena, es crucificado y resucita. El Evangelio concluye con la aparición de Jesús a sus discípulos y su ascensión.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Prólogo y nacimiento de Jesús (1:1–4:13)",
+      "descripcion": "Anuncio de los nacimientos, nacimiento de Jesús, bautismo y tentación."
+    },
+    {
+      "url-img": "",
+      "seccion": "Ministerio en Galilea (4:14–9:50)",
+      "descripcion": "Predicación, milagros, llamados y enseñanzas."
+    },
+    {
+      "url-img": "",
+      "seccion": "Viaje hacia Jerusalén (9:51–19:27)",
+      "descripcion": "Enseñas, parábolas, discipulado y anuncio del Reino."
+    },
+    {
+      "url-img": "",
+      "seccion": "Ministerio en Jerusalén y pasión (19:28–23:56)",
+      "descripcion": "Entrada en Jerusalén, última cena, arresto, juicio y crucifixión."
+    },
+    {
+      "url-img": "",
+      "seccion": "Resurrección y ascensión (24:1-53)",
+      "descripcion": "Resurrección, apariciones y ascensión de Jesús."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido.",
+    "pasaje": "Lucas 19:10"
+  }
+}

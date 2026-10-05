@@ -1,0 +1,75 @@
+{
+  "titulo": "EVANGELIO SEGÚN SAN MARCOS",
+  "fuente": "Nuevo Testamento - Los Evangelios",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Tradicionalmente atribuido a Juan Marcos, colaborador de Pedro y Pablo.",
+    "destinatarios": "Probablemente cristianos de origen gentil, tradicionalmente relacionados con Roma.",
+    "fecha": "Aproximadamente entre 65 y 70 d.C.",
+    "lugar": "No se conoce con certeza; la tradición antigua lo relaciona con Roma.",
+    "estructura": "16 capítulos y 678 versículos.",
+    "ubicacion": "Segundo libro del Nuevo Testamento y de los Evangelios, después de Mateo y antes de Lucas."
+  },
+  "contexto_historico": "Marcos presenta a Jesús en un contexto de conflicto, oposición y sufrimiento. La narración avanza rápidamente desde el comienzo del ministerio de Jesús hasta su muerte y resurrección. El contexto de persecución y sufrimiento de los primeros cristianos ayuda a comprender el énfasis de Marcos en el discipulado, el servicio, el sufrimiento y la perseverancia. Jesús aparece como el Hijo de Dios que realiza su misión mediante el servicio y entrega su vida.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Jesús",
+      "descripcion": "Hijo de Dios y Mesías que proclama el Reino y sirve a los demás."
+    },
+    {
+      "url-img": "",
+      "nombre": "Juan el Bautista",
+      "descripcion": "Precursor que prepara el camino para Jesús."
+    },
+    {
+      "url-img": "",
+      "nombre": "Pedro",
+      "descripcion": "Discípulo destacado y miembro del círculo más cercano de Jesús."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los doce discípulos",
+      "descripcion": "Acompañan a Jesús y son formados para continuar su misión."
+    },
+    {
+      "url-img": "",
+      "nombre": "Las autoridades religiosas",
+      "descripcion": "Se oponen progresivamente a Jesús."
+    }
+  ],
+  "contenido": "El tema principal es Jesús como el Hijo de Dios y Mesías sufriente, cuya autoridad se manifiesta en sus acciones, servicio, muerte y resurrección.",
+  "sintesis": "En los capítulos 1–8, Marcos presenta el comienzo del ministerio de Jesús: bautismo, llamado de discípulos, predicación del Reino, milagros y confrontaciones con las autoridades religiosas. En los capítulos 8–10, Jesús comienza a enseñar claramente a sus discípulos que el Mesías debe sufrir y morir. El discipulado implica seguir a Jesús en el camino del servicio y del sacrificio. En los capítulos 11–15, Jesús entra en Jerusalén, confronta a las autoridades, celebra la última cena, es arrestado, juzgado y crucificado. En el capítulo 16, se anuncia la resurrección de Jesús y se presenta el desafío de continuar la misión.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Preparación y comienzo del ministerio (1:1-13)",
+      "descripcion": "Juan el Bautista, bautismo y tentación de Jesús."
+    },
+    {
+      "url-img": "",
+      "seccion": "Ministerio en Galilea (1:14–8:26)",
+      "descripcion": "Predicación, milagros, llamados, enseñanzas y oposición."
+    },
+    {
+      "url-img": "",
+      "seccion": "Camino hacia Jerusalén y enseñanza sobre el discipulado (8:27–10:52)",
+      "descripcion": "Confesión de Pedro, anuncio de la pasión y enseñanza sobre seguir a Jesús."
+    },
+    {
+      "url-img": "",
+      "seccion": "Jerusalén y pasión (11:1–15:47)",
+      "descripcion": "Entrada triunfal, conflictos, última cena, juicio y crucifixión."
+    },
+    {
+      "url-img": "",
+      "seccion": "Resurrección (16:1-20)",
+      "descripcion": "Anuncio de la resurrección y continuación de la misión."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Porque el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos.",
+    "pasaje": "Marcos 10:45"
+  }
+}

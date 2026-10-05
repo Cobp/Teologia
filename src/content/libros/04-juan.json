@@ -1,0 +1,80 @@
+{
+  "titulo": "EVANGELIO SEGÚN SAN JUAN",
+  "fuente": "Nuevo Testamento - Los Evangelios",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Tradicionalmente atribuido al apóstol Juan.",
+    "destinatarios": "Comunidades cristianas, probablemente de un contexto diverso y con conocimiento de las tradiciones judías.",
+    "fecha": "Aproximadamente entre 90 y 100 d.C.",
+    "lugar": "No se conoce con certeza; la tradición antigua lo relaciona con Éfeso.",
+    "estructura": "21 capítulos y 879 versículos.",
+    "ubicacion": "Cuarto libro del Nuevo Testamento y de los Evangelios, después de Lucas y antes de Hechos de los Apóstoles."
+  },
+  "contexto_historico": "El Evangelio de Juan presenta una perspectiva teológica particular sobre la identidad de Jesús. A diferencia de los Evangelios sinópticos, desarrolla ampliamente temas como la preexistencia de Cristo, la Palabra, la vida eterna, la luz, la verdad y la relación entre Jesús y el Padre. Juan utiliza signos y discursos para conducir al lector hacia la fe en Jesús como el Cristo y el Hijo de Dios.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Jesús",
+      "descripcion": "Hijo de Dios, Verbo encarnado y fuente de vida eterna."
+    },
+    {
+      "url-img": "",
+      "nombre": "Juan el Bautista",
+      "descripcion": "Testigo que señala a Jesús como aquel que viene de Dios."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los discípulos",
+      "descripcion": "Seguidores de Jesús que reciben progresivamente una comprensión más profunda de su identidad."
+    },
+    {
+      "url-img": "",
+      "nombre": "Pedro",
+      "descripcion": "Discípulo destacado dentro de la narración."
+    },
+    {
+      "url-img": "",
+      "nombre": "María Magdalena",
+      "descripcion": "Primera testigo de la resurrección según el relato de Juan."
+    },
+    {
+      "url-img": "",
+      "nombre": "Nicodemo",
+      "descripcion": "Fariseo que se acerca a Jesús y dialoga con él sobre el nuevo nacimiento."
+    }
+  ],
+  "contenido": "El tema principal es Jesús como el Verbo eterno, Hijo de Dios y fuente de vida eterna, revelado mediante sus palabras, obras y signos para que las personas crean en Él.",
+  "sintesis": "En los capítulos 1–4, Juan presenta a Jesús como el Verbo que se hizo carne y relata el comienzo de su ministerio, incluyendo el llamado de los primeros discípulos y diversos encuentros personales. En los capítulos 5–12, Jesús realiza signos y enseña sobre su identidad, generando tanto fe como oposición. Aparecen temas como el pan de vida, la luz del mundo y el buen pastor. En los capítulos 13–17, Jesús prepara a sus discípulos para su partida. Enseña sobre el servicio, el amor, la permanencia en Él y la obra del Espíritu Santo. En los capítulos 18–21, se narran el arresto, juicio, crucifixión, muerte y resurrección de Jesús, incluyendo sus apariciones a los discípulos.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Prólogo: el Verbo eterno (1:1-18)",
+      "descripcion": "Jesús es presentado como el Verbo que estaba con Dios y que se hizo carne."
+    },
+    {
+      "url-img": "",
+      "seccion": "Signos y ministerio público de Jesús (1:19–12:50)",
+      "descripcion": "Llamamiento de discípulos, milagros, discursos y confrontaciones."
+    },
+    {
+      "url-img": "",
+      "seccion": "Ministerio privado a los discípulos (13:1–17:26)",
+      "descripcion": "Última cena, servicio, mandamiento del amor, Espíritu Santo y oración de Jesús."
+    },
+    {
+      "url-img": "",
+      "seccion": "Pasión y muerte de Jesús (18:1–19:42)",
+      "descripcion": "Arresto, juicio, crucifixión y sepultura."
+    },
+    {
+      "url-img": "",
+      "seccion": "Resurrección y apariciones (20:1–21:25)",
+      "descripcion": "Resurrección, encuentros con los discípulos, Tomás y restauración de Pedro."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Hizo además Jesús muchas otras señales en presencia de sus discípulos, las cuales no están escritas en este libro. Pero estas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo, tengáis vida en su nombre.",
+    "pasaje": "Juan 20:30-31"
+  }
+}

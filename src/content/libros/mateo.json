@@ -1,0 +1,70 @@
+{
+  "titulo": "EVANGELIO SEGÚN SAN MATEO",
+  "fuente": "Nuevo Testamento - Los Evangelios",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Tradicionalmente atribuido a Mateo, uno de los doce apóstoles y antiguo recaudador de impuestos.",
+    "destinatarios": "Principalmente una comunidad cristiana con fuerte trasfondo judío.",
+    "fecha": "Aproximadamente entre 70 y 90 d.C.",
+    "lugar": "No se conoce con certeza; tradicionalmente se ha relacionado con Siria o la región de Palestina.",
+    "estructura": "28 capítulos y 1.071 versículos.",
+    "ubicacion": "Primer libro del Nuevo Testamento y de los Evangelios, antes de Marcos."
+  },
+  "contexto_historico": "El Evangelio de Mateo surge en un contexto en el que las primeras comunidades cristianas se encuentran definiendo su identidad y relación con el judaísmo. Mateo presenta a Jesús como el Mesías prometido, en continuidad con las Escrituras de Israel. El Evangelio contiene numerosas referencias al Antiguo Testamento y muestra a Jesús como el cumplimiento de las promesas de Dios. La destrucción de Jerusalén y del templo en el año 70 d.C. constituye un contexto histórico relevante para comprender las tensiones entre las comunidades cristianas y ciertos sectores del judaísmo.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Jesús",
+      "descripcion": "Mesías, Hijo de Dios, Rey y maestro que anuncia el Reino de los cielos."
+    },
+    {
+      "url-img": "",
+      "nombre": "Mateo",
+      "descripcion": "Tradicionalmente identificado como el autor y uno de los doce discípulos de Jesús."
+    },
+    {
+      "url-img": "",
+      "nombre": "Pedro",
+      "descripcion": "Uno de los discípulos principales y figura destacada dentro de la narración."
+    },
+    {
+      "url-img": "",
+      "nombre": "Fariseos y escribas",
+      "descripcion": "Representantes religiosos que frecuentemente entran en conflicto con Jesús."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los discípulos",
+      "descripcion": "Grupo llamado por Jesús para aprender, anunciar el Reino y continuar su misión."
+    }
+  ],
+  "contenido": "El tema principal es Jesús como el Mesías prometido y Rey, quien inaugura el Reino de los cielos, cumple las Escrituras y forma una comunidad de discípulos llamada a vivir conforme a sus enseñanzas.",
+  "sintesis": "En los capítulos 1–4, Mateo presenta el nacimiento de Jesús, su genealogía, la visita de los magos, el bautismo y la tentación en el desierto. Jesús comienza su ministerio anunciando el Reino de los cielos. En los capítulos 5–7, Jesús presenta las enseñanzas del Sermón del Monte, explicando la ética y la vida de quienes pertenecen al Reino. En los capítulos 8–20, se desarrolla el ministerio de Jesús mediante milagros, enseñanzas, parábolas y el discipulado. En los capítulos 21–28, Jesús entra en Jerusalén, enfrenta a las autoridades religiosas, es crucificado y resucita. El Evangelio concluye con la Gran Comisión, enviando a los discípulos a hacer discípulos de todas las naciones.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Introducción y nacimiento de Jesús (1:1–4:25)",
+      "descripcion": "Genealogía, nacimiento, infancia, bautismo, tentación y comienzo del ministerio."
+    },
+    {
+      "url-img": "",
+      "seccion": "Proclamación del Reino (5:1–7:29)",
+      "descripcion": "Sermón del Monte y enseñanzas sobre la vida del Reino."
+    },
+    {
+      "url-img": "",
+      "seccion": "Ministerio y formación de los discípulos (8:1–20:34)",
+      "descripcion": "Milagros, parábolas, oposición y enseñanza a los discípulos."
+    },
+    {
+      "url-img": "",
+      "seccion": "Jerusalén, pasión y resurrección (21:1–28:20)",
+      "descripcion": "Entrada triunfal, confrontaciones, última cena, crucifixión, resurrección y Gran Comisión."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén.",
+    "pasaje": "Mateo 28:19-20"
+  }
+}

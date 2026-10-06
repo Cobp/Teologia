@@ -1,138 +1,153 @@
 ---
-import { getCollection } from 'astro:content';
-import { librosPorSlug } from '../../data/libros';
+import { getCollection, type CollectionEntry } from "astro:content";
+import { librosPorSlug } from "../../data/libros";
+import Layout from "../../layouts/Layout.astro";
 
 export async function getStaticPaths() {
-  const entries = await getCollection('libros');
-  const porId = new Map(entries.map((e) => [e.id, e]));
+  const entries = await getCollection("libros");
+  const porSlug = new Map(
+    entries.map((entry) => [entry.id.replace(/^\d+-/, ""), entry]),
+  );
 
-  return [...librosPorSlug.keys()].map((slug) => ({
-    params: { slug },
-    props: { meta: librosPorSlug.get(slug)!, entry: porId.get(slug) ?? null },
-  }));
+  return [...librosPorSlug.entries()].map(([path, meta]) => {
+    const slug = path.replace(/^\/libros\//, "");
+
+    return {
+      params: { slug },
+      props: { meta, entry: porSlug.get(slug) ?? null },
+    };
+  });
 }
 
 const { meta, entry } = Astro.props;
-const d = entry?.data;
+const d = (entry as CollectionEntry<"libros"> | null)?.data;
 const bib = d?.datos_bibliograficos ?? {};
 const etiquetas: [string, string | undefined][] = [
-  ['Autor', bib.autor],
-  ['Destinatarios', bib.destinatarios],
-  ['Fecha', bib.fecha],
-  ['Lugar', bib.lugar],
-  ['Estructura', bib.estructura],
-  ['Ubicación', bib.ubicacion],
+  ["Autor", bib.autor],
+  ["Destinatarios", bib.destinatarios],
+  ["Fecha", bib.fecha],
+  ["Lugar", bib.lugar],
+  ["Estructura", bib.estructura],
+  ["Ubicación", bib.ubicacion],
 ];
 ---
 
-<html lang="es">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{meta.nombre}</title>
-  </head>
-  <body>
-    <main>
-      <a href="/" class="volver">← Volver</a>
+<Layout>
+  <a href="/libros" class="volver">← Volver</a>
 
-      <header class="hero" style={`--c:${meta.color}`}>
-        <small>{meta.testamento} · {meta.seccion}</small>
-        <h1>{meta.nombre}</h1>
-      </header>
+  <header class="hero" style={`--c:${meta.color}`}>
+    <small>{meta.testamento} · {meta.seccion}</small>
+    <h1>{meta.nombre}</h1>
+  </header>
 
-      {!d ? (
-        <p class="aviso">
-          No se encontró el JSON para <code>{meta.slug}</code>. Revisa que el
-          archivo se llame <code>{meta.slug}.json</code>.
-        </p>
-      ) : (
-        <>
-          {d.versiculo_clave && (
-            <blockquote>
-              “{d.versiculo_clave.texto}”
-              <footer>— {d.versiculo_clave.pasaje}</footer>
-            </blockquote>
-          )}
+  {
+    !d ? (
+      <p class="aviso">
+        No se encontró el JSON para <code>{meta.slug}</code>. Revisa que el
+        archivo se llame <code>{meta.slug}.json</code>.
+      </p>
+    ) : (
+      <>
+        {d.versiculo_clave && (
+          <blockquote>
+            “{d.versiculo_clave.texto}”
+            <footer>— {d.versiculo_clave.pasaje}</footer>
+          </blockquote>
+        )}
 
-          <section class="card">
-            <h2>Datos bibliográficos</h2>
-            <dl>
-              {etiquetas.filter(([, v]) => v).map(([k, v]) => (
+        <section class="card">
+          <h2>Datos bibliográficos</h2>
+          <dl>
+            {etiquetas
+              .filter(([, v]) => v)
+              .map(([k, v]) => (
                 <>
                   <dt>{k}</dt>
                   <dd>{v}</dd>
                 </>
               ))}
-            </dl>
+          </dl>
+        </section>
+
+        {d.contexto_historico && (
+          <section class="card">
+            <h2>Contexto histórico</h2>
+            <p>{d.contexto_historico}</p>
           </section>
+        )}
 
-          {d.contexto_historico && (
-            <section class="card">
-              <h2>Contexto histórico</h2>
-              <p>{d.contexto_historico}</p>
-            </section>
-          )}
+        {d.personajes.length > 0 && (
+          <section class="card">
+            <h2>Personajes</h2>
+            <ul>
+              {d.personajes.map((p) => (
+                <li>
+                  {p["url-img"] && (
+                    <img src={p["url-img"]} alt={p.nombre} width="40" />
+                  )}
+                  <strong>{p.nombre}:</strong> {p.descripcion}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
 
-          {d.personajes.length > 0 && (
-            <section class="card">
-              <h2>Personajes</h2>
-              <ul>
-                {d.personajes.map((p) => (
-                  <li>
-                    {p['url-img'] && <img src={p['url-img']} alt={p.nombre} width="40" />}
-                    <strong>{p.nombre}:</strong> {p.descripcion}
-                  </li>
-                ))}
-              </ul>
-            </section>
-          )}
+        {d.contenido && (
+          <section class="card">
+            <h2>Contenido</h2>
+            <p>{d.contenido}</p>
+          </section>
+        )}
 
-          {d.contenido && (
-            <section class="card">
-              <h2>Contenido</h2>
-              <p>{d.contenido}</p>
-            </section>
-          )}
+        {d.sintesis && (
+          <section class="card">
+            <h2>Síntesis</h2>
+            <p>{d.sintesis}</p>
+          </section>
+        )}
 
-          {d.sintesis && (
-            <section class="card">
-              <h2>Síntesis</h2>
-              <p>{d.sintesis}</p>
-            </section>
-          )}
-
-          {d.bosquejo.length > 0 && (
-            <section class="card">
-              <h2>Bosquejo</h2>
-              <ol>
-                {d.bosquejo.map((b) => (
-                  <li>
-                    <strong>{b.seccion}</strong>
-                    <p>{b.descripcion}</p>
-                  </li>
-                ))}
-              </ol>
-            </section>
-          )}
-        </>
-      )}
-    </main>
-  </body>
-</html>
+        {d.bosquejo.length > 0 && (
+          <section class="card">
+            <h2>Bosquejo</h2>
+            <ol>
+              {d.bosquejo.map((b) => (
+                <li>
+                  <strong>{b.seccion}</strong>
+                  <p>{b.descripcion}</p>
+                </li>
+              ))}
+            </ol>
+          </section>
+        )}
+      </>
+    )
+  }
+</Layout>
 
 <style is:global>
   body {
     margin: 0;
     background: #fbf1bd;
-    font-family: system-ui, -apple-system, sans-serif;
+    font-family:
+      system-ui,
+      -apple-system,
+      sans-serif;
     color: #2b2b2b;
     line-height: 1.6;
   }
 </style>
 
 <style>
-  main { max-width: 430px; margin: 0 auto; padding: 1.25rem 1rem 2rem; }
-  .volver { color: #12304a; text-decoration: none; font-size: 0.85rem; }
+  main {
+    max-width: 430px;
+    margin: 0 auto;
+    padding: 1.25rem 1rem 2rem;
+  }
+  .volver {
+    color: #12304a;
+    text-decoration: none;
+    font-size: 0.85rem;
+  }
   .hero {
     background: var(--c);
     color: #fff;
@@ -140,21 +155,68 @@ const etiquetas: [string, string | undefined][] = [
     padding: 1rem;
     margin: 0.75rem 0 1rem;
   }
-  .hero small { opacity: 0.85; font-size: 0.7rem; }
-  .hero h1 { margin: 0.25rem 0 0; font-size: 1.4rem; text-transform: uppercase; }
-  .card { background: #fffbe4; border-radius: 12px; padding: 0.9rem; margin-bottom: 0.9rem; }
-  h2 { margin: 0 0 0.5rem; font-size: 0.95rem; color: #12304a; }
-  p, li, dd { font-size: 0.85rem; }
-  dt { font-weight: 700; font-size: 0.75rem; color: #12304a; margin-top: 0.5rem; }
-  dd { margin: 0; }
-  ul, ol { padding-left: 1.1rem; margin: 0; }
-  li { margin-bottom: 0.5rem; }
-  li p { margin: 0.2rem 0 0; }
-  blockquote {
-    margin: 0 0 1rem; padding: 0.8rem 1rem; background: #fffbe4;
-    border-left: 4px solid #12304a; border-radius: 8px;
-    font-style: italic; font-size: 0.85rem;
+  .hero small {
+    opacity: 0.85;
+    font-size: 0.7rem;
   }
-  blockquote footer { margin-top: 0.4rem; font-style: normal; font-weight: 700; }
-  .aviso { background: #fff; padding: 1rem; border-radius: 8px; }
+  .hero h1 {
+    margin: 0.25rem 0 0;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+  }
+  .card {
+    background: #fffbe4;
+    border-radius: 12px;
+    padding: 0.9rem;
+    margin-bottom: 0.9rem;
+  }
+  h2 {
+    margin: 0 0 0.5rem;
+    font-size: 0.95rem;
+    color: #12304a;
+  }
+  p,
+  li,
+  dd {
+    font-size: 0.85rem;
+  }
+  dt {
+    font-weight: 700;
+    font-size: 0.75rem;
+    color: #12304a;
+    margin-top: 0.5rem;
+  }
+  dd {
+    margin: 0;
+  }
+  ul,
+  ol {
+    padding-left: 1.1rem;
+    margin: 0;
+  }
+  li {
+    margin-bottom: 0.5rem;
+  }
+  li p {
+    margin: 0.2rem 0 0;
+  }
+  blockquote {
+    margin: 0 0 1rem;
+    padding: 0.8rem 1rem;
+    background: #fffbe4;
+    border-left: 4px solid #12304a;
+    border-radius: 8px;
+    font-style: italic;
+    font-size: 0.85rem;
+  }
+  blockquote footer {
+    margin-top: 0.4rem;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .aviso {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+  }
 </style>

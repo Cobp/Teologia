@@ -15,15 +15,12 @@ export interface Testamento {
 
 type Def = [numero: number, slug: string, nombre: string, color?: string];
 
-// 👉 Si tus archivos se llaman distinto, cambia solo esto
-const slugDe = (n: number, slug: string) =>
-  `${String(n).padStart(2, "0")}-${slug}`;
 
 const seccion = (nombre: string, color: string, defs: Def[]): Seccion => ({
   nombre,
   color,
   libros: defs.map(([n, slug, nom, c]) => ({
-    slug: slugDe(n, slug),
+    slug: slug,
     nombre: nom,
     color: c ?? color,
   })),
@@ -34,7 +31,7 @@ export const testamentos: Testamento[] = [
     nombre: "Nuevo Testamento",
     secciones: [
       seccion("Evangelios", "#574b10", [
-        [1, "mateo", "Mateo"],
+        [40, "mateo", "Mateo"],
         [41, "marcos", "Marcos"],
         [42, "lucas", "Lucas"],
         [43, "juan", "Juan"],

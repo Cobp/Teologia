@@ -1,12 +1,13 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import Navbar from "../../components/Navbar.astro";
 import TabBar from "../../components/TabBar.astro";
-
 ---
+
 <Layout>
-  <Navbar />
+  <nav class="relative flex justify-between p-4 lg:p-8 w-full">
+    <h3 class="text-lg font-semibold">Explorar Libros</h3>
+  </nav>
   <main class="px-4 pb-8 lg:px-8">
-    <TabBar/>
+    <TabBar />
   </main>
 </Layout>

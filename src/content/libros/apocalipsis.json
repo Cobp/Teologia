@@ -1,0 +1,100 @@
+{
+  "titulo": "APOCALIPSIS",
+  "fuente": "Nuevo Testamento - Libros Proféticos",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Juan, siervo de Jesucristo; tradicionalmente identificado con el apóstol Juan.",
+    "destinatarios": "Las siete iglesias de Asia: Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea.",
+    "fecha": "Aproximadamente entre 90 y 96 d.C.",
+    "lugar": "Isla de Patmos, donde Juan afirma encontrarse por causa de la palabra de Dios y el testimonio de Jesucristo.",
+    "estructura": "22 capítulos y 404 versículos.",
+    "ubicacion": "Vigésimo séptimo y último libro del Nuevo Testamento (único libro Profético/Apocalíptico del NT), después de Judas."
+  },
+  "contexto_historico": "Apocalipsis fue escrito para comunidades cristianas que vivían bajo diferentes formas de presión y oposición dentro del mundo romano. El libro utiliza un lenguaje altamente simbólico y apocalíptico para comunicar un mensaje sobre el conflicto entre Dios y las fuerzas que se oponen a Él. Las visiones presentan a Cristo como vencedor y muestran que, a pesar del sufrimiento presente, Dios llevará la historia hacia su cumplimiento final.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Juan",
+      "descripcion": "Siervo de Jesucristo y autor del libro."
+    },
+    {
+      "url-img": "",
+      "nombre": "Jesucristo",
+      "descripcion": "Cordero, Rey y vencedor que ocupa el centro de las visiones."
+    },
+    {
+      "url-img": "",
+      "nombre": "Dios",
+      "descripcion": "Soberano sobre la historia y juez final."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los siete ángeles",
+      "descripcion": "Mensajeros relacionados con las siete iglesias."
+    },
+    {
+      "url-img": "",
+      "nombre": "Las siete iglesias",
+      "descripcion": "Comunidades cristianas destinatarias de los mensajes iniciales."
+    },
+    {
+      "url-img": "",
+      "nombre": "La bestia",
+      "descripcion": "Símbolo de poderes que se oponen a Dios."
+    },
+    {
+      "url-img": "",
+      "nombre": "Babilonia",
+      "descripcion": "Símbolo de un sistema de oposición a Dios y de corrupción."
+    },
+    {
+      "url-img": "",
+      "nombre": "El Cordero",
+      "descripcion": "Imagen central de Cristo sacrificado y victorioso."
+    }
+  ],
+  "contenido": "El tema principal es la soberanía de Dios y la victoria definitiva de Jesucristo sobre el mal, culminando en el juicio final, la derrota de las fuerzas opositoras y la nueva creación.",
+  "sintesis": "En los capítulos 1–3, Juan recibe la visión de Cristo y transmite mensajes dirigidos a las siete iglesias de Asia. En los capítulos 4–5, aparece el trono celestial y el Cordero, quien recibe el rollo y es presentado como digno de abrirlo. En los capítulos 6–16, se desarrollan diversas visiones relacionadas con sellos, trompetas y copas, mostrando juicio y conflicto espiritual. En los capítulos 17–20, se presenta el juicio sobre Babilonia, la derrota de las fuerzas del mal y el juicio final. En los capítulos 21–22, aparece la nueva Jerusalén, los cielos nuevos y la tierra nueva, y la presencia de Dios con su pueblo.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Prólogo y visión de Cristo (1:1-20)",
+      "descripcion": "Revelación recibida por Juan en Patmos y la visión majestuosa del Cristo glorificado entre los siete candeleros de oro."
+    },
+    {
+      "url-img": "",
+      "seccion": "Mensajes a las siete iglesias (2:1–3:22)",
+      "descripcion": "Cartas pastorales con elogios, reprensiones y promesas para los vencedores en Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea."
+    },
+    {
+      "url-img": "",
+      "seccion": "El trono celestial y el Cordero (4:1–5:14)",
+      "descripcion": "Adoración celestial alrededor del trono de Dios y la revelación del Cordero inmolado como el único digno de abrir el libro de los siete sellos."
+    },
+    {
+      "url-img": "",
+      "seccion": "Sellos, trompetas y conflictos finales (6:1–16:21)",
+      "descripcion": "Despliegue progresivo de los juicios divinos sobre la tierra mediante los sellos, las trompetas y las copas de la ira, junto al conflicto espiritual con el dragón y las bestias."
+    },
+    {
+      "url-img": "",
+      "seccion": "Juicio de Babilonia y victoria de Cristo (17:1–20:15)",
+      "descripcion": "Caída de la gran ramera (Babilonia), el triunfo de la venida de Cristo como Rey de reyes, el milenio, la derrota definitiva de Satanás y el Gran Trono Blanco."
+    },
+    {
+      "url-img": "",
+      "seccion": "Nueva creación y Nueva Jerusalén (21:1–22:5)",
+      "descripcion": "Manifestación de los cielos nuevos, la tierra nueva y la descendencia de la Santa Ciudad donde Dios morará eternamente con su pueblo sin llanto ni muerte."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conclusión y venida de Cristo (22:6-21)",
+      "descripcion": "Testimonio final de la veracidad de las profecías, advertencias de no alterar el libro y la invitación urgente al pronto regreso del Señor Jesús."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Escribí, pues, las cosas que has visto, y las que son, y las que han de ser después de estas.",
+    "pasaje": "Apocalipsis 1:19"
+  }
+}

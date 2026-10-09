@@ -1,0 +1,70 @@
+{
+  "titulo": "CARTA DE SANTIAGO",
+  "fuente": "Nuevo Testamento - Cartas Generales",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Santiago, tradicionalmente identificado como Santiago, hermano del Señor y líder de la iglesia de Jerusalén.",
+    "destinatarios": "“Las doce tribus que están en la dispersión”, es decir, comunidades cristianas de trasfondo judío dispersas.",
+    "fecha": "Aproximadamente entre 45 y 62 d.C.",
+    "lugar": "Probablemente Jerusalén.",
+    "estructura": "5 capítulos y 108 versículos.",
+    "ubicacion": "Vigésimo libro del Nuevo Testamento y segundo de las Cartas Generales, después de Hebreos y antes de 1 Pedro."
+  },
+  "contexto_historico": "Los cristianos destinatarios enfrentaban pruebas, pobreza, conflictos internos y problemas relacionados con la manera de vivir su fe. Santiago insiste en que la fe auténtica debe manifestarse mediante las obras, la conducta, el dominio de la lengua y el trato justo hacia los demás. La carta tiene un fuerte carácter práctico y utiliza numerosos principios relacionados con la sabiduría del Antiguo Testamento.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Santiago",
+      "descripcion": "Autor tradicional de la carta y líder de la iglesia de Jerusalén."
+    },
+    {
+      "url-img": "",
+      "nombre": "Jesucristo",
+      "descripcion": "Señor de los creyentes y fundamento de la fe cristiana."
+    },
+    {
+      "url-img": "",
+      "nombre": "El pobre y el rico",
+      "descripcion": "Utilizados como ejemplos para enseñar sobre la imparcialidad y la verdadera riqueza."
+    },
+    {
+      "url-img": "",
+      "nombre": "Elías",
+      "descripcion": "Profeta utilizado como ejemplo de una persona que oraba con fe."
+    }
+  ],
+  "contenido": "El tema principal es la fe verdadera manifestada en una vida práctica de obediencia, buenas obras, sabiduría, dominio propio y justicia.",
+  "sintesis": "En el capítulo 1, Santiago enseña sobre las pruebas, la perseverancia, la sabiduría y la obediencia a la Palabra. En los capítulos 2–3, aborda la parcialidad, las obras como manifestación de la fe y el poder de la lengua. En los capítulos 4–5, confronta la mundanalidad, el orgullo, la injusticia y la confianza en las riquezas, y exhorta a la paciencia y oración.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Pruebas y verdadera religión (1:1-27)",
+      "descripcion": "Exhortación a la paciencia en medio de la prueba, la petición de sabiduría con fe, y el llamado a ser hacedores de la palabra y no solo oidores."
+    },
+    {
+      "url-img": "",
+      "seccion": "Fe y obras (2:1-26)",
+      "descripcion": "Advertencia contra la discriminación de personas y la demostración teológica de que la fe sin obras está muerta."
+    },
+    {
+      "url-img": "",
+      "seccion": "La lengua y la sabiduría (3:1-18)",
+      "descripcion": "El peligro de la lengua indomable y el contraste entre la sabiduría terrenal y la sabiduría que desciende de lo alto."
+    },
+    {
+      "url-img": "",
+      "seccion": "Humildad y dependencia de Dios (4:1-17)",
+      "descripcion": "Reprensión de los pleitos y la amistad con el mundo, exhortación a la humildad y advertencia contra la jactancia del futuro."
+    },
+    {
+      "url-img": "",
+      "seccion": "Riquezas, paciencia y oración (5:1-20)",
+      "descripcion": "Juicio sobre los ricos opresores, el llamado a la paciencia ante la venida del Señor, el poder de la oración ferviente y la restauración del hermano extraviado."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.",
+    "pasaje": "Santiago 1:22"
+  }
+}

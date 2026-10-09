@@ -1,0 +1,65 @@
+{
+  "titulo": "PRIMERA CARTA DE SAN JUAN",
+  "fuente": "Nuevo Testamento - Cartas Generales",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Tradicionalmente atribuido al apóstol Juan.",
+    "destinatarios": "Comunidades cristianas de Asia Menor, probablemente relacionadas con las iglesias de la tradición joánica.",
+    "fecha": "Aproximadamente entre 90 y 100 d.C.",
+    "lugar": "Tradicionalmente relacionado con Éfeso.",
+    "estructura": "5 capítulos y 105 versículos.",
+    "ubicacion": "Vigésimo tercer libro del Nuevo Testamento y quinto de las Cartas Generales, después de 2 Pedro y antes de 2 Juan."
+  },
+  "contexto_historico": "Las comunidades enfrentaban conflictos relacionados con enseñanzas que negaban aspectos fundamentales acerca de Jesucristo. La carta busca fortalecer la seguridad de los creyentes y establecer criterios para distinguir la verdad del error. Juan enfatiza la relación entre fe, obediencia, amor y verdad.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Jesucristo",
+      "descripcion": "Hijo de Dios, vida eterna y fundamento de la comunión cristiana."
+    },
+    {
+      "url-img": "",
+      "nombre": "Dios Padre",
+      "descripcion": "Fuente de luz, amor y vida."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los creyentes",
+      "descripcion": "Personas llamadas a vivir en comunión, obediencia y amor."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los anticristos",
+      "descripcion": "Término utilizado para aquellos que se oponen a la enseñanza acerca de Cristo."
+    }
+  ],
+  "contenido": "El tema principal es la comunión con Dios mediante Jesucristo, evidenciada por una vida de obediencia, amor y fidelidad a la verdad.",
+  "sintesis": "En los capítulos 1–2, Juan habla de la comunión con Dios, el pecado, la obediencia y el amor. En los capítulos 3–4, desarrolla el tema del amor como característica de los hijos de Dios y enseña a discernir los espíritus y las enseñanzas. En el capítulo 5, afirma la fe en Jesucristo y la seguridad de la vida eterna.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Comunión con Dios y caminar en la luz (1:1–2:27)",
+      "descripcion": "La manifestación de la palabra de vida, la confesión de pecados, la obediencia a los mandamientos y la advertencia sobre el amor al mundo y los anticristos."
+    },
+    {
+      "url-img": "",
+      "seccion": "Identidad de los hijos de Dios (2:28–3:24)",
+      "descripcion": "El gran amor del Padre al adoptarnos como sus hijos, la práctica de la justicia y la prueba del amor mediante las obras hacia el hermano."
+    },
+    {
+      "url-img": "",
+      "seccion": "Amor, verdad y discernimiento (4:1-21)",
+      "descripcion": "La prueba de los espíritus para distinguir el Espíritu de verdad del error, y la naturaleza del amor manifestado en el envío del Hijo."
+    },
+    {
+      "url-img": "",
+      "seccion": "Fe, victoria y vida eterna (5:1-21)",
+      "descripcion": "La victoria sobre el mundo mediante la fe, el testimonio de Dios acerca de su Hijo y la certeza del perdón y de la vida eterna."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios.",
+    "pasaje": "1 Juan 5:13"
+  }
+}

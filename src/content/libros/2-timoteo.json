@@ -1,0 +1,70 @@
+{
+  "titulo": "SEGUNDA CARTA A TIMOTEO",
+  "fuente": "Nuevo Testamento - Cartas Paulinas",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pablo.",
+    "destinatarios": "Timoteo.",
+    "fecha": "Aproximadamente entre 64 y 67 d.C.",
+    "lugar": "Roma, durante el encarcelamiento de Pablo.",
+    "estructura": "4 capítulos y 83 versículos.",
+    "ubicacion": "Decimosexto libro del Nuevo Testamento y undécimo de las Cartas Paulinas (segunda de las Cartas Pastorales), después de 1 Timoteo y antes de Tito."
+  },
+  "contexto_historico": "Pablo se encuentra encarcelado y consciente de que su muerte puede estar próxima. Desde esta situación anima a Timoteo a permanecer fiel al evangelio, soportar las dificultades y transmitir la enseñanza recibida a otros creyentes.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Apóstol y autor, encarcelado por causa del evangelio."
+    },
+    {
+      "url-img": "",
+      "nombre": "Timoteo",
+      "descripcion": "Joven colaborador y destinatario de la carta."
+    },
+    {
+      "url-img": "",
+      "nombre": "Onesíforo",
+      "descripcion": "Creyente que ayudó y animó a Pablo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Demas",
+      "descripcion": "Colaborador que abandonó a Pablo por amar el mundo presente."
+    },
+    {
+      "url-img": "",
+      "nombre": "Jesucristo",
+      "descripcion": "Señor y fundamento del evangelio que Pablo encarga preservar."
+    }
+  ],
+  "contenido": "El tema principal es la fidelidad al evangelio, la perseverancia en el ministerio y la transmisión de la fe a las siguientes generaciones.",
+  "sintesis": "En el capítulo 1, Pablo anima a Timoteo a no avergonzarse del evangelio y a guardar el buen depósito. En el capítulo 2, utiliza imágenes como el soldado, atleta y labrador para enseñar perseverancia y fidelidad. En el capítulo 3, advierte sobre tiempos difíciles y enfatiza la importancia de las Escrituras. En el capítulo 4, Pablo presenta su despedida, exhorta a Timoteo a cumplir su ministerio y expresa su confianza en Dios.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Llamamiento a la fidelidad (1:1-18)",
+      "descripcion": "Exhortación a avivar el don de Dios, no avergonzarse del testimonio de Cristo y guardar el buen depósito por el Espíritu Santo."
+    },
+    {
+      "url-img": "",
+      "seccion": "Perseverancia y transmisión del evangelio (2:1-26)",
+      "descripcion": "Encargo de encargar la enseñanza a hombres fieles, analogías del servicio cristiano (soldado, atleta, labrador) y la conducta de un obrero aprobado."
+    },
+    {
+      "url-img": "",
+      "seccion": "Las Escrituras y los tiempos difíciles (3:1-17)",
+      "descripcion": "Advertencia sobre la decadencia moral en los últimos días y la suficiencia e inspiración divina de las Sagradas Escrituras."
+    },
+    {
+      "url-img": "",
+      "seccion": "Encargo final y despedida de Pablo (4:1-22)",
+      "descripcion": "Mandato de predicar la palabra, testimonio sobre la carrera terminada, situaciones personales finales y saludos de despedida."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra.",
+    "pasaje": "2 Timoteo 3:16-17"
+  }
+}

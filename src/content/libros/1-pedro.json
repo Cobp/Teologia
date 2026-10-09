@@ -1,0 +1,65 @@
+{
+  "titulo": "PRIMERA CARTA DE SAN PEDRO",
+  "fuente": "Nuevo Testamento - Cartas Generales",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pedro.",
+    "destinatarios": "Cristianos de varias regiones de Asia Menor: Ponto, Galacia, Capadocia, Asia y Bitinia.",
+    "fecha": "Aproximadamente entre 60 y 64 d.C.",
+    "lugar": "Babilonia, tradicionalmente entendida como una referencia a Roma.",
+    "estructura": "5 capítulos y 105 versículos.",
+    "ubicacion": "Vigésimo primer libro del Nuevo Testamento y tercero de las Cartas Generales, después de Santiago y antes de 2 Pedro."
+  },
+  "contexto_historico": "Los destinatarios eran comunidades cristianas que experimentaban oposición y sufrimiento debido a su fe. Pedro escribe para fortalecer su identidad como pueblo de Dios y animarlos a vivir de manera santa aun en medio de las dificultades. La carta utiliza imágenes del Antiguo Testamento para describir a los creyentes como pueblo escogido, nación santa y pueblo adquirido por Dios.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pedro",
+      "descripcion": "Apóstol de Jesucristo y autor de la carta."
+    },
+    {
+      "url-img": "",
+      "nombre": "Jesucristo",
+      "descripcion": "Salvador, ejemplo de sufrimiento y fundamento de la esperanza cristiana."
+    },
+    {
+      "url-img": "",
+      "nombre": "Silvano",
+      "descripcion": "Mencionado como colaborador relacionado con el envío de la carta."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los creyentes",
+      "descripcion": "Presentados como extranjeros y peregrinos en el mundo."
+    }
+  ],
+  "contenido": "El tema principal es la esperanza viva en Cristo y la perseverancia de los creyentes que están llamados a vivir en santidad aun en medio del sufrimiento.",
+  "sintesis": "En los capítulos 1–2, Pedro habla de la esperanza, la santidad y la identidad de los creyentes como pueblo de Dios. En los capítulos 2–3, enseña sobre la conducta cristiana dentro de la sociedad, las relaciones laborales y familiares. En los capítulos 3–5, desarrolla el significado del sufrimiento por causa de Cristo y exhorta a los creyentes a permanecer firmes y confiar en Dios.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Esperanza y santidad (1:1–2:10)",
+      "descripcion": "Alabanza por la salvación y la esperanza viva, llamado a la santidad de vida e identidad de los creyentes como linaje escogido y sacerdocio real."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conducta cristiana en el mundo (2:11–3:12)",
+      "descripcion": "Instrucciones sobre el sometimiento a las autoridades, conducta de los siervos siguiendo el ejemplo del sufrimiento de Cristo, y relaciones en el matrimonio y la comunidad."
+    },
+    {
+      "url-img": "",
+      "seccion": "Sufrimiento por causa de Cristo (3:13–4:19)",
+      "descripcion": "Defensa de la fe con mansedumbre, la victoria de Cristo, la buena administración de la gracia y el gozo en las aflicciones por el nombre de Cristo."
+    },
+    {
+      "url-img": "",
+      "seccion": "Liderazgo, humildad y perseverancia (5:1-14)",
+      "descripcion": "Exhortaciones a los ancianos para apacentar el rebaño, el llamado a la humildad, vigilancia ante el adversario y bendición final."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Bendito el Dios y Padre de nuestro Señor Jesucristo, que según su grande misericordia nos hizo renacer para una esperanza viva, por la resurrección de Jesucristo de los muertos.",
+    "pasaje": "1 Pedro 1:3"
+  }
+}

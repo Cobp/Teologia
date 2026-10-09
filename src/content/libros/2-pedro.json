@@ -1,0 +1,60 @@
+{
+  "titulo": "SEGUNDA CARTA DE SAN PEDRO",
+  "fuente": "Nuevo Testamento - Cartas Generales",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Tradicionalmente atribuida al apóstol Pedro.",
+    "destinatarios": "Comunidades cristianas que habían recibido la enseñanza apostólica.",
+    "fecha": "Aproximadamente entre 65 y 100 d.C.; existe debate académico sobre su fecha y autoría.",
+    "lugar": "Desconocido.",
+    "estructura": "3 capítulos y 61 versículos.",
+    "ubicacion": "Vigésimo segundo libro del Nuevo Testamento y cuarto de las Cartas Generales, después de 1 Pedro y antes de 1 Juan."
+  },
+  "contexto_historico": "La carta busca fortalecer a los creyentes frente a falsos maestros y personas que cuestionaban la promesa de la segunda venida de Cristo. El autor recuerda las enseñanzas apostólicas y exhorta a los creyentes a crecer en conocimiento, virtud y perseverancia.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pedro",
+      "descripcion": "Presentado como apóstol y siervo de Jesucristo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Jesucristo",
+      "descripcion": "Señor cuya venida es esperada."
+    },
+    {
+      "url-img": "",
+      "nombre": "Falsos maestros",
+      "descripcion": "Personas que introducen enseñanzas destructivas y cuestionan la venida del Señor."
+    },
+    {
+      "url-img": "",
+      "nombre": "Noé y Lot",
+      "descripcion": "Ejemplos de personas preservadas por Dios en medio del juicio."
+    }
+  ],
+  "contenido": "El tema principal es el crecimiento espiritual, la defensa de la verdad apostólica y la certeza del juicio de Dios y de la venida del Señor.",
+  "sintesis": "En el capítulo 1, se exhorta a crecer en la fe y se reafirma el testimonio apostólico. En el capítulo 2, se advierte sobre los falsos maestros y su conducta. En el capítulo 3, se responde a quienes cuestionan la segunda venida de Cristo y se afirma la esperanza de cielos nuevos y tierra nueva.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Crecimiento y firmeza espiritual (1:1-21)",
+      "descripcion": "Llamado a añadir a la fe virtudes como el conocimiento, el dominio propio y el amor, recordando el testimonio presencial de la transfiguración de Cristo y la certeza de la palabra profética."
+    },
+    {
+      "url-img": "",
+      "seccion": "Advertencia contra los falsos maestros (2:1-22)",
+      "descripcion": "Denuncia de las doctrinas destructivas y la inmoralidad de los falsos instructores, ilustrando el juicio de Dios mediante ejemplos históricos."
+    },
+    {
+      "url-img": "",
+      "seccion": "La venida del Señor y la esperanza futura (3:1-18)",
+      "descripcion": "Respuesta a los burladores que niegan el regreso de Cristo, explicación de la paciencia divina y la espera de cielos nuevos y tierra nueva en santidad."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "El Señor no retarda su promesa, según algunos la tienen por tardanza, sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento.",
+    "pasaje": "2 Pedro 3:9"
+  }
+}

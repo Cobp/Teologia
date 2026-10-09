@@ -1,0 +1,65 @@
+{
+  "titulo": "PRIMERA CARTA A TIMOTEO",
+  "fuente": "Nuevo Testamento - Cartas Paulinas",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pablo.",
+    "destinatarios": "Timoteo, colaborador de Pablo y líder de la iglesia en Éfeso.",
+    "fecha": "Aproximadamente entre 62 y 65 d.C.",
+    "lugar": "Probablemente Macedonia o una región cercana, según la reconstrucción del itinerario de Pablo.",
+    "estructura": "6 capítulos y 113 versículos.",
+    "ubicacion": "Decimoquinto libro del Nuevo Testamento y décimo de las Cartas Paulinas (primera de las Cartas Pastorales), después de 2 Tesalonicenses y antes de 2 Timoteo."
+  },
+  "contexto_historico": "Timoteo estaba encargado de una comunidad cristiana que enfrentaba falsas enseñanzas y problemas de organización. Pablo le proporciona instrucciones sobre doctrina, liderazgo, culto, comportamiento y cuidado de diferentes grupos dentro de la iglesia.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Apóstol y autor."
+    },
+    {
+      "url-img": "",
+      "nombre": "Timoteo",
+      "descripcion": "Colaborador de Pablo y destinatario de la carta."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los falsos maestros",
+      "descripcion": "Personas que enseñaban doctrinas diferentes al evangelio apostólico."
+    },
+    {
+      "url-img": "",
+      "nombre": "Ancianos y diáconos",
+      "descripcion": "Líderes encargados del servicio y gobierno de la iglesia."
+    }
+  ],
+  "contenido": "El tema principal es la organización, doctrina y conducta apropiada de la iglesia, junto con los requisitos para sus líderes.",
+  "sintesis": "En el capítulo 1, Pablo encarga a Timoteo combatir las falsas enseñanzas. En los capítulos 2–3, presenta instrucciones sobre oración, culto y requisitos para obispos y diáconos. En los capítulos 4–6, enseña sobre el carácter del ministro, el cuidado de diferentes grupos, el uso correcto de las riquezas y la perseverancia en la fe.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Advertencia contra falsas doctrinas (1:1-20)",
+      "descripcion": "Encargo a Timoteo de corregir enseñanzas desviadas, testimonio de la gracia recibida por Pablo y la buena batalla por la fe."
+    },
+    {
+      "url-img": "",
+      "seccion": "Instrucciones para la vida de la iglesia (2:1–3:16)",
+      "descripcion": "Pautas sobre la oración pública, el orden en el culto y las cualificaciones espirituales y morales para obispos y diáconos."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conducta y ministerio de Timoteo (4:1–6:2)",
+      "descripcion": "Advertencia contra la apostasía futura, deberes de un buen ministro de Jesucristo y el cuidado pastoral hacia viudas, ancianos y siervos."
+    },
+    {
+      "url-img": "",
+      "seccion": "Riquezas, piedad y perseverancia (6:3-21)",
+      "descripcion": "Peligros del amor al dinero, la buena pelea de la fe, indicaciones para los ricos y encargo final a Timoteo."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Ninguno tenga en poco tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza.",
+    "pasaje": "1 Timoteo 4:12"
+  }
+}

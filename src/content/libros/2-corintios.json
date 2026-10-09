@@ -1,0 +1,65 @@
+{
+  "titulo": "SEGUNDA CARTA A LOS CORINTIOS",
+  "fuente": "Nuevo Testamento - Cartas Paulinas",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pablo.",
+    "destinatarios": "La iglesia de Corinto y los creyentes de Acaya.",
+    "fecha": "Aproximadamente entre 55 y 56 d.C.",
+    "lugar": "Macedonia.",
+    "estructura": "13 capítulos y 257 versículos.",
+    "ubicacion": "Octavo libro del Nuevo Testamento y tercero de las Cartas Paulinas, después de 1 Corintios y antes de Gálatas."
+  },
+  "contexto_historico": "Después de dificultades entre Pablo y algunos miembros de la iglesia de Corinto, Pablo escribe para explicar su ministerio y defender su autoridad apostólica. La carta refleja temas de sufrimiento, reconciliación, generosidad, debilidad humana y poder de Dios.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Apóstol que defiende la autenticidad de su ministerio."
+    },
+    {
+      "url-img": "",
+      "nombre": "Timoteo",
+      "descripcion": "Colaborador de Pablo y mencionado en el saludo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Tito",
+      "descripcion": "Colaborador que participó en la relación entre Pablo y la iglesia de Corinto."
+    },
+    {
+      "url-img": "",
+      "nombre": "Cristo",
+      "descripcion": "Modelo del ministerio sacrificial y fundamento de la reconciliación."
+    }
+  ],
+  "contenido": "El tema principal es el ministerio apostólico basado en Cristo, caracterizado por sufrimiento, debilidad, reconciliación, servicio y dependencia del poder de Dios.",
+  "sintesis": "En los capítulos 1–7, Pablo explica su ministerio, sus sufrimientos y su relación con los corintios. Destaca la reconciliación y la nueva creación en Cristo. En los capítulos 8–9, anima a los creyentes a participar generosamente en la colecta para los cristianos necesitados de Jerusalén. En los capítulos 10–13, defiende su apostolado frente a quienes cuestionaban su autoridad y presenta la paradoja de que el poder de Dios se manifiesta en la debilidad.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Consuelo y ministerio apostólico (1:1–7:16)",
+      "descripcion": "Pablo explica las aflicciones de su ministerio, la naturaleza del nuevo pacto, el ministerio de reconciliación y el gozo del arrepentimiento de los corintios."
+    },
+    {
+      "url-img": "",
+      "seccion": "La ofrenda para los creyentes de Jerusalén (8:1–9:15)",
+      "descripcion": "Exhortación a la generosidad voluntaria, tomando a Cristo como ejemplo de entrega y promoviendo la ayuda fraterna."
+    },
+    {
+      "url-img": "",
+      "seccion": "Defensa del apostolado de Pablo (10:1–13:10)",
+      "descripcion": "Defensa legítima de su autoridad espiritual frente a falsos apóstoles y la revelación de que el poder de Dios se perfecciona en las debilidades."
+    },
+    {
+      "url-img": "",
+      "seccion": "Saludos y bendición final (13:11-13)",
+      "descripcion": "Exhortación a la paz y la unidad comunitaria, concluyendo con la bendición trinitaria."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Y me ha dicho: BÁSTATE MI GRACIA; porque mi poder se perfecciona en la debilidad. Por tanto, de buena gana me gloriaré más bien en mis debilidades, para que me habite el poder de Cristo.",
+    "pasaje": "2 Corintios 12:9"
+  }
+}

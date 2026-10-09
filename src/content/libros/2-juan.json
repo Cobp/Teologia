@@ -1,0 +1,65 @@
+{
+  "titulo": "SEGUNDA CARTA DE SAN JUAN",
+  "fuente": "Nuevo Testamento - Cartas Generales",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Tradicionalmente atribuido al apóstol Juan, quien se identifica como “el anciano”.",
+    "destinatarios": "“La señora elegida y sus hijos”, interpretación que puede referirse a una mujer y su familia o simbólicamente a una iglesia y sus miembros.",
+    "fecha": "Aproximadamente entre 90 y 100 d.C.",
+    "lugar": "Probablemente Éfeso o la región de Asia Menor.",
+    "estructura": "1 capítulo y 13 versículos.",
+    "ubicacion": "Vigésimo cuarto libro del Nuevo Testamento y sexto de las Cartas Generales, después de 1 Juan y antes de 3 Juan."
+  },
+  "contexto_historico": "La comunidad cristiana enfrentaba la presencia de personas que enseñaban doctrinas contrarias a la confesión apostólica acerca de Jesucristo. Juan exhorta a mantener unidos el amor y la verdad, y advierte sobre recibir a quienes propagaban esas enseñanzas.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "El anciano",
+      "descripcion": "Autor que tradicionalmente se identifica con Juan."
+    },
+    {
+      "url-img": "",
+      "nombre": "La señora elegida",
+      "descripcion": "Destinataria de la carta, posiblemente una mujer o una representación simbólica de una iglesia."
+    },
+    {
+      "url-img": "",
+      "nombre": "Sus hijos",
+      "descripcion": "Los miembros de la familia o comunidad destinataria."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los engañadores",
+      "descripcion": "Personas que negaban la enseñanza acerca de Jesucristo."
+    }
+  ],
+  "contenido": "El tema principal es permanecer en la verdad y el amor cristiano, rechazando enseñanzas que contradicen la confesión acerca de Jesucristo.",
+  "sintesis": "Juan expresa su alegría por encontrar a los creyentes caminando en la verdad. Les recuerda el mandamiento del amor y advierte sobre los engañadores que niegan la venida de Jesucristo en carne.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Saludo y reconocimiento de la verdad (1-4)",
+      "descripcion": "Saludo de gracia, misericordia y paz, junto con el gozo por hallar a algunos de los hijos andando en la verdad conforme al mandamiento del Padre."
+    },
+    {
+      "url-img": "",
+      "seccion": "Mandamiento del amor (5-6)",
+      "descripcion": "Exhortación a amarse unos a otros, recordando que el amor consiste en andar según los mandamientos de Dios."
+    },
+    {
+      "url-img": "",
+      "seccion": "Advertencia contra los engañadores (7-11)",
+      "descripcion": "Alerta sobre la presencia de muchos engañadores que no confiesan que Jesucristo ha venido en carne y la indicación de no recibir en casa a quien no traiga esta doctrina."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conclusión (12-13)",
+      "descripcion": "Deseo de visitar y hablar cara a cara para que el gozo sea completo, junto con los saludos finales de los hijos de la hermana elegida."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Y este es el amor, que andemos según sus mandamientos. Este es el mandamiento: que andéis en él, como vosotros habéis oído desde el principio.",
+    "pasaje": "2 Juan 1:6"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "titulo": "CARTA A LOS GÁLATAS",
+  "fuente": "Nuevo Testamento - Cartas Paulinas",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pablo.",
+    "destinatarios": "Las iglesias de Galacia.",
+    "fecha": "Aproximadamente entre 48 y 55 d.C.",
+    "lugar": "Probablemente Antioquía de Siria o Macedonia, dependiendo de la propuesta sobre la fecha y destino.",
+    "estructura": "6 capítulos y 149 versículos.",
+    "ubicacion": "Noveno libro del Nuevo Testamento y cuarto de las Cartas Paulinas, después de 2 Corintios y antes de Efesios."
+  },
+  "contexto_historico": "Algunas personas estaban enseñando a los creyentes gentiles que debían adoptar prácticas de la Ley de Moisés, especialmente la circuncisión, para pertenecer plenamente al pueblo de Dios. Pablo responde defendiendo el evangelio de la gracia y afirmando que la justificación se recibe mediante la fe en Cristo.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Apóstol y defensor del evangelio de la gracia."
+    },
+    {
+      "url-img": "",
+      "nombre": "Pedro (Cefas)",
+      "descripcion": "Mencionado en relación con el conflicto sobre la convivencia entre judíos y gentiles."
+    },
+    {
+      "url-img": "",
+      "nombre": "Bernabé",
+      "descripcion": "Colaborador de Pablo mencionado en el conflicto de Antioquía."
+    },
+    {
+      "url-img": "",
+      "nombre": "Cristo",
+      "descripcion": "Aquel mediante quien se recibe la justificación y libertad."
+    }
+  ],
+  "contenido": "El tema principal es la justificación por la fe en Cristo y la libertad del creyente frente a la dependencia de las obras de la Ley como medio de justificación.",
+  "sintesis": "En los capítulos 1–2, Pablo defiende su apostolado y afirma que el evangelio que predica procede de Dios. En los capítulos 3–4, explica que la promesa hecha a Abraham se cumple en Cristo y que la justificación es por fe. En los capítulos 5–6, enseña sobre la libertad cristiana y la vida guiada por el Espíritu, cuyo fruto se expresa en amor y servicio.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Defensa del evangelio y apostolado (1:1–2:21)",
+      "descripcion": "Pablo defiende la revelación divina de su mensaje, relata su relación con otros apóstoles y confronta la hipocresía en Antioquía."
+    },
+    {
+      "url-img": "",
+      "seccion": "Justificación por la fe (3:1–4:31)",
+      "descripcion": "Exposición teológica sobre la promesa dada a Abraham, el propósito pedagógico de la Ley y la adopción de los creyentes como hijos de Dios."
+    },
+    {
+      "url-img": "",
+      "seccion": "Libertad cristiana y vida en el Espíritu (5:1–6:10)",
+      "descripcion": "Exhortación a no volver a la esclavitud legalista, contraste entre las obras de la carne y el fruto del Espíritu, y el llamado a servirse por amor."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conclusión (6:11-18)",
+      "descripcion": "Advertencia final contra los falsos maestros, la gloria en la cruz de Cristo y la bendición apostolicá."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí.",
+    "pasaje": "Gálatas 2:20"
+  }
+}

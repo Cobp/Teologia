@@ -1,0 +1,75 @@
+{
+  "titulo": "CARTA A LOS HEBREOS",
+  "fuente": "Nuevo Testamento - Cartas Generales",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Anónimo; tradicionalmente se ha atribuido a Pablo, aunque la autoría no está identificada con certeza.",
+    "destinatarios": "Cristianos de trasfondo judío, probablemente familiarizados con las Escrituras y las prácticas del culto de Israel.",
+    "fecha": "Aproximadamente entre 60 y 90 d.C.",
+    "lugar": "Desconocido.",
+    "estructura": "13 capítulos y 303 versículos.",
+    "ubicacion": "Decimonoveno libro del Nuevo Testamento y primero de las Cartas Generales, después de Filemón y antes de Santiago."
+  },
+  "contexto_historico": "Los destinatarios de Hebreos enfrentaban dificultades y presiones que podían llevarlos a abandonar o debilitar su compromiso con Cristo. La carta utiliza ampliamente imágenes y conceptos del Antiguo Testamento, especialmente relacionados con el sacerdocio, los sacrificios, el tabernáculo y el pacto. El autor presenta a Cristo como superior a los ángeles, a Moisés y al sacerdocio levítico, mostrando que el nuevo pacto establecido por Cristo es definitivo.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Jesucristo",
+      "descripcion": "Hijo de Dios, sumo sacerdote y mediador del nuevo pacto."
+    },
+    {
+      "url-img": "",
+      "nombre": "Moisés",
+      "descripcion": "Siervo fiel de Dios, presentado en comparación con la superioridad de Cristo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Melquisedec",
+      "descripcion": "Sacerdote y rey utilizado como figura para explicar el sacerdocio superior de Cristo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Abraham",
+      "descripcion": "Ejemplo de fe y confianza en las promesas de Dios."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los héroes de la fe",
+      "descripcion": "Personajes del Antiguo Testamento presentados en Hebreos 11 como ejemplos de perseverancia."
+    }
+  ],
+  "contenido": "El tema principal es la supremacía de Jesucristo como Hijo de Dios y sumo sacerdote del nuevo pacto, cuya obra es superior y definitiva frente a las instituciones del antiguo pacto.",
+  "sintesis": "En los capítulos 1–4, el autor presenta la superioridad de Cristo sobre los ángeles y Moisés, y exhorta a los creyentes a permanecer firmes. En los capítulos 5–10, desarrolla el sacerdocio de Cristo y explica cómo su sacrificio es superior a los sacrificios antiguos. En los capítulos 11–13, presenta ejemplos de fe y exhorta a los creyentes a perseverar, vivir en santidad y mantener sus ojos puestos en Cristo.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Superioridad de Cristo (1:1–4:13)",
+      "descripcion": "Cristo presentado como revelación suprema de Dios, superior a los ángeles y a Moisés, junto a la advertencia de entrar en su reposo."
+    },
+    {
+      "url-img": "",
+      "seccion": "Cristo, sumo sacerdote (4:14–7:28)",
+      "descripcion": "Exposición del sacerdocio de Cristo según el orden eterno de Melquisedec, superior al sacerdocio levítico e imperfecto."
+    },
+    {
+      "url-img": "",
+      "seccion": "El nuevo pacto y el sacrificio de Cristo (8:1–10:39)",
+      "descripcion": "La excelencia del nuevo pacto, el santuario celestial y la eficacia del sacrificio definitivo de Cristo hecho una sola vez por todas."
+    },
+    {
+      "url-img": "",
+      "seccion": "La fe y la perseverancia (11:1–12:29)",
+      "descripcion": "Definición y testimonios de la fe de los patriarcas y profetas, el llamado a correr la carrera puestos los ojos en Jesús y la disciplina paternal de Dios."
+    },
+    {
+      "url-img": "",
+      "seccion": "Exhortaciones finales y bendición (13:1-25)",
+      "descripcion": "Deberes prácticos del amor fraterno, la obediencia pastoral, la inmutabilidad de Jesucristo, bendición final y saludos."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Puestos los ojos en Jesús, el autor y consumador de la fe, el cual por el gozo puesto delante de él sufrió la cruz, menospreciando el oprobio, y se sentó a la diestra del trono de Dios.",
+    "pasaje": "Hebreos 12:2"
+  }
+}

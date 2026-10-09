@@ -1,0 +1,60 @@
+{
+  "titulo": "CARTA A TITO",
+  "fuente": "Nuevo Testamento - Cartas Paulinas",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pablo.",
+    "destinatarios": "Tito, colaborador de Pablo.",
+    "fecha": "Aproximadamente entre 62 y 65 d.C.",
+    "lugar": "No se conoce con certeza.",
+    "estructura": "3 capítulos y 46 versículos.",
+    "ubicacion": "Decimoséptimo libro del Nuevo Testamento y duodécimo de las Cartas Paulinas (tercera de las Cartas Pastorales), después de 2 Timoteo y antes de Filemón."
+  },
+  "contexto_historico": "Tito había quedado en Creta para organizar las iglesias y establecer líderes. Pablo le proporciona instrucciones sobre el nombramiento de ancianos, la confrontación de falsas enseñanzas y la conducta cristiana.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Apóstol y autor."
+    },
+    {
+      "url-img": "",
+      "nombre": "Tito",
+      "descripcion": "Colaborador de Pablo encargado de organizar las iglesias de Creta."
+    },
+    {
+      "url-img": "",
+      "nombre": "Ancianos",
+      "descripcion": "Líderes que debían cumplir determinados requisitos de carácter."
+    },
+    {
+      "url-img": "",
+      "nombre": "Falsos maestros",
+      "descripcion": "Personas que enseñaban doctrinas contrarias a la sana enseñanza."
+    }
+  ],
+  "contenido": "El tema principal es la relación entre la sana doctrina, el liderazgo ordenado y una vida cristiana caracterizada por buenas obras.",
+  "sintesis": "En el capítulo 1, Pablo encarga a Tito establecer ancianos y enfrentar a los falsos maestros. En el capítulo 2, presenta instrucciones para diferentes grupos de creyentes y destaca que la gracia de Dios enseña a vivir de manera santa. En el capítulo 3, exhorta a practicar buenas obras, evitar conflictos innecesarios y mantener una conducta adecuada en la sociedad.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Saludo y establecimiento de líderes (1:1-16)",
+      "descripcion": "Saludo apostólico, requisitos para la ordenación de ancianos u obispos y el deber de refutar a los engañadores de la circuncisión."
+    },
+    {
+      "url-img": "",
+      "seccion": "Sana doctrina y conducta cristiana (2:1-15)",
+      "descripcion": "Enseñanzas para ancianos, jóvenes y siervos, resaltando que la gracia manifestada nos enseña a renunciar a la impiedad y vivir sobriamente."
+    },
+    {
+      "url-img": "",
+      "seccion": "Buenas obras y vida cristiana en sociedad (3:1-15)",
+      "descripcion": "Exhortación a la sumisión a las autoridades, recordatorio de la salvación por la misericordia divina, celo por las buenas obras, instrucciones personales y bendición final."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Porque la gracia de Dios se ha manifestado para salvación a todos los hombres, enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente.",
+    "pasaje": "Tito 2:11-12"
+  }
+}

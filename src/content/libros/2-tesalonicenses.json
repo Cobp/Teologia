@@ -1,0 +1,65 @@
+{
+  "titulo": "SEGUNDA CARTA A LOS TESALONICENSES",
+  "fuente": "Nuevo Testamento - Cartas Paulinas",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pablo, junto con Silvano y Timoteo.",
+    "destinatarios": "La iglesia de Tesalónica.",
+    "fecha": "Aproximadamente entre 50 y 52 d.C.",
+    "lugar": "Probablemente Corinto.",
+    "estructura": "3 capítulos y 47 versículos.",
+    "ubicacion": "Decimocuarto libro del Nuevo Testamento y noveno de las Cartas Paulinas, después de 1 Tesalonicenses y antes de 1 Timoteo."
+  },
+  "contexto_historico": "La iglesia de Tesalónica continuaba experimentando persecución y dificultades. Además, algunos creyentes tenían confusión respecto al día del Señor, mientras otros habían dejado de trabajar esperando el regreso de Cristo. Pablo escribe para corregir estas ideas y animar a los creyentes a mantenerse firmes.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Apóstol y autor."
+    },
+    {
+      "url-img": "",
+      "nombre": "Silvano",
+      "descripcion": "Colaborador de Pablo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Timoteo",
+      "descripcion": "Colaborador mencionado en el saludo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Cristo",
+      "descripcion": "Señor cuya segunda venida es esperada por la iglesia."
+    }
+  ],
+  "contenido": "El tema principal es la perseverancia en medio de la persecución, la correcta comprensión de la venida de Cristo y la necesidad de vivir responsablemente mientras se espera al Señor.",
+  "sintesis": "En el capítulo 1, Pablo anima a los creyentes perseguidos y habla del juicio justo de Dios. En el capítulo 2, explica acontecimientos relacionados con el día del Señor y exhorta a permanecer firmes. En el capítulo 3, corrige la conducta de quienes habían dejado de trabajar y exhorta a vivir responsablemente.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Saludo y acción de gracias (1:1-12)",
+      "descripcion": "Consuelo a la iglesia atribulada, destacando el juicio justo de Dios en la manifestación gloriosa de Jesucristo."
+    },
+    {
+      "url-img": "",
+      "seccion": "El día del Señor (2:1-17)",
+      "descripcion": "Aclaraciones proféticas sobre la apostasía previa, la manifestación del hombre de pecado y el llamado a mantenerse firmes en las enseñanzas recibidas."
+    },
+    {
+      "url-img": "",
+      "seccion": "Oración, trabajo y disciplina comunitaria (3:1-15)",
+      "descripcion": "Exhortación a la oración mutua, advertencia contra la ociosidad y mandamiento de trabajar con sosiego para ganarse el pan."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conclusión y bendición (3:16-18)",
+      "descripcion": "Deseo de paz continua, firma autógrafa de Pablo como señal de autenticidad y la gracia del Señor Jesús."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Y el mismo Señor de paz os dé siempre paz en toda manera. El Señor sea con todos vosotros.",
+    "pasaje": "2 Tesalonicenses 3:16"
+  }
+}

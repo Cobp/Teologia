@@ -1,0 +1,65 @@
+{
+  "titulo": "TERCERA CARTA DE SAN JUAN",
+  "fuente": "Nuevo Testamento - Cartas Generales",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Tradicionalmente atribuido al apóstol Juan, quien se identifica como “el anciano”.",
+    "destinatarios": "Gayo, creyente cristiano.",
+    "fecha": "Aproximadamente entre 90 y 100 d.C.",
+    "lugar": "Probablemente Éfeso o la región de Asia Menor.",
+    "estructura": "1 capítulo y 14 versículos.",
+    "ubicacion": "Vigésimo quinto libro del Nuevo Testamento y séptimo de las Cartas Generales, después de 2 Juan y antes de Judas."
+  },
+  "contexto_historico": "La carta aborda problemas relacionados con la hospitalidad y el liderazgo dentro de una comunidad cristiana. Gayo es elogiado por recibir y apoyar a los creyentes que trabajaban en la misión, mientras que Diótrefes es presentado como alguien que buscaba ocupar el primer lugar y rechazaba la autoridad del autor.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Gayo",
+      "descripcion": "Creyente elogiado por su fidelidad y hospitalidad."
+    },
+    {
+      "url-img": "",
+      "nombre": "Diótrefes",
+      "descripcion": "Persona que buscaba tener el primer lugar y rechazaba a determinados colaboradores."
+    },
+    {
+      "url-img": "",
+      "nombre": "Demetrio",
+      "descripcion": "Creyente que recibe un buen testimonio."
+    },
+    {
+      "url-img": "",
+      "nombre": "El anciano",
+      "descripcion": "Autor tradicionalmente identificado con Juan."
+    }
+  ],
+  "contenido": "El tema principal es la fidelidad, hospitalidad y servicio cristiano frente al comportamiento autoritario y conflictivo dentro de la comunidad.",
+  "sintesis": "Juan se alegra por la fidelidad de Gayo y reconoce su hospitalidad hacia los obreros cristianos. Contrasta esta conducta con la de Diótrefes, quien rechaza a los enviados y actúa de manera autoritaria. Finalmente, recomienda a Demetrio.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Saludo y elogio a Gayo (1-8)",
+      "descripcion": "Oración por la salud y prosperidad de Gayo, gozo por su caminar en la verdad y reconocimiento a su hospitalidad y apoyo hacia los hermanos misioneros itinerantes."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conducta de Diótrefes (9-10)",
+      "descripcion": "Denuncia de la actitud de Diótrefes, quien ama tener la primacía, parlotea con palabras malévolas, no recibe a los hermanos y expulsa de la iglesia a quienes quieren hacerlo."
+    },
+    {
+      "url-img": "",
+      "seccion": "Testimonio sobre Demetrio (11-12)",
+      "descripcion": "Exhortación a no imitar lo malo sino lo bueno, resaltando el buen testimonio de Demetrio por parte de todos y de la verdad misma."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conclusión (13-14)",
+      "descripcion": "Expresión del deseo de hablar personalmente en lugar de escribir con tinta y pluma, despido de paz y saludos finales a los amigos."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Amado, no imites lo malo, sino lo bueno. El que hace lo bueno es de Dios; pero el que hace lo malo, no ha visto a Dios.",
+    "pasaje": "3 Juan 1:11"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "titulo": "CARTA DE SAN JUDAS",
+  "fuente": "Nuevo Testamento - Cartas Generales",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "Judas, siervo de Jesucristo y hermano de Santiago; tradicionalmente relacionado con Judas, hermano del Señor.",
+    "destinatarios": "Creyentes cristianos llamados a defender la fe.",
+    "fecha": "Aproximadamente entre 65 y 90 d.C.",
+    "lugar": "Desconocido.",
+    "estructura": "1 capítulo y 25 versículos.",
+    "ubicacion": "Vigésimo sexto libro del Nuevo Testamento y octavo de las Cartas Generales, después de 3 Juan y antes de Apocalipsis."
+  },
+  "contexto_historico": "La comunidad cristiana enfrentaba la presencia de personas que habían introducido enseñanzas y conductas consideradas contrarias a la fe apostólica. Judas escribe para exhortar a los creyentes a contender por la fe y permanecer firmes frente al error.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Judas",
+      "descripcion": "Autor y siervo de Jesucristo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Santiago",
+      "descripcion": "Hermano de Judas y figura con la que el autor se identifica."
+    },
+    {
+      "url-img": "",
+      "nombre": "Jesucristo",
+      "descripcion": "Señor y fundamento de la fe cristiana."
+    },
+    {
+      "url-img": "",
+      "nombre": "Los falsos maestros",
+      "descripcion": "Personas que habían entrado en la comunidad y cuya conducta y enseñanza son criticadas."
+    },
+    {
+      "url-img": "",
+      "nombre": "Miguel, el arcángel",
+      "descripcion": "Mencionado en relación con una disputa sobre el cuerpo de Moisés."
+    }
+  ],
+  "contenido": "El tema principal es la defensa de la fe apostólica y la perseverancia de los creyentes frente a falsos maestros y conductas contrarias a la voluntad de Dios.",
+  "sintesis": "Judas comienza llamando a los creyentes a defender la fe recibida. Describe el juicio de Dios sobre quienes se rebelan contra Él y utiliza ejemplos del Antiguo Testamento. Posteriormente exhorta a los creyentes a edificarse en la fe, orar en el Espíritu Santo, permanecer en el amor de Dios y mostrar misericordia hacia quienes necesitan ayuda.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Saludo y propósito de la carta (1-4)",
+      "descripcion": "Llamado urgente a contender ardientemente por la fe dada una vez a los santos, advirtiendo sobre hombres impíos introducidos encubiertamente."
+    },
+    {
+      "url-img": "",
+      "seccion": "Juicio sobre los falsos maestros (5-16)",
+      "descripcion": "Recordatorio de los juicios históricos de Dios (Egipto, ángeles caídos, Sodoma y Gomorra) y caracterización de la impiedad, soberbia y codicia de los perturbadores."
+    },
+    {
+      "url-img": "",
+      "seccion": "Exhortación a perseverar en la fe (17-23)",
+      "descripcion": "Llamado a recordar las palabras de los apóstoles, edificarse sobre la santísima fe, orar en el Espíritu Santo y convencer o salvar con misericordia a los que dudan."
+    },
+    {
+      "url-img": "",
+      "seccion": "Doxología final (24-25)",
+      "descripcion": "Alabanza al único y sabio Dios, Salvador nuestro, quien es poderoso para guardarnos sin caída y presentarnos sin mancha delante de su gloria con gran alegría."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Amados, por la gran solicitud que tenía de escribiros acerca de nuestra común salvación, me ha sido necesario escribiros exhortándoos que contendáis ardientemente por la fe que ha sido una vez dada a los santos.",
+    "pasaje": "Judas 1:3"
+  }
+}

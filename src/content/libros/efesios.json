@@ -1,0 +1,60 @@
+{
+  "titulo": "CARTA A LOS EFESIOS",
+  "fuente": "Nuevo Testamento - Cartas Paulinas",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pablo.",
+    "destinatarios": "Creyentes de Éfeso y posiblemente otras iglesias de Asia Menor.",
+    "fecha": "Aproximadamente entre 60 y 62 d.C.",
+    "lugar": "Roma, durante el encarcelamiento de Pablo.",
+    "estructura": "6 capítulos y 155 versículos.",
+    "ubicacion": "Décimo libro del Nuevo Testamento y quinto de las Cartas Paulinas, después de Gálatas y antes de Filipenses."
+  },
+  "contexto_historico": "Éfeso era una importante ciudad comercial y religiosa de Asia Menor, famosa por el templo de Artemisa y diversas prácticas religiosas. Pablo desarrolló allí un ministerio significativo. La carta enfatiza la supremacía de Cristo, la unidad de la Iglesia, la nueva identidad del creyente y la guerra espiritual.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Apóstol de los gentiles y autor de la carta."
+    },
+    {
+      "url-img": "",
+      "nombre": "Tíquico",
+      "descripcion": "Colaborador y portador de la carta."
+    },
+    {
+      "url-img": "",
+      "nombre": "Cristo",
+      "descripcion": "Cabeza de la Iglesia y centro del plan de Dios."
+    }
+  ],
+  "contenido": "El tema principal es el plan eterno de Dios de unificar todas las cosas en Cristo y formar un solo cuerpo: la Iglesia.",
+  "sintesis": "En los capítulos 1–3, Pablo explica el propósito eterno de Dios, la salvación por gracia mediante la fe, la nueva vida y la reconciliación de judíos y gentiles. En los capítulos 4–6, enseña cómo vivir conforme a esa nueva identidad: unidad, santidad, amor, relaciones familiares y sociales, armadura de Dios y oración.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Introducción y saludo (1:1-2)",
+      "descripcion": "Saludo apostólico dirigido a los santos y fieles en Cristo Jesús."
+    },
+    {
+      "url-img": "",
+      "seccion": "Parte doctrinal (1:3–3:21)",
+      "descripcion": "Exposición de las bendiciones espirituales, la salvación por gracia mediante la fe, la reconciliación entre judíos y gentiles, y el misterio de la Iglesia."
+    },
+    {
+      "url-img": "",
+      "seccion": "Parte práctica (4:1–6:20)",
+      "descripcion": "Exhortaciones sobre la unidad, la nueva vida en Cristo, las relaciones en el hogar y en la sociedad, y la armadura espiritual."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conclusión (6:21-24)",
+      "descripcion": "Encomienda de Tíquico, deseos de paz, amor, fe y bendición final."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe.",
+    "pasaje": "Efesios 2:8-9"
+  }
+}

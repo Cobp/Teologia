@@ -1,0 +1,70 @@
+{
+  "titulo": "CARTA A LOS COLOSENSES",
+  "fuente": "Nuevo Testamento - Cartas Paulinas",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pablo.",
+    "destinatarios": "La iglesia de Colosas.",
+    "fecha": "Aproximadamente entre 60 y 62 d.C.",
+    "lugar": "Roma.",
+    "estructura": "4 capítulos y 95 versículos.",
+    "ubicacion": "Duodécimo libro del Nuevo Testamento y séptimo de las Cartas Paulinas, después de Filipenses y antes de 1 Tesalonicenses."
+  },
+  "contexto_historico": "Colosas estaba situada en Asia Menor. La iglesia enfrentaba enseñanzas que mezclaban elementos religiosos y filosóficos con la fe cristiana. Pablo responde destacando la supremacía y suficiencia de Cristo frente a cualquier otro poder, conocimiento o práctica religiosa.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Apóstol y autor."
+    },
+    {
+      "url-img": "",
+      "nombre": "Timoteo",
+      "descripcion": "Colaborador mencionado en el saludo."
+    },
+    {
+      "url-img": "",
+      "nombre": "Epafras",
+      "descripcion": "Colaborador relacionado con la fundación y cuidado de la iglesia de Colosas."
+    },
+    {
+      "url-img": "",
+      "nombre": "Onésimo",
+      "descripcion": "Esclavo convertido al cristianismo y relacionado con Filemón."
+    },
+    {
+      "url-img": "",
+      "nombre": "Cristo",
+      "descripcion": "Centro absoluto de la carta."
+    }
+  ],
+  "contenido": "El tema principal es la supremacía y suficiencia de Cristo, en quien habita la plenitud de Dios y mediante quien los creyentes reciben una nueva vida.",
+  "sintesis": "En los capítulos 1–2, Pablo presenta la grandeza de Cristo y advierte contra enseñanzas que podrían apartar a los creyentes de la suficiencia de Cristo. En los capítulos 3–4, explica las implicaciones prácticas de la nueva vida: abandonar el pecado, vivir en amor, mantener relaciones correctas y perseverar en la oración.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Introducción y acción de gracias (1:1-14)",
+      "descripcion": "Saludo apostólico, gratitud por la fe de los colosenses y oración por su crecimiento e inteligencia espiritual."
+    },
+    {
+      "url-img": "",
+      "seccion": "Supremacía de Cristo (1:15–2:23)",
+      "descripcion": "Exaltación del Hijo como creador y cabeza de la iglesia, y advertencias contra doctrinas engañosas y filosofías humanas."
+    },
+    {
+      "url-img": "",
+      "seccion": "Nueva vida en Cristo (3:1–4:6)",
+      "descripcion": "Exhortación a buscar las cosas de arriba, vestirse del nuevo hombre e instrucciones para el hogar, el trabajo y la oración."
+    },
+    {
+      "url-img": "",
+      "seccion": "Conclusión y saludos (4:7-18)",
+      "descripcion": "Encomienda de los mensajeros, saludos de los colaboradores de Pablo y bendición final escrita de su propia mano."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Porque en él habita corporalmente toda la plenitud de la Deidad, y vosotros estáis completos en él, que es la cabeza de todo principado y potestad.",
+    "pasaje": "Colosenses 2:9-10"
+  }
+}

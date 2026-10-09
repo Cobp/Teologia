@@ -91,7 +91,7 @@ const d = (entry as CollectionEntry<"libros"> | null)?.data;
                 <img
                   src={d.datos_bibliograficos["url-bg"]}
                   alt="Portada del libro"
-                  class="w-full h-52 md:h-80 rounded-4xl bg-amber-200"
+                  class="w-full h-52 md:h-80 rounded-4xl bg-amber-200 object-cover object-center"
                 />
                 {d.datos_bibliograficos.lugar && (
                   <p class="hidden md:block px-2.5 text-sm text-(--txt-secondary) absolute bottom-4 right-4 bg-(--bg-primary) p-1 rounded-xl">
@@ -149,7 +149,7 @@ const d = (entry as CollectionEntry<"libros"> | null)?.data;
                       <img
                         src={p["url-img"]}
                         alt={p.nombre}
-                        class="shrink-0 size-32 lg:size-42 bg-amber-200"
+                        class="shrink-0 size-32 lg:size-42 bg-amber-200 rounded-3xl border-none"
                       />
                     )}
                     <p>

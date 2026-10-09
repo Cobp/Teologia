@@ -1,14 +1,16 @@
-import { defineCollection } from 'astro:content';
-import { z } from 'astro/zod'
-import { glob } from 'astro/loaders';
+import { defineCollection } from "astro:content";
+import { z } from "astro/zod";
+import { glob } from "astro/loaders";
 
 const libros = defineCollection({
-  loader: glob({ pattern: '**/*.json', base: './src/content/libros' }),
+  loader: glob({ pattern: "**/*.json", base: "./src/content/libros" }),
   schema: z.object({
     titulo: z.string(),
     fuente: z.string().optional(),
     datos_bibliograficos: z
       .object({
+        "url-bg": z.string().optional(),
+        "url-autor": z.string().optional(),
         autor: z.string().optional(),
         destinatarios: z.string().optional(),
         fecha: z.string().optional(),
@@ -22,10 +24,10 @@ const libros = defineCollection({
     personajes: z
       .array(
         z.object({
-          'url-img': z.string().optional(),
+          "url-img": z.string().optional(),
           nombre: z.string(),
           descripcion: z.string(),
-        })
+        }),
       )
       .default([]),
     contenido: z.string().optional(),
@@ -33,10 +35,10 @@ const libros = defineCollection({
     bosquejo: z
       .array(
         z.object({
-          'url-img': z.string().optional(),
+          "url-img": z.string().optional(),
           seccion: z.string(),
           descripcion: z.string(),
-        })
+        }),
       )
       .default([]),
     versiculo_clave: z

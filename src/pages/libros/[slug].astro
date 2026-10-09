@@ -6,7 +6,7 @@ import Layout from "../../layouts/Layout.astro";
 export async function getStaticPaths() {
   const entries = await getCollection("libros");
   const porSlug = new Map(
-    entries.map((entry) => [entry.id.replace(/^\d+-/, ""), entry]),
+    entries.map((entry) => [entry.id.replace(/\.json$/, ""), entry]),
   );
 
   return [...librosPorSlug.entries()].map(([path, meta]) => {
@@ -22,201 +22,198 @@ export async function getStaticPaths() {
 const { meta, entry } = Astro.props;
 const d = (entry as CollectionEntry<"libros"> | null)?.data;
 const bib = d?.datos_bibliograficos ?? {};
-const etiquetas: [string, string | undefined][] = [
-  ["Autor", bib.autor],
-  ["Destinatarios", bib.destinatarios],
-  ["Fecha", bib.fecha],
-  ["Lugar", bib.lugar],
-  ["Estructura", bib.estructura],
-  ["Ubicación", bib.ubicacion],
-];
 ---
 
 <Layout>
-  <a href="/libros" class="volver">← Volver</a>
-
-  <header class="hero" style={`--c:${meta.color}`}>
-    <small>{meta.testamento} · {meta.seccion}</small>
-    <h1>{meta.nombre}</h1>
+  <header class="flex justify-between items-center gap-4 p-4">
+    <a
+      href="/libros"
+      class="p-2 text-(--txt-primary) bg-(--txt-tertiary) rounded-full flex items-center justify-center"
+    >
+      <i>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="1.25rem"
+          height="1.25rem"
+          viewBox="0 0 32 32"
+        >
+          <path d="M0 0h32v32H0z" fill="none"></path>
+          <path
+            fill="currentColor"
+            d="M11.369 6.225a1 1 0 0 1 1.406 1.406l-.068.076L9.414 11H19a7 7 0 0 1 .36 13.991L19 25h-9a1 1 0 0 1 0-2h9l.257-.007A5 5 0 0 0 19 13H9.414l3.293 3.293a1 1 0 0 1-1.414 1.414l-5-5a1 1 0 0 1 0-1.414l5-5z"
+          ></path>
+        </svg>
+      </i>
+    </a>
+    <button
+      type="button"
+      class="p-2 text-(--txt-primary) bg-(--txt-tertiary) rounded-full flex items-center justify-center"
+    >
+      <i>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="1.25rem"
+          height="1.25rem"
+          viewBox="0 0 16 16"
+        >
+          <path d="M0 0h16v16H0z" fill="none"></path>
+          <path
+            fill="currentColor"
+            d="M4 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1V9.5A1.5 1.5 0 0 1 5.5 8h5A1.5 1.5 0 0 1 12 9.5V13a1 1 0 0 0 1-1V5.621a1 1 0 0 0-.293-.707l-1.621-1.621A1 1 0 0 0 10.379 3H10v1.5A1.5 1.5 0 0 1 8.5 6h-2A1.5 1.5 0 0 1 5 4.5V3zm2 0v1.5a.5.5 0 0 0 .5.5h2a.5.5 0 0 0 .5-.5V3zm5 10V9.5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0-.5.5V13zM2 4a2 2 0 0 1 2-2h6.379a2 2 0 0 1 1.414.586l1.621 1.621A2 2 0 0 1 14 5.621V12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"
+          ></path>
+        </svg>
+      </i>
+    </button>
   </header>
 
-  {
-    !d ? (
-      <p class="aviso">
-        No se encontró el JSON para <code>{meta.slug}</code>. Revisa que el
-        archivo se llame <code>{meta.slug}.json</code>.
+  <div
+    class="max-w-3xl xl:max-w-4xl w-full mx-auto flex flex-col gap-4 p-4 lg:p-8 pt-0"
+  >
+    <div class="text-center mb-4">
+      <h1 class="text-2xl font-bold">{d?.titulo}</h1>
+      <p class="text-sm sm:text-base text-(--txt-secondary)">
+        {meta.testamento} · {meta.seccion}
       </p>
-    ) : (
-      <>
-        {d.versiculo_clave && (
-          <blockquote>
-            “{d.versiculo_clave.texto}”
-            <footer>— {d.versiculo_clave.pasaje}</footer>
-          </blockquote>
-        )}
+    </div>
 
-        <section class="card">
-          <h2>Datos bibliográficos</h2>
-          <dl>
-            {etiquetas
-              .filter(([, v]) => v)
-              .map(([k, v]) => (
-                <>
-                  <dt>{k}</dt>
-                  <dd>{v}</dd>
-                </>
-              ))}
-          </dl>
-        </section>
+    {
+      !d ? (
+        <p class="aviso">
+          No se encontró el JSON para <code>{meta.slug}</code>. Revisa que el
+          archivo se llame <code>{meta.slug}.json</code>.
+        </p>
+      ) : (
+        <>
+          {d.datos_bibliograficos && (
+            <div class="grid grid-cols-[300px_1fr] gap-4">
+              <div class="col-span-2 flex flex-col relative">
+                <img
+                  src={d.datos_bibliograficos["url-bg"]}
+                  alt="Portada del libro"
+                  class="w-full h-80 rounded-4xl bg-amber-200"
+                />
+                {d.datos_bibliograficos.lugar && (
+                  <p class="px-2.5 text-sm text-(--txt-secondary) absolute bottom-4 right-4 bg-(--bg-primary) p-1 rounded-xl">
+                    {d.datos_bibliograficos.lugar}
+                  </p>
+                )}
+              </div>
+              <div class="flex flex-col gap-2 items-center relative p-4">
+                <div class="h-24">
+                  <img
+                    src=""
+                    alt=""
+                    class="size-52 -translate-y-32 rounded-full border-8 border-(--bg-primary) bg-amber-200"
+                  />
+                </div>
+                <div class="text-center">
+                  <p class="text-xl font-semibold">
+                    {d.datos_bibliograficos.autor}
+                  </p>
+                  <p class="font-medium text-(--txt-secondary)">Autor</p>
+                </div>
+              </div>
+              <div class="p-4 flex flex-col gap-4 text-(--txt-secondary) font-medium">
+                <p>
+                  <span class="font-semibold text-(--txt-primary)">
+                    Destinatario:
+                  </span>{" "}
+                  {d.datos_bibliograficos.destinatarios}
+                </p>
+                <p>
+                  <span class="font-semibold text-(--txt-primary)">Fecha:</span>{" "}
+                  {d.datos_bibliograficos.fecha}
+                </p>
+                <p>{d.datos_bibliograficos.estructura}</p>
+              </div>
+            </div>
+          )}
+          <hr />
+          {d.contexto_historico && (
+            <section>
+              <h2 class="font-semibold md:text-xl pb-4">Contexto histórico</h2>
+              <p class="text-(--txt-secondary) text-sm sm:text-base">
+                {d.contexto_historico}
+              </p>
+            </section>
+          )}
+          <hr />
+          {d.personajes.length > 0 && (
+            <section>
+              <h2 class="font-semibold md:text-xl mb-4">Personajes</h2>
+              <ul class="flex flex-col gap-4">
+                {d.personajes.map((p) => (
+                  <li class="flex gap-4">
+                    {p["url-img"] && (
+                      <img
+                        src={p["url-img"]}
+                        alt={p.nombre}
+                        class="size-32 lg:size-42 bg-amber-200"
+                      />
+                    )}
+                    <p>
+                      <span class="font-semibold text-(--txt-primary)">
+                        {p.nombre}:{" "}
+                      </span>
+                      <span class="text-(--txt-secondary)">
+                        {p.descripcion}
+                      </span>
+                    </p>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+          <hr />
+          {d.contenido && (
+            <section>
+              <h2 class="font-semibold md:text-xl mb-4">Contenido</h2>
+              <p class="text-(--txt-secondary)">{d.contenido}</p>
+            </section>
+          )}
+          <hr />
+          {d.sintesis && (
+            <section>
+              <h2 class="font-semibold md:text-xl mb-4">Síntesis</h2>
+              <p class="text-(--txt-secondary)">{d.sintesis}</p>
+            </section>
+          )}
+          <hr />
 
-        {d.contexto_historico && (
-          <section class="card">
-            <h2>Contexto histórico</h2>
-            <p>{d.contexto_historico}</p>
-          </section>
-        )}
+          {d.bosquejo.length > 0 && (
+            <section>
+              <h2 class="text-center font-semibold md:text-xl mb-8">Bosquejo</h2>
+              <ol class="flex flex-col text-center gap-12 text-(--txt-secondary) text-sm sm:text-base">
+                {d.bosquejo.map((b) => (
+                  <li>
+                    <span class="font-semibold text-(--txt-primary)">{b.seccion}</span>
+                    <p>{b.descripcion}</p>
+                  </li>
+                ))}
+              </ol>
+            </section>
+          )}
+        </>
+      )
+    }
+  </div>
 
-        {d.personajes.length > 0 && (
-          <section class="card">
-            <h2>Personajes</h2>
-            <ul>
-              {d.personajes.map((p) => (
-                <li>
-                  {p["url-img"] && (
-                    <img src={p["url-img"]} alt={p.nombre} width="40" />
-                  )}
-                  <strong>{p.nombre}:</strong> {p.descripcion}
-                </li>
-              ))}
-            </ul>
-          </section>
-        )}
-
-        {d.contenido && (
-          <section class="card">
-            <h2>Contenido</h2>
-            <p>{d.contenido}</p>
-          </section>
-        )}
-
-        {d.sintesis && (
-          <section class="card">
-            <h2>Síntesis</h2>
-            <p>{d.sintesis}</p>
-          </section>
-        )}
-
-        {d.bosquejo.length > 0 && (
-          <section class="card">
-            <h2>Bosquejo</h2>
-            <ol>
-              {d.bosquejo.map((b) => (
-                <li>
-                  <strong>{b.seccion}</strong>
-                  <p>{b.descripcion}</p>
-                </li>
-              ))}
-            </ol>
-          </section>
-        )}
-      </>
-    )
-  }
+  <blockquote
+    class="text-(--txt-tertiary) bg-(--red-color) p-8 py-24 mt-16 text-sm sm:text-base"
+  >
+    <div
+      class="max-w-3xl xl:max-w-4xl w-full mx-auto flex flex-col gap-4 p-4 lg:p-8 pt-0"
+    >
+      “{d?.versiculo_clave?.texto}”<footer>
+        — {d?.versiculo_clave?.pasaje}
+      </footer>
+    </div>
+  </blockquote>
 </Layout>
 
-<style is:global>
-  body {
-    margin: 0;
-    background: #fbf1bd;
-    font-family:
-      system-ui,
-      -apple-system,
-      sans-serif;
-    color: #2b2b2b;
-    line-height: 1.6;
-  }
-</style>
-
 <style>
-  main {
-    max-width: 430px;
-    margin: 0 auto;
-    padding: 1.25rem 1rem 2rem;
-  }
-  .volver {
-    color: #12304a;
-    text-decoration: none;
-    font-size: 0.85rem;
-  }
-  .hero {
-    background: var(--c);
-    color: #fff;
-    border-radius: 12px;
-    padding: 1rem;
-    margin: 0.75rem 0 1rem;
-  }
-  .hero small {
-    opacity: 0.85;
-    font-size: 0.7rem;
-  }
-  .hero h1 {
-    margin: 0.25rem 0 0;
-    font-size: 1.4rem;
-    text-transform: uppercase;
-  }
-  .card {
-    background: #fffbe4;
-    border-radius: 12px;
-    padding: 0.9rem;
-    margin-bottom: 0.9rem;
-  }
-  h2 {
-    margin: 0 0 0.5rem;
-    font-size: 0.95rem;
-    color: #12304a;
-  }
-  p,
-  li,
-  dd {
-    font-size: 0.85rem;
-  }
-  dt {
-    font-weight: 700;
-    font-size: 0.75rem;
-    color: #12304a;
-    margin-top: 0.5rem;
-  }
-  dd {
-    margin: 0;
-  }
-  ul,
-  ol {
-    padding-left: 1.1rem;
-    margin: 0;
-  }
-  li {
-    margin-bottom: 0.5rem;
-  }
-  li p {
-    margin: 0.2rem 0 0;
-  }
-  blockquote {
-    margin: 0 0 1rem;
-    padding: 0.8rem 1rem;
-    background: #fffbe4;
-    border-left: 4px solid #12304a;
-    border-radius: 8px;
-    font-style: italic;
-    font-size: 0.85rem;
-  }
-  blockquote footer {
-    margin-top: 0.4rem;
-    font-style: normal;
-    font-weight: 700;
-  }
-  .aviso {
-    background: #fff;
-    padding: 1rem;
-    border-radius: 8px;
+  hr {
+    opacity: 0.1;
+    margin: 2rem 0;
   }
 </style>

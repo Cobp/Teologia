@@ -6,20 +6,15 @@
   --txt-primary: #002f49;
   --txt-secondary: #758981;
   --txt-tertiary: #fff8d0;
-  --red-color: #A42527;
+  --red-color: #a42527;
   --orange-color: #f67f00;
-}
-
-* {
-  box-sizing: border-box;
-  font-family: "Outfit Variable", sans-serif;
 }
 
 body {
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
   background-color: var(--bg-primary);
   color: var(--txt-primary);
-  width: 100vw;
-  height: 100vh;
+  font-family: "Outfit Variable", sans-serif;
 }

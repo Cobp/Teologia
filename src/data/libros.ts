@@ -52,7 +52,7 @@ export const testamentos: Testamento[] = [
         [56, "tito", "Tito"],
         [57, "filemon", "Filemón"],
       ]),
-      seccion("Cartas Generales", "#c9501e", [
+      seccion("Cartas Generales Y Profético", "#c9501e", [
         [58, "hebreos", "Hebreos"],
         [59, "santiago", "Santiago"],
         [60, "1-pedro", "1 Pedro"],
@@ -121,7 +121,6 @@ export const testamentos: Testamento[] = [
   },
 ];
 
-// Búsqueda rápida por slug (para la vista de detalle)
 export const librosPorSlug = new Map(
   testamentos.flatMap((t) =>
     t.secciones.flatMap((s) =>

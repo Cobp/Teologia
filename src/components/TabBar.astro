@@ -1,37 +1,55 @@
 ---
 import { testamentos } from "../data/libros";
+
+const showPanel = [
+  "[&:has(#tab-0:checked)_#panel-0]:flex",
+  "[&:has(#tab-1:checked)_#panel-1]:flex",
+];
 ---
 
-<div data-tabs>
-  <div class="segmented" role="tablist">
+<div class:list={["flex flex-col gap-4", showPanel]}>
+  <div
+    class="flex w-fit h-9 p-0.75 rounded-full bg-(--bg-secondary) text-[15px]"
+    role="tablist"
+  >
     {
       testamentos.map((t, i) => (
-        <button
+        <label
           role="tab"
-          type="button"
-          class:list={["tab", { active: i === 0 }]}
-          aria-selected={i === 0}
-          data-target={`panel-${i}`}
+          class="relative flex items-center justify-center w-40 rounded-full cursor-pointer text-sm font-medium text-center text-(--txt-secondary) transition-all has-checked:bg-(--bg-primary) has-checked:text-(--txt-primary)"
         >
+          <input
+            type="radio"
+            name="testamento"
+            id={`tab-${i}`}
+            class="sr-only"
+            checked={i === 0}
+          />
           {t.nombre}
-        </button>
+        </label>
       ))
     }
   </div>
 
   {
     testamentos.map((t, i) => (
-      <section id={`panel-${i}`} role="tabpanel" class="panel" hidden={i !== 0}>
+      <section
+        id={`panel-${i}`}
+        role="tabpanel"
+        class="hidden flex-col gap-4"
+      >
         {t.secciones.map((s) => (
-          <article class="card">
-            <h2 class="seccion">{s.nombre}</h2>
-            <ul class="flex flex-wrap libros">
+          <article class="grid grid-cols-[1fr_1.2fr] items-start gap-3 rounded-xl bg-[#fffbe4] p-3.5">
+            <h2 class="pl-2 font-semibold text-(--txt-primary)">
+              {s.nombre}
+            </h2>
+            <ul class="flex flex-col">
               {s.libros.map((l) => (
-                <li>
+                <li class="flex flex-col">
                   <a
                     href={`/libros/${l.slug}`}
                     style={`--c:${l.color}`}
-                    class={`block items-center uppercase  h-8 rounded-md bg-(--c) border border-black/15`}
+                    class="block h-8 rounded-md border border-black/15 bg-(--c) px-1.5 py-1.5 text-center text-[0.6rem] uppercase tracking-[0.03em] text-white no-underline transition hover:brightness-110 active:scale-[0.98]"
                   >
                     {l.nombre}
                   </a>
@@ -44,100 +62,3 @@ import { testamentos } from "../data/libros";
     ))
   }
 </div>
-
-<script>
-  document.querySelectorAll<HTMLElement>("[data-tabs]").forEach((root) => {
-    const tabs = root.querySelectorAll<HTMLButtonElement>(".tab");
-    const panels = root.querySelectorAll<HTMLElement>(".panel");
-
-    tabs.forEach((tab) => {
-      tab.addEventListener("click", () => {
-        tabs.forEach((t) => {
-          const active = t === tab;
-          t.classList.toggle("active", active);
-          t.setAttribute("aria-selected", String(active));
-        });
-        panels.forEach((p) => (p.hidden = p.id !== tab.dataset.target));
-      });
-    });
-  });
-</script>
-
-<style>
-  .segmented {
-    display: flex;
-    padding: 3px;
-    border-radius: 999px;
-    background: #e9e2b4;
-    margin-bottom: 1rem;
-  }
-  .tab {
-    flex: 1;
-    border: 0;
-    background: transparent;
-    border-radius: 999px;
-    padding: 0.4rem 0.5rem;
-    font-size: 0.7rem;
-    font-weight: 600;
-    color: #8a8566;
-    cursor: pointer;
-    transition:
-      background 0.15s,
-      color 0.15s;
-  }
-  .tab.active {
-    background: #fff;
-    color: #12304a;
-    box-shadow: 0 1px 3px #0002;
-  }
-
-  .panel {
-    display: flex;
-    flex-direction: column;
-    gap: 0.9rem;
-  }
-  .card {
-    display: grid;
-    grid-template-columns: 1fr 1.2fr;
-    gap: 0.75rem;
-    align-items: start;
-    background: #fffbe4;
-    border-radius: 12px;
-    padding: 0.9rem;
-  }
-  .seccion {
-    margin: 0;
-    font-size: 0.8rem;
-    font-weight: 700;
-    line-height: 1.25;
-    color: #12304a;
-  }
-
-  .libros {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-  }
-  .libros a {
-    display: block;
-    text-align: center;
-    text-transform: uppercase;
-    text-decoration: none;
-    font-size: 0.6rem;
-    letter-spacing: 0.03em;
-    padding: 0.4rem 0.3rem;
-    color: #fff;
-    background: var(--c);
-    transition:
-      filter 0.15s,
-      transform 0.1s;
-  }
-  .libros a:hover {
-    filter: brightness(1.12);
-  }
-  .libros a:active {
-    transform: scale(0.98);
-  }
-</style>

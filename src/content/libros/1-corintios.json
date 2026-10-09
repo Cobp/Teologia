@@ -1,0 +1,75 @@
+{
+  "titulo": "PRIMERA CARTA A LOS CORINTIOS",
+  "fuente": "Nuevo Testamento - Cartas Paulinas",
+  "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
+    "autor": "El apóstol Pablo.",
+    "destinatarios": "La iglesia de Corinto.",
+    "fecha": "Aproximadamente entre 53 y 55 d.C.",
+    "lugar": "Éfeso.",
+    "estructura": "16 capítulos y 437 versículos.",
+    "ubicacion": "Séptimo libro del Nuevo Testamento y segundo de las Cartas Paulinas, después de Romanos y antes de 2 Corintios."
+  },
+  "contexto_historico": "Corinto era una ciudad comercial importante y culturalmente diversa. La iglesia presentaba problemas de divisiones internas, inmoralidad sexual, conflictos legales, diferencias sobre alimentos, matrimonio, dones espirituales y la resurrección. Pablo escribe para corregir estos problemas y enseñar cómo el evangelio debe transformar la vida comunitaria.",
+  "personajes": [
+    {
+      "url-img": "",
+      "nombre": "Pablo",
+      "descripcion": "Fundador de la iglesia de Corinto y autor de la carta."
+    },
+    {
+      "url-img": "",
+      "nombre": "Apolo",
+      "descripcion": "Predicador relacionado con la iglesia de Corinto y cuya figura generó divisiones entre algunos creyentes."
+    },
+    {
+      "url-img": "",
+      "nombre": "Cefas (Pedro)",
+      "descripcion": "Apóstol mencionado entre los grupos que algunos creyentes utilizaban para identificarse."
+    },
+    {
+      "url-img": "",
+      "nombre": "Cristo",
+      "descripcion": "Centro de la unidad y fundamento de la iglesia."
+    }
+  ],
+  "contenido": "El tema principal es la necesidad de que la iglesia viva en unidad y santidad, poniendo a Cristo y al amor por encima de las divisiones, los intereses personales y los dones espirituales.",
+  "sintesis": "En los capítulos 1–4, Pablo confronta las divisiones de la iglesia y enseña que Cristo y la cruz son el fundamento de la comunidad cristiana. En los capítulos 5–7, trata problemas de inmoralidad, conflictos legales y cuestiones relacionadas con el matrimonio y la soltería. En los capítulos 8–11, aborda la libertad cristiana, los alimentos sacrificados a ídolos y la conducta apropiada en la comunidad. En los capítulos 12–14, explica los dones espirituales y destaca el amor como principio fundamental de la vida comunitaria. En el capítulo 15, desarrolla la doctrina de la resurrección.",
+  "bosquejo": [
+    {
+      "url-img": "",
+      "seccion": "Divisiones y sabiduría cristiana (1:1–4:21)",
+      "descripcion": "Pablo confronta las facciones internas y explica la sabiduría de la cruz frente a la sabiduría del mundo."
+    },
+    {
+      "url-img": "",
+      "seccion": "Disciplina y pureza de la iglesia (5:1–6:20)",
+      "descripcion": "Trata casos de inmoralidad, litigios entre creyentes y la santidad del cuerpo."
+    },
+    {
+      "url-img": "",
+      "seccion": "Matrimonio y libertad cristiana (7:1–11:1)",
+      "descripcion": "Instrucciones sobre matrimonio, soltería y el uso responsable de la libertad frente a sacrificios a ídolos."
+    },
+    {
+      "url-img": "",
+      "seccion": "Orden en la adoración comunitaria (11:2–14:40)",
+      "descripcion": "Conducta en el culto, la Cena del Señor, diversidad de dones espirituales y la preeminencia del amor."
+    },
+    {
+      "url-img": "",
+      "seccion": "La resurrección (15:1-58)",
+      "descripcion": "Defensa de la resurrección de Cristo, la victoria sobre la muerte y la esperanza futura."
+    },
+    {
+      "url-img": "",
+      "seccion": "Colecta, planes y conclusión (16:1-24)",
+      "descripcion": "Instrucciones para la ofrenda, planes de viaje, recomendaciones finales y saludos."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece; no hace nada indebido, no busca lo suyo, no se irrita, no guarda rencor; no se goza de la injusticia, mas se goza de la verdad.",
+    "pasaje": "1 Corintios 13:4-6"
+  }
+}

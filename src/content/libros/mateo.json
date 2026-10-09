@@ -2,8 +2,8 @@
   "titulo": "EVANGELIO SEGÚN SAN MATEO",
   "fuente": "Nuevo Testamento - Los Evangelios",
   "datos_bibliograficos": {
-    "url-bg": "/img/CEFA.webp",
-    "url-autor": "/img/CEFA.webp",
+    "url-bg": "/img/PortadaMateo.webp",
+    "url-autor": "/img/MATEO.webp",
     "autor": "Tradicionalmente atribuido a Mateo, uno de los doce apóstoles y antiguo recaudador de impuestos.",
     "destinatarios": "Principalmente una comunidad cristiana con fuerte trasfondo judío.",
     "fecha": "Aproximadamente entre 70 y 90 d.C.",
@@ -14,27 +14,27 @@
   "contexto_historico": "El Evangelio de Mateo surge en un contexto en el que las primeras comunidades cristianas se encuentran definiendo su identidad y relación con el judaísmo. Mateo presenta a Jesús como el Mesías prometido, en continuidad con las Escrituras de Israel. El Evangelio contiene numerosas referencias al Antiguo Testamento y muestra a Jesús como el cumplimiento de las promesas de Dios. La destrucción de Jerusalén y del templo en el año 70 d.C. constituye un contexto histórico relevante para comprender las tensiones entre las comunidades cristianas y ciertos sectores del judaísmo.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesús",
       "descripcion": "Mesías, Hijo de Dios, Rey y maestro que anuncia el Reino de los cielos."
     },
     {
-      "url-img": "",
+      "url-img": "/img/MATEO.webp",
       "nombre": "Mateo",
       "descripcion": "Tradicionalmente identificado como el autor y uno de los doce discípulos de Jesús."
     },
     {
-      "url-img": "",
+      "url-img": "/img/PEDRO.webp",
       "nombre": "Pedro",
       "descripcion": "Uno de los discípulos principales y figura destacada dentro de la narración."
     },
     {
-      "url-img": "",
+      "url-img": "/img/FariseosEscribas.webp",
       "nombre": "Fariseos y escribas",
       "descripcion": "Representantes religiosos que frecuentemente entran en conflicto con Jesús."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LosDiscipulos.webp",
       "nombre": "Los discípulos",
       "descripcion": "Grupo llamado por Jesús para aprender, anunciar el Reino y continuar su misión."
     }

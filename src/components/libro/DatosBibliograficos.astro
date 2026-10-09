@@ -1,0 +1,57 @@
+---
+interface Props {
+  datos: {
+    "url-bg": string;
+    "url-autor": string;
+    autor: string;
+    destinatarios: string;
+    fecha: string;
+    estructura: string;
+    lugar?: string;
+  };
+}
+const { datos } = Astro.props;
+---
+
+<div class="grid grid-cols-[300px_1fr] gap-4">
+  <div class="relative col-span-2 flex flex-col">
+    <img
+      src={datos["url-bg"]}
+      alt="Portada del libro"
+      class="h-52 w-full rounded-4xl bg-amber-200 object-cover object-center md:h-80"
+    />
+    {
+      datos.lugar && (
+        <p class="absolute right-4 bottom-4 hidden rounded-xl bg-(--bg-primary) p-1 px-2.5 text-sm text-(--txt-secondary) md:block">
+          {datos.lugar}
+        </p>
+      )
+    }
+  </div>
+
+  <div class="relative col-span-2 flex flex-col items-center p-4 md:col-span-1 md:gap-2">
+    <div class="h-24">
+      <img
+        src={datos["url-autor"]}
+        alt=""
+        class="size-48 -translate-y-32 rounded-full border-8 border-(--bg-primary) bg-amber-200 md:size-52"
+      />
+    </div>
+    <div class="text-center">
+      <p class="text-xl font-semibold uppercase">{datos.autor}</p>
+      <p class="font-medium text-(--txt-secondary)">Autor</p>
+    </div>
+  </div>
+
+  <div class="col-span-2 flex flex-col gap-4 p-4 font-medium text-(--txt-secondary) md:col-span-1">
+    <p>
+      <span class="font-semibold text-(--txt-primary)">Destinatario:</span>
+      {datos.destinatarios}
+    </p>
+    <p>
+      <span class="font-semibold text-(--txt-primary)">Fecha:</span>
+      {datos.fecha}
+    </p>
+    <p>{datos.estructura}</p>
+  </div>
+</div>

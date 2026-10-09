@@ -2,8 +2,8 @@
   "titulo": "APOCALIPSIS",
   "fuente": "Nuevo Testamento - Libros Proféticos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaApocalipsis.webp",
+    "url-autor": "/img/JUANANCIANO.webp",
     "autor": "Juan, siervo de Jesucristo; tradicionalmente identificado con el apóstol Juan.",
     "destinatarios": "Las siete iglesias de Asia: Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea.",
     "fecha": "Aproximadamente entre 90 y 96 d.C.",
@@ -14,42 +14,42 @@
   "contexto_historico": "Apocalipsis fue escrito para comunidades cristianas que vivían bajo diferentes formas de presión y oposición dentro del mundo romano. El libro utiliza un lenguaje altamente simbólico y apocalíptico para comunicar un mensaje sobre el conflicto entre Dios y las fuerzas que se oponen a Él. Las visiones presentan a Cristo como vencedor y muestran que, a pesar del sufrimiento presente, Dios llevará la historia hacia su cumplimiento final.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JUANANCIANO.webp",
       "nombre": "Juan",
       "descripcion": "Siervo de Jesucristo y autor del libro."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Cordero, Rey y vencedor que ocupa el centro de las visiones."
     },
     {
-      "url-img": "",
+      "url-img": "/img/DIOS.webp",
       "nombre": "Dios",
       "descripcion": "Soberano sobre la historia y juez final."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ANGELES.webp",
       "nombre": "Los siete ángeles",
       "descripcion": "Mensajeros relacionados con las siete iglesias."
     },
     {
-      "url-img": "",
+      "url-img": "/img/IGLESIAS.webp",
       "nombre": "Las siete iglesias",
       "descripcion": "Comunidades cristianas destinatarias de los mensajes iniciales."
     },
     {
-      "url-img": "",
+      "url-img": "/img/BESTIA.webp",
       "nombre": "La bestia",
       "descripcion": "Símbolo de poderes que se oponen a Dios."
     },
     {
-      "url-img": "",
+      "url-img": "/img/BABILONIA.webp",
       "nombre": "Babilonia",
       "descripcion": "Símbolo de un sistema de oposición a Dios y de corrupción."
     },
     {
-      "url-img": "",
+      "url-img": "/img/CORDERO.webp",
       "nombre": "El Cordero",
       "descripcion": "Imagen central de Cristo sacrificado y victorioso."
     }

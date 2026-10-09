@@ -2,8 +2,8 @@
   "titulo": "SEGUNDA CARTA DE SAN PEDRO",
   "fuente": "Nuevo Testamento - Cartas Generales",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaPedro.webp",
+    "url-autor": "/img/PEDRO.webp",
     "autor": "Tradicionalmente atribuida al apóstol Pedro.",
     "destinatarios": "Comunidades cristianas que habían recibido la enseñanza apostólica.",
     "fecha": "Aproximadamente entre 65 y 100 d.C.; existe debate académico sobre su fecha y autoría.",
@@ -14,22 +14,22 @@
   "contexto_historico": "La carta busca fortalecer a los creyentes frente a falsos maestros y personas que cuestionaban la promesa de la segunda venida de Cristo. El autor recuerda las enseñanzas apostólicas y exhorta a los creyentes a crecer en conocimiento, virtud y perseverancia.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PEDRO.webp",
       "nombre": "Pedro",
       "descripcion": "Presentado como apóstol y siervo de Jesucristo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Señor cuya venida es esperada."
     },
     {
-      "url-img": "",
+      "url-img": "/img/FalsosMaestros.webp",
       "nombre": "Falsos maestros",
       "descripcion": "Personas que introducen enseñanzas destructivas y cuestionan la venida del Señor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/NoeLot.webp",
       "nombre": "Noé y Lot",
       "descripcion": "Ejemplos de personas preservadas por Dios en medio del juicio."
     }

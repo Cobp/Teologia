@@ -2,8 +2,8 @@
   "titulo": "SEGUNDA CARTA DE SAN JUAN",
   "fuente": "Nuevo Testamento - Cartas Generales",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJuan.webp",
+    "url-autor": "/img/JUANANCIANO.webp",
     "autor": "Tradicionalmente atribuido al apóstol Juan, quien se identifica como “el anciano”.",
     "destinatarios": "“La señora elegida y sus hijos”, interpretación que puede referirse a una mujer y su familia o simbólicamente a una iglesia y sus miembros.",
     "fecha": "Aproximadamente entre 90 y 100 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "La comunidad cristiana enfrentaba la presencia de personas que enseñaban doctrinas contrarias a la confesión apostólica acerca de Jesucristo. Juan exhorta a mantener unidos el amor y la verdad, y advierte sobre recibir a quienes propagaban esas enseñanzas.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JUANANCIANO.webp",
       "nombre": "El anciano",
       "descripcion": "Autor que tradicionalmente se identifica con Juan."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LaMujerElegida.webp",
       "nombre": "La señora elegida",
       "descripcion": "Destinataria de la carta, posiblemente una mujer o una representación simbólica de una iglesia."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SusHijos.webp",
       "nombre": "Sus hijos",
       "descripcion": "Los miembros de la familia o comunidad destinataria."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LosEnganadores.webp",
       "nombre": "Los engañadores",
       "descripcion": "Personas que negaban la enseñanza acerca de Jesucristo."
     }

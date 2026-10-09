@@ -2,8 +2,8 @@
   "titulo": "SEGUNDA CARTA A LOS TESALONICENSES",
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaTesalonisenses.webp",
+    "url-autor": "/img/PERSONAJES.webp",
     "autor": "El apóstol Pablo, junto con Silvano y Timoteo.",
     "destinatarios": "La iglesia de Tesalónica.",
     "fecha": "Aproximadamente entre 50 y 52 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "La iglesia de Tesalónica continuaba experimentando persecución y dificultades. Además, algunos creyentes tenían confusión respecto al día del Señor, mientras otros habían dejado de trabajar esperando el regreso de Cristo. Pablo escribe para corregir estas ideas y animar a los creyentes a mantenerse firmes.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol y autor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SILVANO.webp",
       "nombre": "Silvano",
       "descripcion": "Colaborador de Pablo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TIMOTEO.webp",
       "nombre": "Timoteo",
       "descripcion": "Colaborador mencionado en el saludo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Cristo",
       "descripcion": "Señor cuya segunda venida es esperada por la iglesia."
     }

@@ -2,8 +2,8 @@
   "titulo": "EVANGELIO SEGÚN SAN JUAN",
   "fuente": "Nuevo Testamento - Los Evangelios",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJuan.webp",
+    "url-autor": "/img/JUAN.webp",
     "autor": "Tradicionalmente atribuido al apóstol Juan.",
     "destinatarios": "Comunidades cristianas, probablemente de un contexto diverso y con conocimiento de las tradiciones judías.",
     "fecha": "Aproximadamente entre 90 y 100 d.C.",
@@ -14,32 +14,32 @@
   "contexto_historico": "El Evangelio de Juan presenta una perspectiva teológica particular sobre la identidad de Jesús. A diferencia de los Evangelios sinópticos, desarrolla ampliamente temas como la preexistencia de Cristo, la Palabra, la vida eterna, la luz, la verdad y la relación entre Jesús y el Padre. Juan utiliza signos y discursos para conducir al lector hacia la fe en Jesús como el Cristo y el Hijo de Dios.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesús",
       "descripcion": "Hijo de Dios, Verbo encarnado y fuente de vida eterna."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JuanBautista.webp",
       "nombre": "Juan el Bautista",
       "descripcion": "Testigo que señala a Jesús como aquel que viene de Dios."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LosDiscipulos.webp",
       "nombre": "Los discípulos",
       "descripcion": "Seguidores de Jesús que reciben progresivamente una comprensión más profunda de su identidad."
     },
     {
-      "url-img": "",
+      "url-img": "/img/PEDRO.webp",
       "nombre": "Pedro",
       "descripcion": "Discípulo destacado dentro de la narración."
     },
     {
-      "url-img": "",
+      "url-img": "/img/MARIAMAGDALENA.webp",
       "nombre": "María Magdalena",
       "descripcion": "Primera testigo de la resurrección según el relato de Juan."
     },
     {
-      "url-img": "",
+      "url-img": "/img/NICODEMO.webp",
       "nombre": "Nicodemo",
       "descripcion": "Fariseo que se acerca a Jesús y dialoga con él sobre el nuevo nacimiento."
     }

@@ -2,8 +2,8 @@
   "titulo": "PRIMERA CARTA A LOS CORINTIOS",
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaCorintios.webp",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "La iglesia de Corinto.",
     "fecha": "Aproximadamente entre 53 y 55 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Corinto era una ciudad comercial importante y culturalmente diversa. La iglesia presentaba problemas de divisiones internas, inmoralidad sexual, conflictos legales, diferencias sobre alimentos, matrimonio, dones espirituales y la resurrección. Pablo escribe para corregir estos problemas y enseñar cómo el evangelio debe transformar la vida comunitaria.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Fundador de la iglesia de Corinto y autor de la carta."
     },
     {
-      "url-img": "",
+      "url-img": "/img/APOLO.webp",
       "nombre": "Apolo",
       "descripcion": "Predicador relacionado con la iglesia de Corinto y cuya figura generó divisiones entre algunos creyentes."
     },
     {
-      "url-img": "",
+      "url-img": "/img/CEFA.webp",
       "nombre": "Cefas (Pedro)",
       "descripcion": "Apóstol mencionado entre los grupos que algunos creyentes utilizaban para identificarse."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Cristo",
       "descripcion": "Centro de la unidad y fundamento de la iglesia."
     }

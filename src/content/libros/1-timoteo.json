@@ -2,8 +2,8 @@
   "titulo": "PRIMERA CARTA A TIMOTEO",
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaTimoteo.webp",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "Timoteo, colaborador de Pablo y líder de la iglesia en Éfeso.",
     "fecha": "Aproximadamente entre 62 y 65 d.C.",
@@ -14,12 +14,12 @@
   "contexto_historico": "Timoteo estaba encargado de una comunidad cristiana que enfrentaba falsas enseñanzas y problemas de organización. Pablo le proporciona instrucciones sobre doctrina, liderazgo, culto, comportamiento y cuidado de diferentes grupos dentro de la iglesia.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol y autor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TIMOTEO .webp",
       "nombre": "Timoteo",
       "descripcion": "Colaborador de Pablo y destinatario de la carta."
     },

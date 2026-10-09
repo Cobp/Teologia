@@ -2,8 +2,8 @@
   "titulo": "EVANGELIO SEGÚN SAN LUCAS",
   "fuente": "Nuevo Testamento - Los Evangelios",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaMarcos.webp",
+    "url-autor": "/img/LUCAS.webp",
     "autor": "Tradicionalmente atribuido a Lucas, médico y colaborador del apóstol Pablo.",
     "destinatarios": "Teófilo y, en un sentido más amplio, comunidades cristianas de origen diverso, incluyendo gentiles.",
     "fecha": "Aproximadamente entre 70 y 90 d.C.",
@@ -14,12 +14,12 @@
   "contexto_historico": "Lucas escribe una narración ordenada de la vida y ministerio de Jesús. Su Evangelio presta especial atención a personas que se encontraban en situaciones de vulnerabilidad o marginación social, como pobres, mujeres, samaritanos, pecadores y enfermos. El Evangelio también enfatiza la obra del Espíritu Santo, la oración, la misericordia, la salvación y la universalidad del mensaje de Jesús.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesús",
       "descripcion": "Salvador, Señor y centro del plan de salvación de Dios."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LUCAS.webp",
       "nombre": "Lucas",
       "descripcion": "Tradicionalmente identificado como autor y colaborador de Pablo."
     },
@@ -29,17 +29,17 @@
       "descripcion": "Persona a quien Lucas dirige su obra."
     },
     {
-      "url-img": "",
+      "url-img": "/img/MARIA.webp",
       "nombre": "María",
       "descripcion": "Madre de Jesús, especialmente destacada en los relatos de la infancia."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LosDiscipulos.webp",
       "nombre": "Los discípulos",
       "descripcion": "Acompañan a Jesús y reciben formación para continuar su misión."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LosPobres.webp",
       "nombre": "Los pobres, enfermos y marginados",
       "descripcion": "Personas a quienes Jesús extiende especialmente su misericordia."
     }

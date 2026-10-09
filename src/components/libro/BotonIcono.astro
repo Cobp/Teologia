@@ -1,0 +1,19 @@
+---
+interface Props {
+  label: string;
+  id?: string;
+  onclick?: string;
+}
+const { label, id, onclick } = Astro.props;
+---
+
+<button
+  type="button"
+  id={id}
+  aria-label={label}
+  title={label}
+  onclick={onclick}
+  class="flex cursor-pointer items-center justify-center rounded-full bg-(--txt-tertiary) p-2 text-(--txt-primary) transition md:opacity-50 hover:opacity-100"
+>
+  <i><slot /></i>
+</button>

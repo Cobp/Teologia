@@ -2,8 +2,8 @@
   "titulo": "SEGUNDA CARTA A TIMOTEO",
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaTimoteo.webp",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "Timoteo.",
     "fecha": "Aproximadamente entre 64 y 67 d.C.",
@@ -14,27 +14,27 @@
   "contexto_historico": "Pablo se encuentra encarcelado y consciente de que su muerte puede estar próxima. Desde esta situación anima a Timoteo a permanecer fiel al evangelio, soportar las dificultades y transmitir la enseñanza recibida a otros creyentes.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol y autor, encarcelado por causa del evangelio."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TIMOTEO .webp",
       "nombre": "Timoteo",
       "descripcion": "Joven colaborador y destinatario de la carta."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ONESIFORO.webp",
       "nombre": "Onesíforo",
       "descripcion": "Creyente que ayudó y animó a Pablo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/DEMAS.webp",
       "nombre": "Demas",
       "descripcion": "Colaborador que abandonó a Pablo por amar el mundo presente."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Señor y fundamento del evangelio que Pablo encarga preservar."
     }

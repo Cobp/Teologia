@@ -1,0 +1,14 @@
+---
+interface Props {
+  titulo: string;
+  centrado?: boolean;
+}
+const { titulo, centrado = false } = Astro.props;
+---
+
+<section class="py-8">
+  <h2 class:list={["font-semibold md:text-xl", centrado ? "mb-8 text-center" : "mb-4"]}>
+    {titulo}
+  </h2>
+  <slot />
+</section>

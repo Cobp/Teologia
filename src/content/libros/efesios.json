@@ -3,7 +3,7 @@
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaEfesios.webp",
-    "url-autor": "",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "Creyentes de Éfeso y posiblemente otras iglesias de Asia Menor.",
     "fecha": "Aproximadamente entre 60 y 62 d.C.",
@@ -14,17 +14,17 @@
   "contexto_historico": "Éfeso era una importante ciudad comercial y religiosa de Asia Menor, famosa por el templo de Artemisa y diversas prácticas religiosas. Pablo desarrolló allí un ministerio significativo. La carta enfatiza la supremacía de Cristo, la unidad de la Iglesia, la nueva identidad del creyente y la guerra espiritual.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol de los gentiles y autor de la carta."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TITICO.webp",
       "nombre": "Tíquico",
       "descripcion": "Colaborador y portador de la carta."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Cristo",
       "descripcion": "Cabeza de la Iglesia y centro del plan de Dios."
     }

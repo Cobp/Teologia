@@ -3,7 +3,7 @@
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaColsenses.webp",
-    "url-autor": "",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "La iglesia de Colosas.",
     "fecha": "Aproximadamente entre 60 y 62 d.C.",
@@ -14,27 +14,27 @@
   "contexto_historico": "Colosas estaba situada en Asia Menor. La iglesia enfrentaba enseñanzas que mezclaban elementos religiosos y filosóficos con la fe cristiana. Pablo responde destacando la supremacía y suficiencia de Cristo frente a cualquier otro poder, conocimiento o práctica religiosa.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol y autor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TIMOTEO .webp",
       "nombre": "Timoteo",
       "descripcion": "Colaborador mencionado en el saludo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/EPAFRAS.webp",
       "nombre": "Epafras",
       "descripcion": "Colaborador relacionado con la fundación y cuidado de la iglesia de Colosas."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ONESIMO.webp",
       "nombre": "Onésimo",
       "descripcion": "Esclavo convertido al cristianismo y relacionado con Filemón."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Cristo",
       "descripcion": "Centro absoluto de la carta."
     }

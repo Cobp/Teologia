@@ -3,7 +3,7 @@
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaTito.webp",
-    "url-autor": "",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "Tito, colaborador de Pablo.",
     "fecha": "Aproximadamente entre 62 y 65 d.C.",
@@ -14,12 +14,12 @@
   "contexto_historico": "Tito había quedado en Creta para organizar las iglesias y establecer líderes. Pablo le proporciona instrucciones sobre el nombramiento de ancianos, la confrontación de falsas enseñanzas y la conducta cristiana.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol y autor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TITO.webp",
       "nombre": "Tito",
       "descripcion": "Colaborador de Pablo encargado de organizar las iglesias de Creta."
     },

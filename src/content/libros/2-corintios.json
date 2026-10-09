@@ -3,7 +3,7 @@
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaCorintios.webp",
-    "url-autor": "",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "La iglesia de Corinto y los creyentes de Acaya.",
     "fecha": "Aproximadamente entre 55 y 56 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Después de dificultades entre Pablo y algunos miembros de la iglesia de Corinto, Pablo escribe para explicar su ministerio y defender su autoridad apostólica. La carta refleja temas de sufrimiento, reconciliación, generosidad, debilidad humana y poder de Dios.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol que defiende la autenticidad de su ministerio."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TIMOTEO .webp",
       "nombre": "Timoteo",
       "descripcion": "Colaborador de Pablo y mencionado en el saludo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TITO.webp",
       "nombre": "Tito",
       "descripcion": "Colaborador que participó en la relación entre Pablo y la iglesia de Corinto."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Cristo",
       "descripcion": "Modelo del ministerio sacrificial y fundamento de la reconciliación."
     }

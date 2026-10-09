@@ -3,7 +3,7 @@
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaTesalonisenses.webp",
-    "url-autor": "",
+    "url-autor": "/img/PERSONAJES.webp",
     "autor": "El apóstol Pablo, junto con Silvano y Timoteo.",
     "destinatarios": "La iglesia de Tesalónica.",
     "fecha": "Aproximadamente entre 49 y 51 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Pablo había predicado en Tesalónica, pero tuvo que abandonar la ciudad debido a la oposición. La joven iglesia continuó creciendo a pesar de las dificultades. La carta busca animar a los creyentes a permanecer firmes y aclarar dudas relacionadas con los creyentes que habían muerto y con la venida del Señor.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol y autor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SILVANO.webp",
       "nombre": "Silvano (Silas)",
       "descripcion": "Colaborador de Pablo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TIMOTEO .webp",
       "nombre": "Timoteo",
       "descripcion": "Colaborador enviado para conocer la situación de los tesalonicenses."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Señor cuya venida constituye una esperanza central de la carta."
     }

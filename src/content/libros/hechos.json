@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE HECHOS",
   "fuente": "Nuevo Testamento - Historia de la Iglesia",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaHechos.webp",
+    "url-autor": "/img/Lucas-IA.webp",
     "autor": "Lucas, compañero del apóstol Pablo.",
     "destinatarios": "Teófilo y la comunidad cristiana.",
     "fecha": "Aproximadamente entre 60 y 85 d.C. (fecha debatida).",
@@ -14,12 +14,12 @@
   "contexto_historico": "Hechos narra el nacimiento y crecimiento de la iglesia después de la ascensión de Jesús, y la expansión del evangelio mediante el Espíritu Santo, a pesar de las persecuciones.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PEDRO.webp",
       "nombre": "Pedro",
       "descripcion": "Apóstol que predica el evangelio y participa en la expansión de la iglesia."
     },
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol que realiza viajes misioneros y anuncia a Cristo a judíos y gentiles."
     }

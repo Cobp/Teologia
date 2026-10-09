@@ -1,5 +1,7 @@
 ---
 import Marker from "../assets/marker.svg";
+import avatar1 from "../assets/avatar1.webp";
+import avatar2 from "../assets/avatar2.webp";
 ---
 
 <div class="flex w-full h-full justify-center gap-4 mt-20 p-6">
@@ -21,18 +23,19 @@ import Marker from "../assets/marker.svg";
       Explorar Libros
     </a>
 
-    <!-- Avatares agregados -->
-    <div class="flex items-center space-x-3 mt-2">
-      <img 
-        src="/avatar1.jpg" 
-        alt="Avatar 1" 
-        class="w-12 h-12 rounded-full border-2 border-[var(--red-color)] object-cover shadow-sm"
-      />
-      <img 
-        src="/avatar2.jpg" 
-        alt="Avatar 2" 
-        class="w-12 h-12 rounded-full border-2 border-[var(--red-color)] object-cover shadow-sm"
-      />
-    </div>
+    
+   
+<div class="flex items-end -space-x-40 mt-4">
+  <img 
+    src={avatar1.src} 
+    alt="Avatar 1" 
+    class="h-65 w-auto object-contain"
+  />
+  <img 
+    src={avatar2.src} 
+    alt="Avatar 2" 
+    class="h-80 w-auto object-contain"
+  />
+</div>
   </div>
 </div>

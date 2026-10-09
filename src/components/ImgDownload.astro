@@ -13,17 +13,28 @@ const { data, meta } = Astro.props;
 const bibliografia = data.datos_bibliograficos;
 const imageStyle = (url?: string) =>
   url ? `background-image: url("${url}")` : undefined;
-const personajes = data.personajes.slice(0, 2);
-const bosquejo = data.bosquejo.slice(0, 4);
-const [primeraSintesis, segundaSintesis] = (data.sintesis ?? "").split(
-  /(?=En los capítulos \d+[-–])/i,
-);
+const personajes = data.personajes;
+const bosquejo = data.bosquejo;
+const coloresBosquejo = [
+  "#e8f1f5",
+  "#f5eedf",
+  "#e8f2e8",
+  "#eee8f4",
+  "#f5e8e5",
+  "#e8eef5",
+];
+const sintesisPartes = (data.sintesis ?? "")
+  .split(
+    /(?=En los capítulos\s+\d+(?:\s*(?:[-–—]|al)\s*\d+)?)/i,
+  )
+  .map((parte) => parte.trim())
+  .filter(Boolean);
 ---
 
 <main
   id="img-download"
   data-book-title={data.titulo}
-  class="relative mx-auto w-[1000px] space-y-4 bg-(--bg-primary) p-5 pb-28 text-(--txt-primary)"
+  class="relative mx-auto w-[1000px] space-y-4 bg-(--bg-primary) p-8 text-(--txt-primary)"
 >
   <div
     class="absolute top-0 left-0 w-full h-120 bg-cover bg-top mask-b-from-20% mask-b-to-80% pointer-events-none"
@@ -50,7 +61,7 @@ const [primeraSintesis, segundaSintesis] = (data.sintesis ?? "").split(
   >
     <div class="">
       <h2
-        class="mb-4 inline-block rounded bg-azul text-lg font-bold text-(--txt-primary)"
+        class="mb-4 inline-block rounded text-lg font-bold text-(--txt-primary)"
       >
         A. Datos bibliográficos
       </h2>
@@ -79,10 +90,10 @@ const [primeraSintesis, segundaSintesis] = (data.sintesis ?? "").split(
     </div>
   </section>
 
-  <div class="grid grid-cols-3 gap-4">
-    <section class="rounded-2xl border-2 border-marco bg-papel p-4">
+  <div class="grid grid-cols-[0.8fr_1.2fr] gap-4">
+    <section class="row-start-1 rounded-2xl bg-(--txt-tertiary) p-6">
       <h2
-        class="mb-3 inline-block rounded bg-verde px-4 py-1 font-bold text-white"
+        class="mb-4 inline-block rounded text-lg font-bold text-(--txt-primary)"
       >
         B. Contexto histórico
       </h2>
@@ -91,21 +102,23 @@ const [primeraSintesis, segundaSintesis] = (data.sintesis ?? "").split(
       </p>
     </section>
 
-    <section class="rounded-2xl border-2 border-marco bg-papel p-4">
+    <section
+      class="col-start-2 row-span-2 row-start-1 rounded-2xl bg-(--txt-tertiary) p-8"
+    >
       <h2
-        class="mb-3 inline-block rounded bg-morado px-4 py-1 font-bold text-white"
+        class="mb-4 inline-block rounded text-lg font-bold text-(--txt-primary)"
       >
         C. Personajes
       </h2>
-      <div class="space-y-3">
+      <div class="flex flex-wrap justify-center gap-4">
         {
           personajes.map((personaje) => (
-            <div class="flex items-center gap-3 border-b border-marco/50 pb-3">
+            <div class="flex flex-col items-center w-[31%] min-w-0 gap-3 rounded-xl p-4">
               <div
                 class="h-16 w-16 shrink-0 rounded-full bg-amber-200 bg-contain bg-center bg-no-repeat"
                 style={imageStyle(personaje["url-img"])}
               />
-              <p class="text-sm">
+              <p class="min-w-0 text-center text-sm leading-relaxed">
                 <b>{personaje.nombre}:</b> {personaje.descripcion}
               </p>
             </div>
@@ -114,9 +127,11 @@ const [primeraSintesis, segundaSintesis] = (data.sintesis ?? "").split(
       </div>
     </section>
 
-    <section class="rounded-2xl border-2 border-marco bg-papel p-4">
+    <section
+      class="col-start-1 row-start-2 rounded-2xl bg-(--txt-tertiary) p-8"
+    >
       <h2
-        class="mb-3 inline-block rounded bg-teal px-4 py-1 font-bold text-white"
+        class="mb-4 inline-block rounded text-lg font-bold text-(--txt-primary)"
       >
         D. Contenido
       </h2>
@@ -126,62 +141,79 @@ const [primeraSintesis, segundaSintesis] = (data.sintesis ?? "").split(
     </section>
   </div>
 
-  <section class="rounded-2xl border-2 border-marco bg-papel p-4">
+  <section class="rounded-2xl bg-(--txt-tertiary) p-8">
     <h2
-      class="mb-3 inline-block rounded bg-rojo px-4 py-1 font-bold text-white"
+      class="mb-4 inline-block rounded text-lg font-bold text-(--txt-primary)"
     >
       E. Síntesis
     </h2>
-    <div class="grid grid-cols-2 gap-4">
-      <p class="text-sm leading-relaxed">
-        {primeraSintesis || data.sintesis || "No especificada."}
-      </p>
-      <p class="text-sm leading-relaxed">
-        {segundaSintesis || "Consulta el contenido completo del libro."}
-      </p>
+    <div class="grid grid-cols-2 gap-8">
+      {!sintesisPartes.length && (
+        <p class="col-span-2 text-sm leading-relaxed">No especificada.</p>
+      )}
+      {
+        sintesisPartes.map((parte) => {
+          const rango = parte.match(
+            /En los capítulos\s+\d+(?:\s*(?:[-–—]|al)\s*\d+)?/i,
+          );
+          const indiceRango = rango ? parte.indexOf(rango[0]) : -1;
+
+          return (
+            <p class="text-sm leading-relaxed">
+              {rango && indiceRango >= 0 ? (
+                <>
+                  {parte.slice(0, indiceRango)}
+                  <strong class="font-extrabold">
+                    {rango[0]}
+                  </strong>
+                  {parte.slice(indiceRango + rango[0].length)}
+                </>
+              ) : (
+                parte
+              )}
+            </p>
+          );
+        })
+      }
     </div>
   </section>
 
-  <section class="rounded-2xl border-2 border-marco bg-papel p-4">
+  <section class="rounded-2xl bg-(--txt-tertiary) p-8">
     <h2
-      class="mb-3 inline-block rounded bg-azul px-4 py-1 font-bold text-white"
+      class="mb-4 inline-block rounded text-lg font-bold text-(--txt-primary)"
     >
       F. Bosquejo
     </h2>
-    <div class="grid grid-cols-4 gap-3">
+    <div class="flex flex-wrap justify-center gap-3">
       {
         bosquejo.map((parte, index) => (
-          <article class="flex flex-col rounded-xl bg-sky-100 p-3 text-center">
+          <article
+            class="flex w-[31%] flex-col rounded-xl p-4 text-center"
+            style={`background-color: ${coloresBosquejo[index % coloresBosquejo.length]}`}
+          >
             <h3 class="font-bold text-azul">
               {index + 1}. {parte.seccion}
             </h3>
             <p class="my-2 text-sm">{parte.descripcion}</p>
-            <div
-              class="mt-auto h-16 bg-contain bg-bottom bg-no-repeat"
-              style={imageStyle(parte["url-img"])}
-            />
           </article>
         ))
       }
     </div>
   </section>
+  <section class="flex gap-4">
+    <div class="rounded-2xl bg-(--txt-tertiary) p-8">
+      «{data.versiculo_clave?.texto}»{" "}
+      <b class="not-italic">{data.versiculo_clave?.pasaje}</b>
+    </div>
 
-  {
-    data.versiculo_clave && (
-      <footer class="rounded-full border-2 border-marco bg-amber-100 px-6 py-3 text-center text-sm italic">
-        «{data.versiculo_clave.texto}»{" "}
-        <b class="not-italic">{data.versiculo_clave.pasaje}</b>
-      </footer>
-    )
-  }
-
-  <div class="absolute bottom-5 right-5 rounded-lg bg-white p-2 shadow-md">
-    <img
-      id="book-qr"
-      width="112"
-      height="112"
-      alt={`Código QR para abrir ${data.titulo}`}
-      class="block size-28"
-    />
-  </div>
+    <div class="min-w-[128px] rounded-lg bg-white p-2 shadow-md">
+      <img
+        id="book-qr"
+        width="112"
+        height="112"
+        alt={`Código QR para abrir ${data.titulo}`}
+        class="block size-28"
+      />
+    </div>
+  </section>
 </main>

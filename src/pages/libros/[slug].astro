@@ -27,13 +27,12 @@ const d = (entry as CollectionEntry<"libros"> | null)?.data;
 ---
 
 <script>
-  // @ts-expect-error qrcode@1.x does not include TypeScript declarations.
   import QRCode from "qrcode";
-  import { toPng } from "html-to-image";
+  import { toCanvas } from "html-to-image";
 
-  const boton = document.querySelector<HTMLButtonElement>("#download-book");
-  const imagen = document.querySelector<HTMLElement>("#img-download");
-  const qr = document.querySelector<HTMLImageElement>("#book-qr");
+  const boton = document.querySelector("#download-book");
+  const imagen = document.querySelector("#img-download");
+  const qr = document.querySelector("#book-qr");
 
   async function descargarLibro() {
     if (!boton || !imagen || !qr) {
@@ -52,13 +51,36 @@ const d = (entry as CollectionEntry<"libros"> | null)?.data;
       });
       await qr.decode();
 
-      const dataUrl = await toPng(imagen, { cacheBust: true, pixelRatio: 2 });
+      await document.fonts.ready;
+      const bounds = imagen.getBoundingClientRect();
+      const width = Math.ceil(Math.max(imagen.scrollWidth, bounds.width));
+      const height = Math.ceil(Math.max(imagen.scrollHeight, bounds.height));
+      const canvas = await toCanvas(imagen, {
+        cacheBust: true,
+        width,
+        height,
+        pixelRatio: 1,
+        style: {
+          width: `${width}px`,
+          height: `${height}px`,
+        },
+      });
       const titulo = imagen.dataset.bookTitle ?? "libro";
+      const blob = await new Promise((resolve, reject) => {
+        canvas.toBlob((resultado) => {
+          if (resultado) {
+            resolve(resultado);
+          } else {
+            reject(new Error("No se pudo convertir la captura en una imagen."));
+          }
+        }, "image/png");
+      });
 
       const link = document.createElement("a");
       link.download = `${titulo.toLowerCase().replace(/[^a-z0-9]+/gi, "-")}.png`;
-      link.href = dataUrl;
+      link.href = URL.createObjectURL(blob);
       link.click();
+      URL.revokeObjectURL(link.href);
     } catch (error) {
       console.error("No se pudo guardar la imagen del libro.", error);
     } finally {
@@ -133,15 +155,25 @@ const d = (entry as CollectionEntry<"libros"> | null)?.data;
 
           {d.personajes?.length > 0 && (
             <Seccion titulo="Personajes">
-              <ul class="flex flex-col gap-4">
+              <ul class="flex flex-wrap gap-8">
                 {d.personajes.map((p) => (
-                  <li class="flex gap-4">
-                    {p["url-img"] && (
+                  <li class="flex items-center text-center min-w-0 flex-1 basis-64 flex-col gap-4">
+                    {p["url-img"] ? (
                       <img
                         src={p["url-img"]}
                         alt={p.nombre}
-                        class="size-32 shrink-0 rounded-3xl bg-amber-200 lg:size-42"
+                        class="size-32 shrink-0 rounded-3xl bg-(--txt-tertiary) object-cover"
                       />
+                    ) : (
+                      <div
+                        class="flex size-32 shrink-0 items-center justify-center rounded-3xl bg-(--txt-tertiary)"
+                        aria-label={`Sin imagen de ${p.nombre}`}
+                      >
+                        <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="size-16">
+                          <path d="M0 0h24v24H0z" fill="none" />
+                          <path fill="currentColor" d="M12 2a5 5 0 1 0 0 10a5 5 0 1 0 0-10M4 22h16c.55 0 1-.45 1-1v-1c0-3.86-3.14-7-7-7h-4c-3.86 0-7 3.14-7 7v1c0 .55.45 1 1 1" />
+                        </svg>
+                      </div>
                     )}
                     <p>
                       <span class="font-semibold text-(--txt-primary)">{p.nombre}: </span>
@@ -182,10 +214,9 @@ const d = (entry as CollectionEntry<"libros"> | null)?.data;
     }
   </main>
 
-  <!-- fixed top-0 -left-[10000px] -->
   {
     d && (
-      <div class="" aria-hidden="true">
+      <div class="absolute -left-[10000px] top-0" aria-hidden="true">
         <ImgDownload data={d} meta={meta} />
       </div>
     )

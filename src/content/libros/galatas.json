@@ -2,8 +2,8 @@
   "titulo": "CARTA A LOS GÁLATAS",
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaGalatas.webp",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "Las iglesias de Galacia.",
     "fecha": "Aproximadamente entre 48 y 55 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Algunas personas estaban enseñando a los creyentes gentiles que debían adoptar prácticas de la Ley de Moisés, especialmente la circuncisión, para pertenecer plenamente al pueblo de Dios. Pablo responde defendiendo el evangelio de la gracia y afirmando que la justificación se recibe mediante la fe en Cristo.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol y defensor del evangelio de la gracia."
     },
     {
-      "url-img": "",
+      "url-img": "/img/CEFA.webp",
       "nombre": "Pedro (Cefas)",
       "descripcion": "Mencionado en relación con el conflicto sobre la convivencia entre judíos y gentiles."
     },
     {
-      "url-img": "",
+      "url-img": "/img/BERNABE.webp",
       "nombre": "Bernabé",
       "descripcion": "Colaborador de Pablo mencionado en el conflicto de Antioquía."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Cristo",
       "descripcion": "Aquel mediante quien se recibe la justificación y libertad."
     }

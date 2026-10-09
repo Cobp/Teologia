@@ -2,8 +2,8 @@
   "titulo": "PRIMERA CARTA DE SAN PEDRO",
   "fuente": "Nuevo Testamento - Cartas Generales",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaPedro.webp",
+    "url-autor": "/img/PEDRO.webp",
     "autor": "El apóstol Pedro.",
     "destinatarios": "Cristianos de varias regiones de Asia Menor: Ponto, Galacia, Capadocia, Asia y Bitinia.",
     "fecha": "Aproximadamente entre 60 y 64 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Los destinatarios eran comunidades cristianas que experimentaban oposición y sufrimiento debido a su fe. Pedro escribe para fortalecer su identidad como pueblo de Dios y animarlos a vivir de manera santa aun en medio de las dificultades. La carta utiliza imágenes del Antiguo Testamento para describir a los creyentes como pueblo escogido, nación santa y pueblo adquirido por Dios.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PEDRO.webp",
       "nombre": "Pedro",
       "descripcion": "Apóstol de Jesucristo y autor de la carta."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Salvador, ejemplo de sufrimiento y fundamento de la esperanza cristiana."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SILVANO.webp",
       "nombre": "Silvano",
       "descripcion": "Mencionado como colaborador relacionado con el envío de la carta."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LosCreyentes.webp",
       "nombre": "Los creyentes",
       "descripcion": "Presentados como extranjeros y peregrinos en el mundo."
     }

@@ -2,8 +2,8 @@
   "titulo": "CARTA A LOS ROMANOS",
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaRomanos.webp",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "La iglesia de Roma, formada por creyentes judíos y gentiles.",
     "fecha": "Aproximadamente entre 56 y 58 d.C.",
@@ -14,27 +14,32 @@
   "contexto_historico": "La iglesia de Roma estaba compuesta por creyentes de diferentes antecedentes culturales y religiosos. Existían tensiones relacionadas con la Ley de Moisés, la circuncisión y la relación entre judíos y gentiles. Pablo escribe mientras se prepara para viajar a Jerusalén y posteriormente desea continuar su misión hacia España. La carta presenta de manera sistemática el evangelio y explica la justicia de Dios, la salvación por la fe y la nueva vida en Cristo.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol de Jesucristo y autor de la carta."
     },
     {
-      "url-img": "",
+      "url-img": "/img/FEBE.webp",
       "nombre": "Febe",
       "descripcion": "Diaconisa de la iglesia de Cencrea, recomendada por Pablo a la iglesia de Roma."
     },
     {
-      "url-img": "",
-      "nombre": "Priscila y Aquila",
+      "url-img": "/img/AQUILA.webp",
+      "nombre": "Aquila",
       "descripcion": "Colaboradores de Pablo y miembros de la comunidad cristiana de Roma."
     },
     {
-      "url-img": "",
+      "url-img": "/img/PRISCILIANO.webp",
+      "nombre": "Prisciliano",
+      "descripcion": "Colaboradores de Pablo y miembros de la comunidad cristiana de Roma."
+    },
+    {
+      "url-img": "/img/LUCAS.webp",
       "nombre": "Adán",
       "descripcion": "Figura utilizada por Pablo para explicar la entrada del pecado y la relación entre Adán y Cristo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Centro del mensaje de salvación y manifestación de la justicia de Dios."
     }

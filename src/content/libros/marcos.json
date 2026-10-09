@@ -3,7 +3,7 @@
   "fuente": "Nuevo Testamento - Los Evangelios",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaMarcos.webp",
-    "url-autor": "",
+    "url-autor": "/img/MARCOS.webp",
     "autor": "Tradicionalmente atribuido a Juan Marcos, colaborador de Pedro y Pablo.",
     "destinatarios": "Probablemente cristianos de origen gentil, tradicionalmente relacionados con Roma.",
     "fecha": "Aproximadamente entre 65 y 70 d.C.",
@@ -14,27 +14,27 @@
   "contexto_historico": "Marcos presenta a Jesús en un contexto de conflicto, oposición y sufrimiento. La narración avanza rápidamente desde el comienzo del ministerio de Jesús hasta su muerte y resurrección. El contexto de persecución y sufrimiento de los primeros cristianos ayuda a comprender el énfasis de Marcos en el discipulado, el servicio, el sufrimiento y la perseverancia. Jesús aparece como el Hijo de Dios que realiza su misión mediante el servicio y entrega su vida.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesús",
       "descripcion": "Hijo de Dios y Mesías que proclama el Reino y sirve a los demás."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JuanBautista.webp",
       "nombre": "Juan el Bautista",
       "descripcion": "Precursor que prepara el camino para Jesús."
     },
     {
-      "url-img": "",
+      "url-img": "/img/PEDRO.webp",
       "nombre": "Pedro",
       "descripcion": "Discípulo destacado y miembro del círculo más cercano de Jesús."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LosDiscipulos.webp",
       "nombre": "Los doce discípulos",
       "descripcion": "Acompañan a Jesús y son formados para continuar su misión."
     },
     {
-      "url-img": "",
+      "url-img": "/img/Autoridades.webp",
       "nombre": "Las autoridades religiosas",
       "descripcion": "Se oponen progresivamente a Jesús."
     }

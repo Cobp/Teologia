@@ -2,8 +2,8 @@
   "titulo": "CARTA A FILEMÓN",
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaFilemon.webp",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "Filemón y la iglesia que se reunía en su casa.",
     "fecha": "Aproximadamente entre 60 y 62 d.C.",
@@ -14,27 +14,27 @@
   "contexto_historico": "Filemón era un creyente cristiano relacionado con la iglesia de Colosas. Onésimo, quien estaba vinculado a Filemón como esclavo, había llegado hasta Pablo. Pablo escribe para solicitar que Filemón reciba nuevamente a Onésimo, no simplemente bajo la relación social existente, sino como hermano en Cristo.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol, autor y mediador de la petición."
     },
     {
-      "url-img": "",
+      "url-img": "/img/FILEMON.webp",
       "nombre": "Filemón",
       "descripcion": "Creyente cristiano a quien Pablo dirige la carta."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ONESIMO.webp",
       "nombre": "Onésimo",
       "descripcion": "Persona relacionada con Filemón que se convirtió al cristianismo mediante el ministerio de Pablo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/APIA.webp",
       "nombre": "Apia",
       "descripcion": "Mencionada en el saludo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ARQUIPO.webp",
       "nombre": "Arquipo",
       "descripcion": "Colaborador cristiano mencionado junto a Filemón."
     }

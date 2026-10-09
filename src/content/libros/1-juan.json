@@ -3,7 +3,7 @@
   "fuente": "Nuevo Testamento - Cartas Generales",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaJuan.webp",
-    "url-autor": "",
+    "url-autor": "/img/JUAN.webp",
     "autor": "Tradicionalmente atribuido al apóstol Juan.",
     "destinatarios": "Comunidades cristianas de Asia Menor, probablemente relacionadas con las iglesias de la tradición joánica.",
     "fecha": "Aproximadamente entre 90 y 100 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Las comunidades enfrentaban conflictos relacionados con enseñanzas que negaban aspectos fundamentales acerca de Jesucristo. La carta busca fortalecer la seguridad de los creyentes y establecer criterios para distinguir la verdad del error. Juan enfatiza la relación entre fe, obediencia, amor y verdad.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Hijo de Dios, vida eterna y fundamento de la comunión cristiana."
     },
     {
-      "url-img": "",
+      "url-img": "/img/DIOS.webp",
       "nombre": "Dios Padre",
       "descripcion": "Fuente de luz, amor y vida."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LosCreyentes.webp",
       "nombre": "Los creyentes",
       "descripcion": "Personas llamadas a vivir en comunión, obediencia y amor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/Anticristo.webp",
       "nombre": "Los anticristos",
       "descripcion": "Término utilizado para aquellos que se oponen a la enseñanza acerca de Cristo."
     }

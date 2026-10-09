@@ -3,7 +3,7 @@
   "fuente": "Nuevo Testamento - Cartas Generales",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaJuan.webp",
-    "url-autor": "",
+    "url-autor": "/img/JUANANCIANO.webp",
     "autor": "Tradicionalmente atribuido al apóstol Juan, quien se identifica como “el anciano”.",
     "destinatarios": "Gayo, creyente cristiano.",
     "fecha": "Aproximadamente entre 90 y 100 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "La carta aborda problemas relacionados con la hospitalidad y el liderazgo dentro de una comunidad cristiana. Gayo es elogiado por recibir y apoyar a los creyentes que trabajaban en la misión, mientras que Diótrefes es presentado como alguien que buscaba ocupar el primer lugar y rechazaba la autoridad del autor.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/GAYO.webp",
       "nombre": "Gayo",
       "descripcion": "Creyente elogiado por su fidelidad y hospitalidad."
     },
     {
-      "url-img": "",
+      "url-img": "/img/DIOTREFES.webp",
       "nombre": "Diótrefes",
       "descripcion": "Persona que buscaba tener el primer lugar y rechazaba a determinados colaboradores."
     },
     {
-      "url-img": "",
+      "url-img": "/img/DAMETRIO.webp",
       "nombre": "Demetrio",
       "descripcion": "Creyente que recibe un buen testimonio."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JUANANCIANO.webp",
       "nombre": "El anciano",
       "descripcion": "Autor tradicionalmente identificado con Juan."
     }

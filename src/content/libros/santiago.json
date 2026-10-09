@@ -2,8 +2,8 @@
   "titulo": "CARTA DE SANTIAGO",
   "fuente": "Nuevo Testamento - Cartas Generales",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaSantiago.webp",
+    "url-autor": "/img/SANTIAGO.webp",
     "autor": "Santiago, tradicionalmente identificado como Santiago, hermano del Señor y líder de la iglesia de Jerusalén.",
     "destinatarios": "“Las doce tribus que están en la dispersión”, es decir, comunidades cristianas de trasfondo judío dispersas.",
     "fecha": "Aproximadamente entre 45 y 62 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Los cristianos destinatarios enfrentaban pruebas, pobreza, conflictos internos y problemas relacionados con la manera de vivir su fe. Santiago insiste en que la fe auténtica debe manifestarse mediante las obras, la conducta, el dominio de la lengua y el trato justo hacia los demás. La carta tiene un fuerte carácter práctico y utiliza numerosos principios relacionados con la sabiduría del Antiguo Testamento.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/SANTIAGO.webp",
       "nombre": "Santiago",
       "descripcion": "Autor tradicional de la carta y líder de la iglesia de Jerusalén."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Señor de los creyentes y fundamento de la fe cristiana."
     },
     {
-      "url-img": "",
+      "url-img": "/img/POBRERICO.webp",
       "nombre": "El pobre y el rico",
       "descripcion": "Utilizados como ejemplos para enseñar sobre la imparcialidad y la verdadera riqueza."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ELIAS.webp",
       "nombre": "Elías",
       "descripcion": "Profeta utilizado como ejemplo de una persona que oraba con fe."
     }

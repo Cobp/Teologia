@@ -2,8 +2,8 @@
   "titulo": "CARTA A LOS FILIPENSES",
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaFilipenses.webp",
+    "url-autor": "/img/PABLO.webp",
     "autor": "El apóstol Pablo.",
     "destinatarios": "La iglesia de Filipos.",
     "fecha": "Aproximadamente entre 60 y 62 d.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Filipos era una colonia romana de Macedonia. La iglesia había mantenido una relación cercana con Pablo y había colaborado económicamente con su ministerio. Pablo escribe desde la prisión para agradecer su apoyo y animarlos a permanecer unidos, humildes y firmes en Cristo.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/PABLO.webp",
       "nombre": "Pablo",
       "descripcion": "Apóstol y autor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/TIMOTEO .webp",
       "nombre": "Timoteo",
       "descripcion": "Colaborador de Pablo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/EPAFRODITO .webp",
       "nombre": "Epafrodito",
       "descripcion": "Mensajero de la iglesia de Filipos que sirvió junto a Pablo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/EVODIASINTIQUE.webp",
       "nombre": "Evodia y Síntique",
       "descripcion": "Mujeres de la iglesia a quienes Pablo exhorta a vivir en armonía."
     }

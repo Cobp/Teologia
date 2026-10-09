@@ -3,7 +3,7 @@
   "fuente": "Nuevo Testamento - Cartas Generales",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaJudas.webp",
-    "url-autor": "",
+    "url-autor": "/img/JUDAS.webp",
     "autor": "Judas, siervo de Jesucristo y hermano de Santiago; tradicionalmente relacionado con Judas, hermano del Señor.",
     "destinatarios": "Creyentes cristianos llamados a defender la fe.",
     "fecha": "Aproximadamente entre 65 y 90 d.C.",
@@ -14,27 +14,27 @@
   "contexto_historico": "La comunidad cristiana enfrentaba la presencia de personas que habían introducido enseñanzas y conductas consideradas contrarias a la fe apostólica. Judas escribe para exhortar a los creyentes a contender por la fe y permanecer firmes frente al error.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/Lucas-IA.webp",
       "nombre": "Judas",
       "descripcion": "Autor y siervo de Jesucristo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SANTIAGO.webp",
       "nombre": "Santiago",
       "descripcion": "Hermano de Judas y figura con la que el autor se identifica."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Señor y fundamento de la fe cristiana."
     },
     {
-      "url-img": "",
+      "url-img": "/img/FalsosMaestros.webp",
       "nombre": "Los falsos maestros",
       "descripcion": "Personas que habían entrado en la comunidad y cuya conducta y enseñanza son criticadas."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ANGEL.webp",
       "nombre": "Miguel, el arcángel",
       "descripcion": "Mencionado en relación con una disputa sobre el cuerpo de Moisés."
     }

@@ -1,0 +1,54 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE NÚMEROS",
+  "datos_bibliograficos": {
+    "autor": "Moisés.",
+    "destinatarios": "El pueblo de Israel en el desierto.",
+    "fecha": "Aproximadamente entre el 1445 y el 1405 a.C.",
+    "lugar": "El desierto (Sinaí, Cades-barnea y las llanuras de Moab).",
+    "estructura": "36 capítulos y 1,288 versículos.",
+    "ubicacion": "Cuarto libro del Antiguo Testamento y del Pentateuco, después de Levítico y antes de Deuteronomio."
+  },
+  "contexto_historico": "El libro recibe su nombre de los dos grandes censos realizados al pueblo de Israel: el primero al salir del Sinaí y el segundo antes de entrar a la tierra prometida. Relata el paso de Israel desde el monte Sinaí hasta las fronteras de Canaán. Lo que debió ser un viaje corto de pocos meses se convirtió en un peregrinaje de cuarenta años por el desierto debido a la rebelión, la incredulidad y la falta de fe de la primera generación, la cual pereció en el desierto, dando paso a una nueva generación dispuesta a confiar en Dios.",
+  "personajes": [
+    {
+      "nombre": "Moisés",
+      "descripcion": "Líder paciente y mediador que intercedió constantemente por un pueblo rebelde."
+    },
+    {
+      "nombre": "Aarón y Miriam",
+      "descripcion": "Líderes que, junto con Moisés, enfrentaron desafíos de autoridad y rebelión interna."
+    },
+    {
+      "nombre": "Josué y Caleb",
+      "descripcion": "Los dos espías fieles que confiaron en que Dios les entregaría la tierra prometida, a diferencia del resto de los exploradores."
+    },
+    {
+      "nombre": "Balaam",
+      "descripcion": "Profeta pagano contratado para maldecir a Israel, pero que terminó bendiciéndolo por mandato divino."
+    },
+    {
+      "nombre": "Coré",
+      "descripcion": "Levítico que lideró una rebelión contra la autoridad de Moisés y Aarón, siendo severamente juzgado."
+    }
+  ],
+  "contenido": "El tema principal es la fidelidad de Dios frente a la infidelidad humana: la organización y disciplina del pueblo de Dios, las consecuencias de la desobediencia y la incredulidad, y el cuidado constante de Dios sustentando a su pueblo durante el juicio en el desierto.",
+  "sintesis": "En los capítulos 1–10, se organiza militar y espiritualmente a la nación de Israel mediante el primer censo, la disposición del campamento alrededor del Tabernáculo, la consagración de los levitas y la celebración de la Pascua antes de levantar el campamento del Sinaí. En los capítulos 11–25, comienza el viaje y se suceden constantes quejas, murmuraciones y rebeliones del pueblo (el incidente de los espías cobardes, la rebelión de Coré), lo que resulta en la sentencia de vagar 40 años en el desierto. En los capítulos 26–36, se realiza el segundo censo, se prepara a la nueva generación mediante nuevas leyes y victorias militares, y se establecen las divisiones de la tierra al este y oeste del río Jordán.",
+  "bosquejo": [
+    {
+      "seccion": "I. Preparación en el Sinaí (1:1–10:10)",
+      "descripcion": "El primer censo de los guerreros, la organización del campamento, deberes de los levitas, leyes sobre la pureza y la partida de la nube del Sinaí."
+    },
+    {
+      "seccion": "II. Del Sinaí a Cades-barnea y la rebelión (10:11–20:13)",
+      "descripcion": "Quejas por el maná, nombramiento de los setenta ancianos, el informe infiel de los doce espías, la rebelión de Coré y la muerte de Miriam y Aarón."
+    },
+    {
+      "seccion": "III. El peregrinaje y las victorias en el Moab (20:14–36:13)",
+      "descripcion": "El episodio de la serpiente de bronce, el relato del profeta Balaam y las burras que hablan, la apostasía en Peor con las mujeres moabitas, el segundo censo, la designación de Josué como sucesor de Moisés y la distribución preliminar de la tierra."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "",
+    "pasaje": ""
+  }
+}

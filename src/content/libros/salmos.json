@@ -1,0 +1,54 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE SALMOS",
+  "datos_bibliograficos": {
+    "autor": "Varios autores, entre ellos David, Asaf y los hijos de Coré.",
+    "destinatarios": "El pueblo de Israel y todos los creyentes que buscan adorar a Dios.",
+    "fecha": "Composición y recopilación durante varios siglos, aproximadamente entre los siglos XV y V a.C.",
+    "lugar": "Diferentes lugares de Israel y otros contextos relacionados con sus autores.",
+    "estructura": "150 salmos y 2.461 versículos (aproximadamente, según la numeración hebrea).",
+    "ubicacion": "Decimonoveno libro de la Biblia y segundo de los libros poéticos."
+  },
+  "contexto_historico": "Salmos es una colección de cantos, oraciones y poemas utilizados en la adoración del pueblo de Israel. Expresa diferentes experiencias humanas, como la alegría, el temor, la tristeza, el arrepentimiento y la confianza en Dios. Muchos salmos están relacionados con la vida del rey David y la adoración en Israel.",
+  "personajes": [
+    {
+      "nombre": "David",
+      "descripcion": "Rey de Israel y autor de numerosos salmos."
+    },
+    {
+      "nombre": "Asaf",
+      "descripcion": "Músico y autor de varios salmos."
+    },
+    {
+      "nombre": "Hijos de Coré",
+      "descripcion": "Grupo relacionado con la música y la adoración."
+    },
+    {
+      "nombre": "Dios",
+      "descripcion": "Centro de la alabanza, oración y confianza del libro."
+    }
+  ],
+  "contenido": "El tema principal es la adoración a Dios mediante la oración, la alabanza, la confianza y la reflexión sobre su Palabra.",
+  "sintesis": "Los Salmos presentan diferentes formas de acercarse a Dios. Algunos expresan alabanza y agradecimiento; otros muestran dolor, arrepentimiento y súplica. También hablan de la justicia de Dios, la protección divina, la importancia de su Palabra y la esperanza en el Rey prometido. El libro enseña que el creyente puede acudir a Dios en cualquier circunstancia y confiar en su fidelidad.",
+  "bosquejo": [
+    {
+      "seccion": "I. Libro I (Salmos 1–41)",
+      "descripcion": "Oraciones y experiencias personales, especialmente relacionadas con David."
+    },
+    {
+      "seccion": "II. Libro II (Salmos 42–72)",
+      "descripcion": "Lamentos, confianza en Dios y esperanza en el Rey."
+    },
+    {
+      "seccion": "III. Libro III (Salmos 73–89)",
+      "descripcion": "Crisis de fe, justicia y fidelidad de Dios."
+    },
+    {
+      "seccion": "IV. Libro IV (Salmos 90–106)",
+      "descripcion": "Soberanía de Dios y esperanza en su reinado."
+    },
+    {
+      "seccion": "V. Libro V (Salmos 107–150)",
+      "descripcion": "Agradecimiento, alabanza y celebración de la grandeza de Dios."
+    }
+  ]
+}

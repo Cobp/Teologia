@@ -1,0 +1,46 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE ZACARÍAS",
+  "datos_bibliograficos": {
+    "autor": "El profeta Zacarías, hijo de Berequías.",
+    "destinatarios": "Los judíos que regresaron del exilio en Babilonia.",
+    "fecha": "Aproximadamente entre 520 y 518 a.C. para las primeras visiones; otras secciones tienen propuestas de fechas diferentes.",
+    "lugar": "Jerusalén.",
+    "estructura": "14 capítulos y 211 versículos.",
+    "ubicacion": "Trigésimo octavo libro de la Biblia y undécimo de los profetas menores."
+  },
+  "contexto_historico": "Zacarías profetizó junto con Hageo durante la reconstrucción del templo de Jerusalén. El pueblo había regresado del exilio y necesitaba ánimo para continuar la obra. Mediante visiones y mensajes proféticos, Zacarías anunció la restauración de Jerusalén, la purificación del pueblo y promesas relacionadas con el futuro reinado de Dios.",
+  "personajes": [
+    {
+      "nombre": "Zacarías",
+      "descripcion": "Profeta que transmite visiones y mensajes de esperanza."
+    },
+    {
+      "nombre": "Zorobabel",
+      "descripcion": "Gobernador relacionado con la reconstrucción del templo."
+    },
+    {
+      "nombre": "Josué",
+      "descripcion": "Sumo sacerdote."
+    }
+  ],
+  "contenido": "El tema principal es el llamado al arrepentimiento, la restauración de Jerusalén y las promesas de Dios sobre su pueblo y su futuro Rey.",
+  "sintesis": "En los capítulos 1–6, Zacarías presenta ocho visiones relacionadas con la restauración del pueblo y del templo. En los capítulos 7–8, enseña sobre la obediencia, la justicia y la importancia de practicar la verdad. En los capítulos 9–14, presenta mensajes sobre el futuro de Israel, el Rey prometido y el establecimiento del gobierno de Dios. El libro enseña que Dios cumple sus promesas y llama a su pueblo a vivir con esperanza.",
+  "bosquejo": [
+    {
+      "seccion": "I. Llamado al arrepentimiento (1:1-6)",
+      "descripcion": "Volver al Señor."
+    },
+    {
+      "seccion": "II. Ocho visiones nocturnas (1:7–6:15)",
+      "descripcion": "Restauración y promesas de Dios."
+    },
+    {
+      "seccion": "III. Enseñanzas sobre el ayuno y la obediencia (7:1–8:23)",
+      "descripcion": "Justicia y fidelidad."
+    },
+    {
+      "seccion": "IV. Promesas sobre el futuro (9:1–14:21)",
+      "descripcion": "El Rey, la salvación y el reinado de Dios."
+    }
+  ]
+}

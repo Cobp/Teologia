@@ -1,0 +1,58 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE ÉXODO",
+  "datos_bibliograficos": {
+    "autor": "Moisés.",
+    "destinatarios": "El pueblo de Israel.",
+    "fecha": "Aproximadamente entre el 1445 y el 1405 a.C.",
+    "lugar": "El desierto del Sinaí.",
+    "estructura": "40 capítulos y 1,213 versículos.",
+    "ubicacion": "Segundo libro del Antiguo Testamento y del Pentateuco, después de Génesis y antes de Levítico."
+  },
+  "contexto_historico": "Los descendientes de Jacob habían crecido en número en Egipto, pero con el tiempo pasaron de ser huéspedes favorecidos a esclavos oprimidos bajo un nuevo Faraón. Éxodo narra la intervención liberadora de Dios para rescatar a su pueblo de la esclavitud, sacarlos de Egipto, guiarlos a través del desierto y establecer un pacto solemne con ellos en el monte Sinaí, donde se les entrega la Ley y se construye el Tabernáculo.",
+  "personajes": [
+    {
+      "nombre": "Moisés",
+      "descripcion": "Libertador, líder y legislador del pueblo de Israel, escogido por Dios para sacar a su pueblo de Egipto."
+    },
+    {
+      "nombre": "Faraón",
+      "descripcion": "Rey de Egipto que se obstinó en retener a Israel como esclavo y resistió las plagas enviadas por Dios."
+    },
+    {
+      "nombre": "Aarón",
+      "descripcion": "Hermano de Moisés, su portavoz ante Faraón y el primer sumo sacerdote de Israel."
+    },
+    {
+      "nombre": "Míriam",
+      "descripcion": "Profeta y hermana de Moisés y Aarón, quien lideró en los cantos de alabanza tras cruzar el Mar Rojo."
+    },
+    {
+      "nombre": "Josué",
+      "descripcion": "Líder militar fiel que defendió y guió al pueblo en momentos clave, sirviendo como ayudante de Moisés."
+    }
+  ],
+  "contenido": "El tema principal es la redención y la liberación: la liberación de Israel de la esclavitud en Egipto por el poder de Dios, la formación de una nación bajo el pacto de la Ley (los Diez Mandamientos) y la presencia de Dios habitando en medio de su pueblo a través del Tabernáculo.",
+  "sintesis": "En los capítulos 1–18, se relata la esclavitud de Israel en Egipto, el nacimiento y llamado de Moisés (la zarza ardiente), las diez plagas, la dramática salida de Egipto (la Pascua y el cruce del Mar Rojo) y el viaje inicial por el desierto hasta el monte Sinaí. En los capítulos 19–40, Dios establece su pacto con Israel entregando los Diez Mandamientos y las leyes civiles y religiosas, se detallan las instrucciones para la construcción del Tabernáculo, se narra el grave pecado del becerro de oro y, finalmente, la manifestación de la gloria de Dios llenando el Tabernáculo.",
+  "bosquejo": [
+    {
+      "seccion": "I. La liberación de Egipto (1:1–15:21)",
+      "descripcion": "Opresión de los israelitas, nacimiento y preparación de Moisés, las plagas, la institución de la Pascua, el éxodo y el cruce del Mar Rojo con el cántico de Moisés y Míriam."
+    },
+    {
+      "seccion": "II. El viaje al Monte Sinaí (15:22–18:27)",
+      "descripcion": "Las pruebas en el desierto (aguas amargas, maná, codornices, agua de la roca) y el establecimiento de jueces por consejo de Jetro."
+    },
+    {
+      "seccion": "III. El pacto y la Ley en el Sinaí (19:1–24:18)",
+      "descripcion": "La llegada al monte, la entrega de los Diez Mandamientos y el código de la alianza aceptado por el pueblo."
+    },
+    {
+      "seccion": "IV. El Tabernáculo y el becerro de oro (25:1–40:38)",
+      "descripcion": "Instrucciones detalladas para el santuario, la apostasía del becerro de oro e intercesión de Moisés, la renovación del pacto, la construcción de la obra y la bajada de la gloria de Dios sobre el Tabernáculo."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Y os tomaré por mi pueblo y seré vuestro Dios; y vosotros sabréis que yo soy Jehová vuestro Dios, que os sacó de debajo de las tareas pesadas de Egipto. Y os meteré en la tierra por la cual alcé mi mano jurando que la daría a Abraham, a Isaac y a Jacob; y yo os la daré por heredad. Yo JEHOVÁ",
+    "pasaje": "Éxodo 6:7-8"
+  }
+}

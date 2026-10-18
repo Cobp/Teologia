@@ -1,0 +1,54 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE 1 CRÓNICAS",
+  "datos_bibliograficos": {
+    "autor": "Desconocido (tradicionalmente atribuido a Esdras el escriba, quien habría recopilado y unificado los registros genealógicos e históricos tras el retorno del exilio).",
+    "destinatarios": "La comunidad judía postexílica que regresó a Jerusalén, para restaurar su identidad espiritual, recordar su linaje y fundamentar la reconstrucción del Templo.",
+    "fecha": "Escrito aproximadamente entre el 450 y el 400 a.C. (abarca desde las genealogías de la creación humana hasta la muerte de David en el 970 a.C.).",
+    "lugar": "Compuesto en Jerusalén, tras el regreso del exilio babilónico, enfocándose geográficamente en el territorio de Judá y la ciudad de Jerusalén.",
+    "estructura": "29 capítulos y 942 versículos.",
+    "ubicacion": "Decimotercer libro del Antiguo Testamento; se sitúa en los Libros Históricos, justo después de 2 Reyes y antes de 2 Crónicas."
+  },
+  "contexto_historico": "Tras pasar setenta años de cautiverio en Babilonia, un remanente judío regresa a una Jerusalén devastada. La comunidad sobreviviente sufre una profunda crisis de identidad: carecen de un rey en el trono, el Templo está en ruinas y dudan si las promesas del pacto de Dios con David siguen vigentes. En este escenario, el libro no busca repetir la historia política ya narrada en los libros de Samuel, sino ofrecer una reinterpretación espiritual. Se omite deliberadamente el Reino del Norte (Israel) por su apostasía y se enfoca en el Reino del Sur (Judá), reviviendo la gloria de David para demostrar que el verdadero motor de la nación es la adoración comunitaria y la fidelidad al Templo.",
+  "personajes": [
+    {
+      "nombre": "Adán (y los patriarcas)",
+      "descripcion": "Encabeza las extensas listas genealógicas del libro. Su inclusión conecta directamente al remanente que volvió del exilio con los orígenes de la creación y las promesas hechas a Abraham."
+    },
+    {
+      "nombre": "Saúl",
+      "descripcion": "Primer rey de Israel. Su trágica muerte es presentada de forma breve como un ejemplo directo del juicio de Dios debido a su infidelidad y desobediencia al Señor."
+    },
+    {
+      "nombre": "David",
+      "descripcion": "Personaje central del libro. Es presentado bajo una luz idealizada, omitiendo sus fallos morales y familiares para resaltar su rol como el rey piadoso, el organizador del culto en el Templo y el receptor del pacto eterno."
+    },
+    {
+      "nombre": "Salomón",
+      "descripcion": "Hijo y sucesor de David. Aparece al final del libro como el monarca elegido y preparado por Dios para llevar a cabo la edificación del Templo, contando con todo el respaldo de su padre y del pueblo."
+    },
+    {
+      "nombre": "Los levitas y sacerdotes",
+      "descripcion": "Mencionados minuciosamente a lo largo de las genealogías y narraciones. Son los encargados de resguardar el Arca del Pacto, dirigir la alabanza musical y mantener la santidad del culto litúrgico."
+    }
+  ],
+  "contenido": "El tema principal es la continuidad del pacto mesiánico y la centralidad de la adoración, demostrando a la comunidad postexílica que su supervivencia como pueblo de Dios no depende del poder militar o político, sino de su herencia espiritual, la pureza de su linaje y la devoción en el Templo.",
+  "sintesis": "En los capítulos 1–9, se desarrolla un extenso compendio genealógico que traza la línea mesiánica desde Adán hasta el remanente retornado de Babilonia, validando las credenciales de sacerdotes y levitas. En el capítulo 10, se resume el colapso de Saúl, abriendo paso inmediato al núcleo del libro en los capítulos 11–22, donde se narra el ascenso de David, la captura de Jerusalén, el traslado del Arca del Pacto y la entrega del Pacto Davídico. El libro concluye en los capítulos 23–29 detallando los masivos preparativos logísticos y económicos que David dejó listos antes de morir para que su hijo Salomón construyera el Templo, finalizando con la solemne coronación de este último.",
+  "bosquejo": [
+    {
+      "seccion": "I. Las genealogías oficiales del pueblo de Dios (1:1–9:44)",
+      "descripcion": "El registro formal desde Adán, los patriarcas, las doce tribus de Israel (con énfasis en la línea real de Judá y la sacerdotal de Leví) y la lista de los habitantes que regresaron de Babilonia."
+    },
+    {
+      "seccion": "II. El ascenso y consolidación del reinado de David (10:1–16:43)",
+      "descripcion": "La muerte de Saúl en el monte Gilboa, la unción de David en Hebrón, las hazañas de sus hombres valientes, la conquista de Jerusalén y el gozoso traslado del Arca a la tienda litúrgica."
+    },
+    {
+      "seccion": "III. El Pacto Davídico y los preparativos para el Templo (17:1–29:30)",
+      "descripcion": "La promesa divina de un linaje eterno, las victorias militares sobre naciones enemigas, las consecuencias del censo, la compra de la era de Ornán y la masiva organización de las clases de sacerdotes, levitas y músicos para la futura casa de Dios."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Tuya es, oh Jehová, la magnificencia y el poder, la gloria, la victoria y el honor; porque todas las cosas que están en los cielos y en la tierra son tuyas. Tuyo, oh Jehová, es el reino, y tú eres excelso sobre todos.",
+    "pasaje": "1 Crónicas 29:11"
+  }
+}

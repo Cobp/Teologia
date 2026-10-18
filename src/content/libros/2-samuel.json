@@ -1,0 +1,54 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE 2 SAMUEL",
+  "datos_bibliograficos": {
+    "autor": "Desconocido (tradicionalmente asociado a los profetas Gad y Natán, quienes continuaron el registro tras la muerte de Samuel).",
+    "destinatarios": "El pueblo de Israel, para legitimar el pacto dinástico de Dios con David y mostrar las consecuencias del pecado en el liderazgo.",
+    "fecha": "Escrito aproximadamente entre el 930 y el 722 a.C. (narra eventos ocurridos entre el 1010 y el 970 a.C.).",
+    "lugar": "Principalmente en Hebrón (donde David inicia su reinado) y luego en Jerusalén (la nueva capital política y religiosa).",
+    "estructura": "24 capítulos y 695 versículos.",
+    "ubicacion": "Décimo libro del Antiguo Testamento; se sitúa en los Libros Históricos, justo después de 1 Samuel y antes de 1 Reyes."
+  },
+  "contexto_historico": "Tras la trágica muerte del rey Saúl, Israel enfrenta una inminente guerra civil y una profunda división interna. La tribu de Judá proclama rey a David, mientras que las tribus del norte apoyan a Isboset, hijo de Saúl. Una vez unificada la nación bajo el mando de David, Israel experimenta una era de tremenda expansión militar, prosperidad económica y consolidación espiritual. Sin embargo, el contexto también registra las intensas intrigas políticas en la corte y las graves crisis familiares que desestabilizaron el reino debido a los fallos morales de su propio monarca.",
+  "personajes": [
+    {
+      "nombre": "David",
+      "descripcion": "Segundo rey de Israel, descrito como un hombre conforme al corazón de Dios; unifica las tribus, expande el imperio y recibe la promesa de un trono eterno, aunque su pecado trae graves consecuencias sobre su casa."
+    },
+    {
+      "nombre": "Natán",
+      "descripcion": "Profeta fiel de la corte de David, encargado de comunicarle el Pacto Davídico y de confrontarlo con valentía y sabiduría tras su pecado con Betsabé."
+    },
+    {
+      "nombre": "Betsabé",
+      "descripcion": "Esposa de Urías el heteo con quien David comete adulterio, y que más tarde se convierte en esposa del rey y madre del futuro rey Salomón."
+    },
+    {
+      "nombre": "Absalón",
+      "descripcion": "Hijo ambicioso y carismático de David que asesina a su hermano Ammón, conspira contra su padre, usurpa temporalmente el trono y desata una sangrienta rebelión interna."
+    }
+  ],
+  "contenido": "El tema principal es el establecimiento, consolidación y crisis del reinado de David bajo el Pacto de Dios, demostrando que la obediencia trae bendición y estabilidad, mientras que el pecado, incluso si es perdonado, desata dolorosas consecuencias temporales.",
+  "sintesis": "En los capítulos 1–10, se narra el ascenso al trono de David, primero sobre Judá y luego sobre todo un Israel unificado. David conquista Jerusalén, la convierte en capital, traslada allí el Arca del Pacto y recibe la gran promesa divina de un linaje real eterno (el Pacto Davídico), seguido de fulminantes victorias sobre las naciones enemigas. En los capítulos 11–20, el libro da un giro oscuro tras el adulterio de David con Betsabé y el asesinato encubierto de Urías; el juicio divino golpea su hogar a través del incesto y asesinato entre sus hijos, culminando con el golpe de Estado y la trágica muerte de su hijo Absalón. El libro concluye en los capítulos 21–24 con un apéndice no cronológico que recopila cantos de gratitud de David, hazañas de sus hombres valientes y las consecuencias de un censo pecaminoso que termina con la edificación de un altar.",
+  "bosquejo": [
+    {
+      "seccion": "I. El triunfo de David y la unificación del reino (1:1–6:23)",
+      "descripcion": "Lamento por la muerte de Saúl y Jonatán, guerra civil contra Isboset, coronación de David sobre todo Israel, captura de Jerusalén y llegada del Arca."
+    },
+    {
+      "seccion": "II. El Pacto Davídico y las campañas militares (7:1–10:19)",
+      "descripcion": "La promesa de Dios de un trono eterno para el linaje de David, las victorias del imperio sobre sus enemigos y la bondad de David hacia Mefiboset."
+    },
+    {
+      "seccion": "III. El pecado de David y la crisis familiar (11:1–20:26)",
+      "descripcion": "Adulterio con Betsabé, reprensión del profeta Natán, muerte del niño, la rebelión sangrienta de Absalón, la huida de David y la posterior restauración de su trono."
+    },
+    {
+      "seccion": "IV. Apéndices del reinado de David (21:1–24:25)",
+      "descripcion": "Venganza de los gabaonitas, cántico de liberación de David, últimas palabras del rey, hazañas de sus valientes y el pecado del censo que culmina en la compra de la era de Arauna."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Y será afirmada tu casa y tu reino para siempre delante de tu rostro, y tu trono será estable eternamente.",
+    "pasaje": "2 Samuel 7:16"
+  }
+}

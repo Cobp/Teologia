@@ -1,0 +1,34 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE NAHÚM",
+  "datos_bibliograficos": {
+    "autor": "El profeta Nahúm, de Elcos.",
+    "destinatarios": "Judá, con un mensaje de juicio contra Nínive.",
+    "fecha": "Probablemente entre 663 y 612 a.C.",
+    "lugar": "Judá y Nínive, capital del imperio asirio.",
+    "estructura": "3 capítulos y 47 versículos.",
+    "ubicacion": "Trigésimo cuarto libro de la Biblia y séptimo de los profetas menores."
+  },
+  "contexto_historico": "Nínive, capital de Asiria, era conocida por su poder militar y por la violencia ejercida sobre otros pueblos. Nahúm anunció su caída como juicio de Dios por su maldad y opresión. El mensaje también trae consuelo a Judá, que había sufrido bajo el dominio asirio.",
+  "personajes": [
+    {
+      "nombre": "Nahúm",
+      "descripcion": "Profeta que anuncia la caída de Nínive."
+    }
+  ],
+  "contenido": "El tema principal es el juicio de Dios contra la violencia y la opresión de Nínive, junto con el consuelo para Judá.",
+  "sintesis": "En el capítulo 1, Nahúm presenta el carácter justo y poderoso de Dios y anuncia el juicio contra Nínive. En el capítulo 2, describe la caída y destrucción de la ciudad. En el capítulo 3, denuncia los pecados de Nínive y confirma que su caída es consecuencia de su violencia. El libro enseña que ningún poder humano está por encima de la justicia de Dios.",
+  "bosquejo": [
+    {
+      "seccion": "I. La justicia y el poder de Dios (1:1-15)",
+      "descripcion": "Juicio contra Nínive y consuelo para Judá."
+    },
+    {
+      "seccion": "II. Caída de Nínive (2:1-13)",
+      "descripcion": "Destrucción de la ciudad."
+    },
+    {
+      "seccion": "III. Razones del juicio (3:1-19)",
+      "descripcion": "Violencia, engaño y maldad de Nínive."
+    }
+  ]
+}

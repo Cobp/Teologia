@@ -1,0 +1,50 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE PROVERBIOS",
+  "datos_bibliograficos": {
+    "autor": "Principalmente Salomón; también se mencionan Agur y el rey Lemuel, entre otros recopiladores.",
+    "destinatarios": "El pueblo de Dios, especialmente los jóvenes y quienes desean adquirir sabiduría.",
+    "fecha": "Recopilación y composición a lo largo de diferentes períodos, principalmente durante la monarquía de Israel.",
+    "lugar": "Israel, especialmente en el contexto de la sabiduría israelita.",
+    "estructura": "31 capítulos y 915 versículos (aproximadamente).",
+    "ubicacion": "Vigésimo libro de la Biblia y tercero de los libros poéticos."
+  },
+  "contexto_historico": "Proverbios reúne enseñanzas de sabiduría, principalmente de Salomón, para orientar al pueblo de Israel a vivir con temor de Dios y tomar buenas decisiones.",
+  "personajes": [
+    {
+      "nombre": "Salomón",
+      "descripcion": "Rey de Israel conocido por su sabiduría y autor principal del libro."
+    },
+    {
+      "nombre": "Agur",
+      "descripcion": "Autor de las palabras recogidas en Proverbios 30."
+    },
+    {
+      "nombre": "Lemuel",
+      "descripcion": "Rey mencionado en Proverbios 31."
+    }
+  ],
+  "contenido": "El tema principal es la búsqueda de la sabiduría que comienza con el temor del Señor y se demuestra en la vida diaria.",
+  "sintesis": "En los capítulos 1–9, se presenta el llamado a buscar la sabiduría y evitar el camino del pecado. En los capítulos 10–29, se encuentran muchos proverbios sobre la conducta, el trabajo, la justicia, las palabras y las relaciones humanas. En el capítulo 30, Agur presenta reflexiones sobre la humildad y la sabiduría. En el capítulo 31, se incluyen las palabras del rey Lemuel y la descripción de la mujer virtuosa. El libro enseña que la sabiduría bíblica debe reflejarse en nuestras decisiones y acciones.",
+  "bosquejo": [
+    {
+      "seccion": "I. Propósito y llamado a la sabiduría (1:1-7)",
+      "descripcion": "La importancia del temor del Señor."
+    },
+    {
+      "seccion": "II. Enseñanzas sobre la sabiduría (1:8–9:18)",
+      "descripcion": "Consejos para buscar la sabiduría y evitar el mal."
+    },
+    {
+      "seccion": "III. Proverbios de Salomón (10:1–29:27)",
+      "descripcion": "Enseñas prácticas sobre la vida y las relaciones."
+    },
+    {
+      "seccion": "IV. Palabras de Agur (30:1-33)",
+      "descripcion": "Reflexiones sobre Dios, la humildad y la sabiduría."
+    },
+    {
+      "seccion": "V. Palabras del rey Lemuel (31:1-31)",
+      "descripcion": "Consejos de sabiduría y descripción de la mujer virtuosa."
+    }
+  ]
+}

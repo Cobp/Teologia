@@ -1,0 +1,54 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE 1 REYES",
+  "datos_bibliograficos": {
+    "autor": "Desconocido (tradicionalmente atribuido al profeta Jeremías, quien compilaría los anales oficiales de la corte real mientras vivía el exilio).",
+    "destinatarios": "El pueblo de Israel en el exilio babilónico, para explicarles la razón de su caída, la destrucción de Jerusalén y recordarles la fidelidad del pacto de Dios.",
+    "fecha": "Escrito aproximadamente entre el 561 y el 538 a.C. (narra eventos ocurridos entre el 971 y el 853 a.C.).",
+    "lugar": "Compuesto probablemente en Babilonia (exilio), describiendo eventos en Jerusalén, Samaria y los reinos divididos de Judá e Israel.",
+    "estructura": "22 capítulos y 816 versículos.",
+    "ubicacion": "Undécimo libro del Antiguo Testamento; se sitúa en los Libros Históricos, justo después de 2 Samuel y antes de 2 Reyes."
+  },
+  "contexto_historico": "El libro se abre en medio de la vejez de David y las intrigas por su sucesión. Tras la coronación de Salomón, Israel experimenta su mayor \"era dorada\": paz internacional, edificación del suntuoso Templo y una riqueza sin precedentes. Sin embargo, la apostasía final de Salomón quiebra la unidad nacional. A su muerte, los excesos fiscales provocan una fractura civil insalvable que divide la teocracia en dos: el Reino del Norte (Israel) y el Reino del Sur (Judá). La última sección del libro está marcada por la degradación espiritual del norte bajo el reinado de Acab y la violenta introducción del culto pagano a Baal, contrarrestado por el surgimiento del ministerio profético.",
+  "personajes": [
+    {
+      "nombre": "Salomón",
+      "descripcion": "Hijo de David y Betsabé. Recibe sabiduría divina, construye el Templo de Jerusalén y expande el comercio comercial del imperio; desobedece flagrantemente la Ley al casarse con cientos de mujeres paganas, lo que desvía su corazón hacia la idolatría."
+    },
+    {
+      "nombre": "Roboam",
+      "descripcion": "Hijo y sucesor de Salomón. Su arrogancia y opresión fiscal provocan la rebelión de las tribus del norte y la fractura definitiva del reino unificado."
+    },
+    {
+      "nombre": "Jeroboam I",
+      "descripcion": "Primer rey del fragmentado Reino del Norte (Israel). Para evitar que su pueblo adore en Jerusalén, instituye un culto idólatra con becerros de oro en Dan y Betel, arrastrando a su nación al pecado."
+    },
+    {
+      "nombre": "Elías",
+      "descripcion": "Uno de los profetas más prominentes de la historia bíblica. Es enviado por Dios para confrontar la idolatría del Reino del Norte, desafiar a los profetas de Baal en el Monte Carmelo y proclamar el juicio divino."
+    },
+    {
+      "nombre": "Acab y Jezabel",
+      "descripcion": "Monarca de Israel y su malvada reina fenicia. Juntos promueven activamente el paganismo, persiguen a muerte a los profetas del Señor y representan la cúspide de la corrupción moral en el norte."
+    }
+  ],
+  "contenido": "El tema principal es la fidelidad al pacto frente al fracaso de la monarquía, demostrando cómo la bendición y el éxito nacional dependen exclusivamente de la lealtad a Dios, mientras que la idolatría institucionalizada conduce inevitablemente a la división, el colapso político y el exilio espiritual.",
+  "sintesis": "En los capítulos 1–11, se expone el clímax de la monarquía unida. Salomón consolida su poder, recibe el don de la sabiduría, edifica el majestuoso Templo en Jerusalén y atrae la admiración global. Sin embargo, sus alianzas matrimoniales paganas lo hunden en la apostasía, gatillando la sentencia divina del quiebre dinástico. En los capítulos 12–16, tras el ascenso de Roboam, ocurre el cisma político: diez tribus se independizan bajo Jeroboam I formando el Reino del Norte (Israel), mientras que Judá permanece fiel al linaje de David en el sur. Ambos reinos caen en una espiral de inestabilidad y desobediencia. El libro cierra en los capítulos 17–22 con el choque espiritual en el Reino del Norte, donde Dios levanta al profeta Elías para desafiar la tiranía idólatra del rey Acab y Jezabel, culminando en la dramática demostración de poder en el Monte Carmelo.",
+  "bosquejo": [
+    {
+      "seccion": "I. El reinado de Salomón y la gloria del reino unido (1:1–11:43)",
+      "descripcion": "La sucesión de David, la petición de sabiduría de Salomón, la planificación, edificación y dedicación del Templo, la visita de la reina de Sabá y la posterior caída espiritual de Salomón."
+    },
+    {
+      "seccion": "II. La división del reino y los primeros reyes (12:1–16:34)",
+      "descripcion": "La insensatez de Roboam, la secesión de las tribus del norte bajo Jeroboam, el establecimiento del culto falso en Betel y la sucesión paralela de reyes inicuos en Israel y vacilantes en Judá."
+    },
+    {
+      "seccion": "III. El ministerio de Elías y la crisis con Acab (17:1–22:53)",
+      "descripcion": "La sequía profetizada sobre Israel, el milagro de la viuda de Sarepta, el desafío de fuego contra Baal en el Monte Carmelo, la huida de Elías al Horeb, el asesinato de Nabot por su viña y la muerte en batalla del rey Acab."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Y si tú anduvieres delante de mí como anduvo David tu padre, en integridad de corazón y en equidad, haciendo todas las cosas que yo te he mandado, y guardando mis estatutos y mis decretos, yo afirmaré el trono de tu reino sobre Israel para siempre...",
+    "pasaje": "1 Reyes 9:4-5"
+  }
+}

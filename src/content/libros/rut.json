@@ -1,0 +1,50 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE RUT",
+  "datos_bibliograficos": {
+    "autor": "Tradicionalmente atribuido al profeta Samuel.",
+    "destinatarios": "El pueblo de Israel, para revelar el linaje providencial de la monarquía del rey David y la inclusión de los gentiles en el plan de Dios.",
+    "fecha": "Escrito aproximadamente entre el 1050 y el 1000 a.C. (narra eventos ocurridos alrededor del 1100 a.C.).",
+    "lugar": "Comienza en los campos de Moab y se desarrolla principalmente en Belén de Judá.",
+    "estructura": "4 capítulos y 85 versículos.",
+    "ubicacion": "Octavo libro del Antiguo Testamento; se ubica en la sección de Libros Históricos, justo después de Jueces y antes de 1 Samuel."
+  },
+  "contexto_historico": "Los acontecimientos ocurren durante la época caótica de los jueces, un tiempo de crisis espiritual, hambre y guerra civil en Israel. Debido a una intensa hambruna en Belén, una familia israelita emigra a la nación pagana de Moab, un pueblo históricamente enemigo de Israel. Tras la muerte de los varones de la familia, el relato da un giro íntimo y doméstico. A diferencia de la violencia generalizada de Jueces, Rut brilla como un oasis de lealtad, piedad y redención, mostrando que incluso en los tiempos más oscuros, Dios sigue obrando en la vida de las personas ordinarias.",
+  "personajes": [
+    {
+      "nombre": "Rut",
+      "descripcion": "Joven viuda moabita que, por amor y fe ciega, abandona su tierra y sus dioses paganos para unirse al pueblo de Israel y al Dios de su suegra."
+    },
+    {
+      "nombre": "Noemí",
+      "descripcion": "Viuda israelita que regresa a Belén amargada y quebrantada por las pérdidas de su esposo e hijos, pero cuya vida es restaurada por la fidelidad de Rut."
+    },
+    {
+      "nombre": "Booz",
+      "descripcion": "Terrateniente rico y piadoso de Belén, pariente de Elimelec, quien actúa voluntariamente como el \"pariente redentor\" al casarse con Rut y rescatar las tierras de la familia."
+    }
+  ],
+  "contenido": "El tema principal es la redención y la providencia de Dios, manifestada a través de la lealtad incondicional (hesed) y el rescate legal de una familia destrozada, insertando a una mujer extranjera en la genealogía del Mesías.",
+  "sintesis": "En el capítulo 1, la tragedia golpea a Noemí en Moab tras perder a su esposo y a sus dos hijos; decide regresar a Belén y su nuera Rut insiste en acompañarla en un pacto de lealtad absoluta. En el capítulo 2, Rut sale a trabajar en los campos de Belén para asegurar el sustento y, guiada por la providencia divina, llega a las tierras de Booz, un pariente cercano que la trata con extrema generosidad y protección. En el capítulo 3, siguiendo los sabios consejos de Noemí, Rut acude a la era de trillar de noche para solicitar formalmente a Booz que ejerza su derecho de pariente redentor. El libro concluye hermosamente en el capítulo 4 con el proceso legal en la puerta de la ciudad, el matrimonio de Booz y Rut, el nacimiento de su hijo Obed y una genealogía que conecta directamente esta historia con el rey David.",
+  "bosquejo": [
+    {
+      "seccion": "I. La decisión de Rut de permanecer con Noemí (1:1-22)",
+      "descripcion": "La huida a Moab por la hambruna, la muerte de los hombres, el amargo regreso a Belén y la sublime declaración de fidelidad de Rut."
+    },
+    {
+      "seccion": "II. Rut trabaja en el campo de Booz (2:1-23)",
+      "descripcion": "Rut recoge espigas detrás de los segadores por necesidad y se produce el encuentro providencial con Booz, quien reconoce su virtud."
+    },
+    {
+      "seccion": "III. El plan de Noemí y la petición de Rut (3:1-18)",
+      "descripcion": "El encuentro nocturno en la era de trillar, donde Rut se presenta ante los pies de Booz pidiendo ser amparada bajo sus alas."
+    },
+    {
+      "seccion": "IV. La redención legal, el matrimonio y el linaje real (4:1-22)",
+      "descripcion": "Booz arregla el caso con el pariente más cercano ante los ancianos, redime la heredad, se casa con Rut y nace Obed, abuelo de David."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Respondió Rut: No me ruegues que te deje, y me aparte de ti; porque a dondequiera que tú fueres, iré yo, y dondequiera que vivieres, viviré. Tu pueblo será mi pueblo, y tu Dios mi Dios.",
+    "pasaje": "Rut 1:16"
+  }
+}

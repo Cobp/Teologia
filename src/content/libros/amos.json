@@ -1,0 +1,42 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE AMÓS",
+  "datos_bibliograficos": {
+    "autor": "El profeta Amós, pastor y cultivador de sicómoros.",
+    "destinatarios": "Principalmente el reino de Israel.",
+    "fecha": "Aproximadamente entre 760 y 750 a.C.",
+    "lugar": "Tecoa, en Judá; su ministerio profético se dirigió principalmente a Israel.",
+    "estructura": "9 capítulos y 146 versículos.",
+    "ubicacion": "Trigésimo libro de la Biblia y tercero de los profetas menores."
+  },
+  "contexto_historico": "Amós profetizó durante un período de prosperidad económica en Israel, pero también existían injusticias sociales, abuso de los pobres y corrupción religiosa. El pueblo continuaba celebrando sus cultos, pero no vivía de acuerdo con la justicia de Dios. Amós anunció que el Señor juzgaría el pecado de Israel y de las naciones.",
+  "personajes": [
+    {
+      "nombre": "Amós",
+      "descripcion": "Profeta llamado por Dios para denunciar la injusticia."
+    },
+    {
+      "nombre": "Amasías",
+      "descripcion": "Sacerdote de Betel que se opuso al mensaje de Amós."
+    }
+  ],
+  "contenido": "El tema principal es la justicia de Dios y el juicio contra la injusticia, la opresión y la falsa adoración.",
+  "sintesis": "En los capítulos 1–2, Amós anuncia el juicio contra varias naciones, incluyendo Israel y Judá. En los capítulos 3–6, denuncia la opresión de los pobres, la corrupción y la falsa confianza religiosa de Israel. En los capítulos 7–9, presenta visiones de juicio y termina con una promesa de restauración. El libro enseña que la adoración a Dios debe estar acompañada de justicia y obediencia.",
+  "bosquejo": [
+    {
+      "seccion": "I. Juicio contra las naciones (1:1–2:16)",
+      "descripcion": "Dios denuncia los pecados de las naciones."
+    },
+    {
+      "seccion": "II. Denuncia contra Israel (3:1–6:14)",
+      "descripcion": "Injusticia, opresión y falsa religiosidad."
+    },
+    {
+      "seccion": "III. Visiones de juicio (7:1–9:10)",
+      "descripcion": "Advertencias sobre el castigo."
+    },
+    {
+      "seccion": "IV. Promesa de restauración (9:11-15)",
+      "descripcion": "Esperanza para el pueblo de Dios."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE ESTER",
+  "datos_bibliograficos": {
+    "autor": "Desconocido (tradicionalmente asociado a Mardoqueo o a la Gran Sinagoga, debido al profundo conocimiento de las costumbres e intrigas de la corte persa).",
+    "destinatarios": "Los judíos de la diáspora (y las futuras generaciones), para explicar el origen histórico de la Fiesta de Purim y recordar la fiel protección divina fuera de la Tierra Prometida.",
+    "fecha": "Escrito aproximadamente entre el 460 y el 400 a.C. (narra eventos ocurridos entre el 483 y el 473 a.C., durante el reinado de Jerjes I).",
+    "lugar": "Susa, una de las capitales oficiales y centro administrativo del Imperio Persa.",
+    "estructura": "10 capítulos y 167 versículos.",
+    "ubicacion": "Decimoséptimo libro del Antiguo Testamento; se sitúa al final de la sección de los Libros Históricos, justo después de Nehemías y antes de Job."
+  },
+  "contexto_historico": "Mientras un remanente judío regresaba a Jerusalén para reconstruir el Templo tras el exilio, la inmensa mayoría de la población judía decidió quedarse en los vastos territorios del Imperio Persa. Al asimilarse a la cultura y vivir bajo un gobierno pagano, la comunidad enfrenta una vulnerabilidad política total. En este escenario de sutil sumisión, surge una conspiración antisemita masiva a nivel estatal que amenaza con la exterminación biológica total e inmediata de todos los judíos en las 127 provincias del imperio, forzando una crisis de supervivencia que solo se resolverá mediante la valentía individual y giros providenciales inesperados.",
+  "personajes": [
+    {
+      "nombre": "Ester (Hadasa)",
+      "descripcion": "Joven huérfana judía de la tribu de Benjamín que es elegida reina de Persia debido a su excepcional belleza; demuestra gran valentía, ayuno y estrategia diplomática al arriesgar su vida para interceder por su pueblo ante el rey."
+    },
+    {
+      "nombre": "Mardoqueo",
+      "descripcion": "Primo mayor y padre adoptivo de Ester que trabaja como funcionario en la puerta del palacio real. Su firme negativa a arrodillarse ante Amán desata el conflicto central, y su agudeza descubre complots políticos que salvan al monarca."
+    },
+    {
+      "nombre": "Asuero (Jerjes I)",
+      "descripcion": "Rey poderoso, impulsivo y ostentoso del Imperio Persa. Es fácilmente influenciable por sus consejeros, cuyas decisiones y edictos reales irrevocables sellan involuntariamente el destino de millones de personas."
+    },
+    {
+      "nombre": "Amán",
+      "descripcion": "Primer ministro arrogante y descendiente de Agag (rey amalequita, enemigo histórico de Israel). Urde un maquiavélico plan de genocidio legalizado para exterminar a todos los judíos del imperio motivado por su orgullo herido."
+    }
+  ],
+  "contenido": "El tema principal es la soberanía y providencia invisible de Dios en la preservación de Su pueblo, demostrando que aunque el nombre de Dios no se menciona explícitamente ni una sola vez en todo el texto, Su mano coordina de forma oculta cada aparente coincidencia histórica para frustrar los planes del mal y rescatar a los suyos.",
+  "sintesis": "En los capítulos 1–2, se establece el escenario palaciego con la destitución de la reina Vasti tras un banquete real, la posterior búsqueda de una nueva consorte y la providencial coronación de la judía Ester, junto al rescate de la vida del rey por obra de Mardoqueo. En los capítulos 3–5, el antagonista Amán asciende al poder, dicta un edicto real irrevocable de exterminio judío y Mardoqueo desafía a Ester a intervenir, desatando una jornada de ayuno nacional y el inicio de la estrategia de la reina mediante banquetes privados. El libro concluye en los capítulos 6–10 con una serie de ironías perfectas: Amán es humillado y ejecutado en la misma horca que preparó para Mardoqueo, se emite un nuevo decreto que permite la legítima defensa de los judíos y se institucionaliza la Fiesta de Purim para conmemorar perpetuamente la milagrosa liberación.",
+  "bosquejo": [
+    {
+      "seccion": "I. El ascenso de Ester al trono de Persia (1:1–2:23)",
+      "descripcion": "El fastuoso banquete del rey Asuero, el rechazo y deposición de la reina Vasti, el concurso imperial de doncellas, la elección de Ester como reina y el complot de los eunucos descubierto por Mardoqueo."
+    },
+    {
+      "seccion": "II. La conspiración de Amán y la crisis del pueblo judío (3:1–5:14)",
+      "descripcion": "La elevación de Amán y la resistencia de Mardoqueo, el decreto irrevocable de exterminio por sorteo (Pur), el duelo de los judíos, el desafío de Mardoqueo a Ester y el primer banquete de la reina."
+    },
+    {
+      "seccion": "III. El giro providencial y el triunfo de los judíos (6:1–8:17)",
+      "descripcion": "La noche de insomnio del rey, la humillación pública de Amán al honrar a Mardoqueo, el segundo banquete donde Ester denuncia el complot, la ejecución de Amán y el nuevo edicto real de autodefensa."
+    },
+    {
+      "seccion": "IV. La institución de Purim y la grandeza de Mardoqueo (9:1–10:3)",
+      "descripcion": "La victoria militar de los judíos sobre sus agresores, el establecimiento formal de los días de Purim como fiesta de regocijo y la exaltación de Mardoqueo como segundo en el imperio."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Porque si callas absolutamente en este tiempo, respiro y liberación vendrá de alguna otra parte para los judíos; mas tú y la casa de tu padre pereceréis. ¿Y quién sabe si para esta hora has llegado al reino?",
+    "pasaje": "Ester 4:14"
+  }
+}

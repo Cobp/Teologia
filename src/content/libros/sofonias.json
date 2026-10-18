@@ -1,0 +1,38 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE SOFONÍAS",
+  "datos_bibliograficos": {
+    "autor": "El profeta Sofonías, hijo de Cusí.",
+    "destinatarios": "Judá y Jerusalén.",
+    "fecha": "Durante el reinado de Josías, aproximadamente entre 640 y 609 a.C.",
+    "lugar": "Judá y Jerusalén.",
+    "estructura": "3 capítulos y 53 versículos.",
+    "ubicacion": "Trigésimo sexto libro de la Biblia y noveno de los profetas menores."
+  },
+  "contexto_historico": "Sofonías profetizó durante el reinado de Josías, en un período en que existían prácticas de idolatría e injusticia en Judá. Anunció el día del Señor como un tiempo de juicio sobre el pecado, pero también presentó promesas de restauración para quienes buscaran a Dios con humildad.",
+  "personajes": [
+    {
+      "nombre": "Sofonías",
+      "descripcion": "Profeta que anuncia el día del Señor."
+    }
+  ],
+  "contenido": "El tema principal es el día del Señor, el juicio contra el pecado y la restauración de un pueblo humilde que confía en Dios.",
+  "sintesis": "En el capítulo 1, Sofonías anuncia el juicio sobre Judá y Jerusalén por su idolatría y desobediencia. En el capítulo 2, llama a buscar al Señor y anuncia juicio sobre varias naciones. En el capítulo 3, denuncia la corrupción de Jerusalén, pero termina con una promesa de restauración, alegría y presencia de Dios en medio de su pueblo. El libro enseña la importancia de la humildad y la búsqueda de Dios.",
+  "bosquejo": [
+    {
+      "seccion": "I. El día del Señor sobre Judá (1:1-18)",
+      "descripcion": "Juicio contra el pecado."
+    },
+    {
+      "seccion": "II. Llamado a buscar a Dios (2:1-3)",
+      "descripcion": "Humildad y arrepentimiento."
+    },
+    {
+      "seccion": "III. Juicio sobre las naciones (2:4-15)",
+      "descripcion": "Dios juzga la maldad."
+    },
+    {
+      "seccion": "IV. Restauración del pueblo (3:1-20)",
+      "descripcion": "Esperanza y alegría en Dios."
+    }
+  ]
+}

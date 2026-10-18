@@ -14,22 +14,22 @@
   "contexto_historico": "Los destinatarios de Hebreos enfrentaban dificultades y presiones que podían llevarlos a abandonar o debilitar su compromiso con Cristo. La carta utiliza ampliamente imágenes y conceptos del Antiguo Testamento, especialmente relacionados con el sacerdocio, los sacrificios, el tabernáculo y el pacto. El autor presenta a Cristo como superior a los ángeles, a Moisés y al sacerdocio levítico, mostrando que el nuevo pacto establecido por Cristo es definitivo.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Jesucristo",
       "descripcion": "Hijo de Dios, sumo sacerdote y mediador del nuevo pacto."
     },
     {
-      "url-img": "",
+      "url-img": "/img/MOISES.webp",
       "nombre": "Moisés",
       "descripcion": "Siervo fiel de Dios, presentado en comparación con la superioridad de Cristo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/MELQUISEDEC.webp",
       "nombre": "Melquisedec",
       "descripcion": "Sacerdote y rey utilizado como figura para explicar el sacerdocio superior de Cristo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/HABRAHAM.webp",
       "nombre": "Abraham",
       "descripcion": "Ejemplo de fe y confianza en las promesas de Dios."
     },

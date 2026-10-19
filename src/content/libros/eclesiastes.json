@@ -1,0 +1,46 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE ECLESIASTÉS",
+  "datos_bibliograficos": {
+    "autor": "Tradicionalmente se atribuye a Salomón; la identidad del autor se debate en los estudios bíblicos.",
+    "destinatarios": "El pueblo de Dios y las personas que buscan comprender el sentido de la vida.",
+    "fecha": "Tradicionalmente relacionado con Salomón; la fecha de composición final es discutida.",
+    "lugar": "Tradicionalmente relacionado con Jerusalén.",
+    "estructura": "12 capítulos y 222 versículos.",
+    "ubicacion": "Vigésimo primer libro de la Biblia y cuarto de los libros poéticos."
+  },
+  "contexto_historico": "Eclesiastés reflexiona sobre la vida humana, el trabajo, la riqueza, el placer, la sabiduría y la muerte. Utiliza la expresión «vanidad» para señalar lo pasajero y limitado de muchas cosas que las personas buscan. El autor observa las dificultades de la vida y llama a reconocer a Dios como la verdadera referencia para vivir.",
+  "personajes": [
+    {
+      "nombre": "El Predicador (Qohelet)",
+      "descripcion": "Voz principal que reflexiona sobre el sentido de la vida."
+    },
+    {
+      "nombre": "Dios",
+      "descripcion": "El Creador y juez ante quien las personas deben vivir con reverencia."
+    },
+    {
+      "nombre": "El ser humano",
+      "descripcion": "Presentado en sus esfuerzos, limitaciones, alegrías y dificultades."
+    }
+  ],
+  "contenido": "El tema principal es la búsqueda del sentido de la vida y el reconocimiento de que el ser humano debe temer a Dios y obedecer sus mandamientos.",
+  "sintesis": "En los capítulos 1–2, el Predicador examina la sabiduría, los placeres y las riquezas, mostrando sus limitaciones. En los capítulos 3–6, reflexiona sobre el tiempo, el trabajo, las injusticias y las riquezas. En los capítulos 7–11, ofrece consejos sobre la sabiduría, la conducta y la manera de enfrentar las incertidumbres de la vida. En el capítulo 12, recuerda la importancia de acordarse del Creador durante la juventud y concluye que debemos temer a Dios y guardar sus mandamientos.",
+  "bosquejo": [
+    {
+      "seccion": "I. La vanidad de las cosas humanas (1:1–2:26)",
+      "descripcion": "Reflexiones sobre el trabajo, el placer y la sabiduría."
+    },
+    {
+      "seccion": "II. El tiempo y las experiencias de la vida (3:1–6:12)",
+      "descripcion": "El tiempo, las injusticias y las riquezas."
+    },
+    {
+      "seccion": "III. Consejos para vivir con sabiduría (7:1–11:10)",
+      "descripcion": "Enseñas sobre la conducta y las incertidumbres."
+    },
+    {
+      "seccion": "IV. Recuerdo del Creador y conclusión (12:1-14)",
+      "descripcion": "Temer a Dios y guardar sus mandamientos."
+    }
+  ]
+}

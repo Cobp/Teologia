@@ -1,0 +1,34 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE HABACUC",
+  "datos_bibliograficos": {
+    "autor": "El profeta Habacuc.",
+    "destinatarios": "El pueblo de Judá.",
+    "fecha": "Aproximadamente entre 609 y 597 a.C.",
+    "lugar": "Judá.",
+    "estructura": "3 capítulos y 56 versículos.",
+    "ubicacion": "Trigésimo quinto libro de la Biblia y octavo de los profetas menores."
+  },
+  "contexto_historico": "Habacuc vivió en un período de violencia e injusticia en Judá, cuando el poder de Babilonia comenzaba a crecer. El profeta pregunta por qué Dios permite el mal y cómo puede utilizar a una nación aún más malvada para juzgar a Judá. El libro presenta un diálogo de fe y termina con una declaración de confianza en Dios.",
+  "personajes": [
+    {
+      "nombre": "Habacuc",
+      "descripcion": "Profeta que expresa sus preguntas y su confianza en Dios."
+    }
+  ],
+  "contenido": "El tema principal es aprender a confiar en la justicia y soberanía de Dios aun cuando no comprendemos sus caminos.",
+  "sintesis": "En el capítulo 1, Habacuc presenta sus preguntas sobre la violencia y el uso de Babilonia como instrumento de juicio. En el capítulo 2, Dios responde y anuncia que el justo vivirá por su fe, mientras que el orgulloso será juzgado. En el capítulo 3, Habacuc ora y expresa su confianza en Dios, incluso si faltan los frutos de la tierra y los recursos. El libro enseña a mantener la fe en medio de la incertidumbre.",
+  "bosquejo": [
+    {
+      "seccion": "I. Preguntas del profeta (1:1-17)",
+      "descripcion": "Injusticia y dudas ante Dios."
+    },
+    {
+      "seccion": "II. Respuesta de Dios (2:1-20)",
+      "descripcion": "El justo vivirá por la fe."
+    },
+    {
+      "seccion": "III. Oración de confianza (3:1-19)",
+      "descripcion": "Alegría y fe en medio de las dificultades."
+    }
+  ]
+}

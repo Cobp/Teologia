@@ -1,0 +1,54 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE ESDRAS",
+  "datos_bibliograficos": {
+    "autor": "Tradicionalmente atribuido a Esdras el escriba (quien compiló los registros oficiales, decretos persas y memorias en primera persona).",
+    "destinatarios": "La comunidad judía postexílica que regresó a Jerusalén, para recordarles la fidelidad providencial de Dios y la necesidad de preservar la pureza espiritual y legal.",
+    "fecha": "Escrito aproximadamente entre el 450 y el 400 a.C. (narra eventos ocurridos entre el 538 y el 456 a.C.).",
+    "lugar": "Principalmente en Jerusalén (Judá) tras el retorno, con secciones iniciales situadas en Babilonia y la corte del Imperio Persa.",
+    "estructura": "10 capítulos y 280 versículos.",
+    "ubicacion": "Decimoquinto libro del Antiguo Testamento; se sitúa en los Libros Históricos, justo después de 2 Crónicas y antes de Nehemías."
+  },
+  "contexto_historico": "Tras cumplir setenta años de cautiverio bajo el yugo babilónico, el panorama político global cambia drásticamente con el ascenso del Imperio Persa. El rey Ciro el Grande emite un decreto histórico que permite a los judíos retornar a su patria devastada. El libro describe el fin del exilio a través de dos oleadas principales de regreso: la primera liderada por Zorobabel para reconstruir el Templo físico, y la segunda liderada por Esdras para reconstruir la comunidad espiritual. Este periodo está marcado por una intensa oposición de los pueblos vecinos, crisis económicas y el peligro inminente de disolver la identidad del pueblo elegido mediante matrimonios paganos.",
+  "personajes": [
+    {
+      "nombre": "Ciro el Grande",
+      "descripcion": "Rey de Persia cuyo corazón fue conmovido por Dios para proclamar el edicto de liberación, devolviendo además los utensilios sagrados que habían sido saqueados del Templo original."
+    },
+    {
+      "nombre": "Zorobabel",
+      "descripcion": "Gobernador de Judá de la línea real de David. Lideró el primer gran contingente de exiliados de regreso a Jerusalén y colocó los cimientos del Segundo Templo en medio de grandes dificultades."
+    },
+    {
+      "nombre": "Jesúa (o Josué)",
+      "descripcion": "Sumo sacerdote que trabajó codo a codo con Zorobabel. Se encargó de restaurar inmediatamente el altar de los holocaustos para reanudar los sacrificios litúrgicos diarios."
+    },
+    {
+      "nombre": "Hageo y Zacarías",
+      "descripcion": "Profetas enviados por Dios para sacudir la apatía espiritual del pueblo. Sus mensajes inspiraron y confrontaron a los líderes para reanudar la construcción del Templo tras años de parálisis por la oposición enemiga."
+    },
+    {
+      "nombre": "Esdras",
+      "descripcion": "Sacerdote, escriba y maestro erudito de la Ley de Dios. Lideró el segundo retorno desde Babilonia con la misión de enseñar las Escrituras, purificar el culto y confrontar el pecado de las alianzas matrimoniales prohibidas."
+    }
+  ],
+  "contenido": "El tema principal es la restauración providencial del pueblo de Dios y la centralidad de Su Palabra, demostrando cómo la mano soberana de Jehová mueve la historia y los corazones de reyes paganos para cumplir Sus promesas, exigiendo a cambio un pueblo santo y consagrado a Su Ley.",
+  "sintesis": "En los capítulos 1–6, se narra el primer retorno de los exiliados bajo el mando de Zorobabel. A pesar del entusiasmo inicial al levantar el altar y los cimientos, la violenta oposición de los samaritanos paraliza la obra por años, hasta que la intervención de los profetas Hageo y Zacarías impulsa la culminación y gozosa dedicación del Segundo Templo. En los capítulos 7–10, transcurren casi sesenta años de silencio cronológico hasta el arribo de Esdras, comisionado por el rey Artajerjes. Al llegar a Jerusalén, Esdras se enfrenta a una devastadora crisis moral: el pueblo y los sacerdotes se han mezclado con las naciones paganas, lo que detona una profunda intercesión pública, llanto colectivo y una reforma radical de arrepentimiento.",
+  "bosquejo": [
+    {
+      "seccion": "I. El primer retorno y la reconstrucción del Templo (1:1–6:22)",
+      "descripcion": "El decreto de Ciro, el registro de los primeros repatriados, la restauración del altar de sacrificios, el complot de los enemigos para detener la obra y la posterior confirmación del decreto por Darío I que culmina con la dedicación del Templo y la celebración de la Pascua."
+    },
+    {
+      "seccion": "II. El segundo retorno bajo el liderazgo de Esdras (7:1–8:36)",
+      "descripcion": "La genealogía de Esdras, la generosa carta y recursos otorgados por el rey Artajerjes, el viaje seguro de la caravana bajo la protección e intercesión divina en el río Ahava y la entrega de las ofrendas en Jerusalén."
+    },
+    {
+      "seccion": "III. La crisis de los matrimonios mixtos y la reforma espiritual (9:1–10:44)",
+      "descripcion": "El informe sobre la infidelidad del pueblo, la desgarradora oración de confesión e intercesión de Esdras en el Templo, la asamblea nacional bajo la lluvia y el acuerdo formal para disolver las alianzas paganas para preservar la santidad de la nación."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Porque Esdras había preparado su corazón para escudriñar la ley de Jehová y para cumplirla, y para enseñar en Israel sus estatutos y decretos.",
+    "pasaje": "Esdras 7:10"
+  }
+}

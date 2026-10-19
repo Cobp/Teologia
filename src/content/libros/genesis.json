@@ -1,0 +1,62 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE GÉNESIS",
+  "datos_bibliograficos": {
+    "autor": "Moisés",
+    "destinatarios": "El pueblo de Israel (y toda la humanidad a través de las Escrituras).",
+    "fecha": "Aproximadamente entre el 1445 y el 1405 a.C. (durante el éxodo por el desierto).",
+    "lugar": "El desierto del Sinaí.",
+    "estructura": "50 capítulos y 1,533 versículos.",
+    "ubicacion": "Primer libro del Antiguo Testamento y del Pentateuco, antes de Éxodo."
+  },
+  "contexto_historico": "Génesis fue escrito para los israelitas que salían de la esclavitud en Egipto...",
+  "personajes": [
+    {
+      "nombre": "Dios (Jehová/Elohim)",
+      "descripcion": "Creador del universo, soberano y dador del pacto."
+    },
+    {
+      "nombre": "Adán y Eva",
+      "descripcion": "Los primeros seres humanos y la fuente de la caída en el pecado."
+    },
+    {
+      "nombre": "Noé",
+      "descripcion": "Hombre fiel a quien Dios salvó del diluvio universal junto con su familia."
+    },
+    {
+      "nombre": "Abraham",
+      "descripcion": "Padre de la fe y patriarca con quien Dios estableció el pacto..."
+    },
+    {
+      "nombre": "Isaac y Jacob",
+      "descripcion": "Herederos del pacto patriarcal..."
+    },
+    {
+      "nombre": "José",
+      "descripcion": "Hijo de Jacob, vendido como esclavo en Egipto..."
+    }
+  ],
+  "contenido": "El tema principal es los orígenes y la redención...",
+  "sintesis": "En los capítulos 1–11, se narran los orígenes primordiales...",
+  "bosquejo": [
+    {
+      "seccion": "I. La Historia Primitiva (1:1–11:32)",
+      "descripcion": "Creación del mundo y del ser humano..."
+    },
+    {
+      "seccion": "II. La Historia Patriarcal: Abraham (12:1–25:18)",
+      "descripcion": "El llamado de Abraham..."
+    },
+    {
+      "seccion": "III. La Historia Patriarcal: Isaac y Jacob (25:19–36:43)",
+      "descripcion": "Nacimiento de Esaú e Jacob..."
+    },
+    {
+      "seccion": "IV. La Historia de José (37:1–50:26)",
+      "descripcion": "José vendido por sus hermanos..."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Bendeciré a los que te bendijeren, y a los que te maldijeren maldeciré; y serán benditas en ti todas las familias de la tierra",
+    "pasaje": "Génesis 12:3"
+  }
+}

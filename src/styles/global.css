@@ -9,7 +9,9 @@
   --red-color: #a42527;
   --orange-color: #f67f00;
 }
-
+* {
+  scroll-behavior: smooth;
+}
 body {
   display: flex;
   flex-direction: column;

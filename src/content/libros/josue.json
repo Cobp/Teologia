@@ -1,0 +1,54 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE JOSUÉ",
+  "datos_bibliograficos": {
+    "autor": "Atribuido tradicionalmente a Josué (con secciones finales añadidas posiblemente por el sumo sacerdote Eleazar o Finees).",
+    "destinatarios": "El pueblo de Israel, la nueva generación nacida en el desierto lista para poseer la tierra.",
+    "fecha": "Aproximadamente entre 1405 y 1385 a.C.",
+    "lugar": "Principalmente las llanuras de Moab, el río Jordán y la tierra de Canaán.",
+    "estructura": "24 capítulos y 658 versículos.",
+    "ubicacion": "Sexto libro del Antiguo Testamento; inaugura los Libros Históricos justo después de Deuteronomio y antes de Jueces."
+  },
+  "contexto_historico": "Canaán estaba habitada por diversas naciones idólatras, moralmente degradadas y organizadas en ciudades-estado fuertemente amuralladas. Tras la muerte de Moisés, Israel deja atrás su vida nómada de 40 años en el desierto. Bajo el nuevo liderazgo de Josué, la nación debe cruzar el río Jordán y enfrentar batallas militares teocéntricas. El relato enfatiza que la conquista no es un logro humano, sino el cumplimiento de la promesa de Dios hecha a Abraham.",
+  "personajes": [
+    {
+      "nombre": "Josué",
+      "descripcion": "Sucesor de Moisés, general del ejército de Israel y líder fiel del pacto."
+    },
+    {
+      "nombre": "Rahab",
+      "descripcion": "Mujer cananea de Jericó que demostró una gran fe, protegió a los espías y fue integrada en el pueblo de Israel."
+    },
+    {
+      "nombre": "Acán",
+      "descripcion": "Israelita cuya desobediencia al codiciar y esconder el botín consagrado de Jericó causó la derrota del pueblo en la batalla de Hai."
+    },
+    {
+      "nombre": "Caleb",
+      "descripcion": "Compañero fiel de Josué que recibió su herencia especial por haber confiado plenamente en Dios desde su juventud."
+    }
+  ],
+  "contenido": "El tema principal es la fidelidad de Dios en el cumplimiento de sus promesas mediante la conquista, posesión y distribución de la Tierra Prometida, exigiendo a cambio obediencia total y santidad de su pueblo.",
+  "sintesis": "En los capítulos 1–12, se narra la transición del liderazgo, el cruce milagroso del río Jordán en seco y la renovación del pacto a través de la circuncisión y la Pascua. Se detallan las campañas militares en las zonas central, sur y norte de Canaán, destacando la caída milagrosa de Jericó y la lección de obediencia en la ciudad de Hai. En los capítulos 13–24, se describe la distribución geográfica detallada de los territorios conquistados entre las doce tribus de Israel. El libro concluye con los discursos finales de Josué, quien desafía solemnemente a la nación a permanecer fiel a Dios y a rechazar por completo la idolatría.",
+  "bosquejo": [
+    {
+      "seccion": "I. Preparación y entrada a la tierra (1:1–5:12)",
+      "descripcion": "Comisión de Josué, envío de los espías a Jericó, cruce del río Jordán y renovación de los ritos del pacto."
+    },
+    {
+      "seccion": "II. La conquista de Canaán (5:13–12:24)",
+      "descripcion": "Aparición del Príncipe del ejército de Jehová, caída de Jericó, el pecado de Acán y la toma de Hai, seguidas por las campañas del sur y del norte."
+    },
+    {
+      "seccion": "III. Distribución de la Tierra Prometida (13:1–22:34)",
+      "descripcion": "Repartición de territorios por suertes a las tribus, establecimiento de las ciudades de refugio y asignación de las ciudades levíticas."
+    },
+    {
+      "seccion": "IV. Discursos de despedida y muerte de Josué (23:1–24:33)",
+      "descripcion": "Exhortaciones finales a la fidelidad, renovación del pacto en Siquem, muerte y sepultura de Josué."
+    }
+  ],
+  "versiculo_clave": {
+    "texto": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas",
+    "pasaje": "Josué 1:9"
+  }
+}

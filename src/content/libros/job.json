@@ -1,0 +1,58 @@
+{
+  "titulo": "PANORAMA BÍBLICO – LIBRO DE JOB",
+  "datos_bibliograficos": {
+    "autor": "Desconocido.",
+    "destinatarios": "El pueblo de Dios y lectores interesados en el sufrimiento y la fe.",
+    "fecha": "Desconocida; el contexto de la historia se sitúa en la época patriarcal.",
+    "lugar": "Desconocido; Job vivía en la tierra de Uz.",
+    "estructura": "42 capítulos y 1.070 versículos.",
+    "ubicacion": "Decimoctavo libro de la Biblia y primero de los libros poéticos."
+  },
+  "contexto_historico": "El libro presenta a Job, un hombre justo y rico que enfrenta grandes sufrimientos. Satanás cuestiona la sinceridad de su fe, y Dios permite que sea probado. Sus amigos intentan explicar su sufrimiento, pero sus respuestas no reflejan correctamente la justicia de Dios. El libro trata sobre el dolor humano, la soberanía de Dios y la confianza en Él.",
+  "personajes": [
+    {
+      "nombre": "Job",
+      "descripcion": "Hombre justo que atraviesa pruebas y sufrimiento."
+    },
+    {
+      "nombre": "Satanás",
+      "descripcion": "Acusador que cuestiona la fidelidad de Job."
+    },
+    {
+      "nombre": "Esposa de Job",
+      "descripcion": "Le aconseja abandonar su integridad."
+    },
+    {
+      "nombre": "Elifaz, Bildad y Zofar",
+      "descripcion": "Amigos que dialogan con Job."
+    },
+    {
+      "nombre": "Eliú",
+      "descripcion": "Joven que presenta una perspectiva diferente sobre el sufrimiento."
+    }
+  ],
+  "contenido": "El tema principal es la relación entre la fe, el sufrimiento humano y la soberanía de Dios.",
+  "sintesis": "En los capítulos 1–2, Job pierde sus bienes, sus hijos y su salud, pero enfrenta la prueba. En los capítulos 3–31, conversa con sus amigos y expresa su dolor, mientras ellos intentan explicar su situación. En los capítulos 32–37, Eliú habla sobre la grandeza y justicia de Dios. En los capítulos 38–41, Dios responde desde un torbellino y muestra su poder y sabiduría. En el capítulo 42, Job reconoce la grandeza de Dios, es restaurado y recibe nuevas bendiciones.",
+  "bosquejo": [
+    {
+      "seccion": "I. Prueba de Job (1:1–2:13)",
+      "descripcion": "Satanás pone a prueba la fidelidad de Job."
+    },
+    {
+      "seccion": "II. Diálogos y sufrimiento (3:1–31:40)",
+      "descripcion": "Job y sus amigos discuten sobre el sufrimiento y la justicia."
+    },
+    {
+      "seccion": "III. Discurso de Eliú (32:1–37:24)",
+      "descripcion": "Reflexión sobre Dios y sus caminos."
+    },
+    {
+      "seccion": "IV. Respuesta de Dios (38:1–41:34)",
+      "descripcion": "Dios muestra su poder y sabiduría."
+    },
+    {
+      "seccion": "V. Restauración de Job (42:1-17)",
+      "descripcion": "Job reconoce a Dios y su vida es restaurada."
+    }
+  ]
+}

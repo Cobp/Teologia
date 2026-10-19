@@ -1,6 +1,7 @@
 {
   "titulo": "PANORAMA BÍBLICO – LIBRO DE ESTER",
   "datos_bibliograficos": {
+    "url-bg": "/img/PortadaSamuel.webp",
     "autor": "Desconocido (tradicionalmente asociado a Mardoqueo o a la Gran Sinagoga, debido al profundo conocimiento de las costumbres e intrigas de la corte persa).",
     "destinatarios": "Los judíos de la diáspora (y las futuras generaciones), para explicar el origen histórico de la Fiesta de Purim y recordar la fiel protección divina fuera de la Tierra Prometida.",
     "fecha": "Escrito aproximadamente entre el 460 y el 400 a.C. (narra eventos ocurridos entre el 483 y el 473 a.C., durante el reinado de Jerjes I).",
@@ -11,6 +12,7 @@
   "contexto_historico": "Mientras un remanente judío regresaba a Jerusalén para reconstruir el Templo tras el exilio, la inmensa mayoría de la población judía decidió quedarse en los vastos territorios del Imperio Persa. Al asimilarse a la cultura y vivir bajo un gobierno pagano, la comunidad enfrenta una vulnerabilidad política total. En este escenario de sutil sumisión, surge una conspiración antisemita masiva a nivel estatal que amenaza con la exterminación biológica total e inmediata de todos los judíos en las 127 provincias del imperio, forzando una crisis de supervivencia que solo se resolverá mediante la valentía individual y giros providenciales inesperados.",
   "personajes": [
     {
+      "url-img": "/img/RUT.webp",
       "nombre": "Ester (Hadasa)",
       "descripcion": "Joven huérfana judía de la tribu de Benjamín que es elegida reina de Persia debido a su excepcional belleza; demuestra gran valentía, ayuno y estrategia diplomática al arriesgar su vida para interceder por su pueblo ante el rey."
     },

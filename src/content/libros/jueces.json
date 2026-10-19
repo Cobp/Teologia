@@ -1,6 +1,8 @@
 {
   "titulo": "PANORAMA BÍBLICO – LIBRO DE JUECES",
   "datos_bibliograficos": {
+    "url-bg": "/img/PortadaJueces.webp",
+    "url-autor": "/img/SAMUEL.webp",
     "autor": "Tradicionalmente atribuido al profeta Samuel.",
     "destinatarios": "El pueblo de Israel, como una advertencia para las futuras generaciones sobre las consecuencias de la apostasía.",
     "fecha": "Escrito aproximadamente entre el 1050 y el 1000 a.C.",
@@ -11,18 +13,22 @@
   "contexto_historico": "Tras la muerte de Josué, Israel no logró expulsar por completo a las naciones paganas de la Tierra Prometida. Al convivir con los cananeos, el pueblo adoptó progresivamente su idolatría, desobediencia y degradación moral. Sin un líder central que unificara a las doce tribus, el libro describe el período más oscuro en la historia del pacto. Es una época de espiral descendente marcada por un ciclo repetitivo: el pecado del pueblo, la consecuente opresión por naciones enemigas, el clamor angustiado de los israelitas y la milagrosa liberación divina mediante líderes locales improvisados.",
   "personajes": [
     {
+      "url-img": "/img/DEBORA.webp",
       "nombre": "Débora",
       "descripcion": "Profetisa y única jueza de Israel, quien demostró gran sabiduría, fe y coraje al guiar al general Barac a derrotar a las fuerzas cananeas."
     },
     {
+      "url-img": "/img/GEDEON.webp",
       "nombre": "Gedeón",
       "descripcion": "Hombre humilde transformado por Dios en un valiente guerrero, que libró a Israel de los madianitas con un ejército reducido a solo 300 hombres, aunque su vida terminó ensombrecida por la idolatría familiar."
     },
     {
+      "url-img": "/img/FEBE.webp",
       "nombre": "Jefté",
       "descripcion": "Líder marginado y guerrero marginado que salvó al pueblo de la amenaza amonita, pero cuya falta de conocimiento de la naturaleza divina lo llevó a hacer un trágico voto cananeo."
     },
     {
+      "url-img": "/img/SANSON.webp",
       "nombre": "Sansón",
       "descripcion": "El juez con mayor fuerza física pero enormes debilidades morales, quien combatió individualmente a los filisteos en medio de conflictos pasionales y personales."
     }

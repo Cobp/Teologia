@@ -1,6 +1,8 @@
 {
   "titulo": "PANORAMA BÍBLICO – LIBRO DE ESDRAS",
   "datos_bibliograficos": {
+    "url-bg": "/img/PortadaSamuel.webp",
+    "url-autor": "/img/ESDRAS.webp",
     "autor": "Tradicionalmente atribuido a Esdras el escriba (quien compiló los registros oficiales, decretos persas y memorias en primera persona).",
     "destinatarios": "La comunidad judía postexílica que regresó a Jerusalén, para recordarles la fidelidad providencial de Dios y la necesidad de preservar la pureza espiritual y legal.",
     "fecha": "Escrito aproximadamente entre el 450 y el 400 a.C. (narra eventos ocurridos entre el 538 y el 456 a.C.).",
@@ -11,22 +13,27 @@
   "contexto_historico": "Tras cumplir setenta años de cautiverio bajo el yugo babilónico, el panorama político global cambia drásticamente con el ascenso del Imperio Persa. El rey Ciro el Grande emite un decreto histórico que permite a los judíos retornar a su patria devastada. El libro describe el fin del exilio a través de dos oleadas principales de regreso: la primera liderada por Zorobabel para reconstruir el Templo físico, y la segunda liderada por Esdras para reconstruir la comunidad espiritual. Este periodo está marcado por una intensa oposición de los pueblos vecinos, crisis económicas y el peligro inminente de disolver la identidad del pueblo elegido mediante matrimonios paganos.",
   "personajes": [
     {
+      "url-img": "/img/CIRO.webp",
       "nombre": "Ciro el Grande",
       "descripcion": "Rey de Persia cuyo corazón fue conmovido por Dios para proclamar el edicto de liberación, devolviendo además los utensilios sagrados que habían sido saqueados del Templo original."
     },
     {
+    
       "nombre": "Zorobabel",
       "descripcion": "Gobernador de Judá de la línea real de David. Lideró el primer gran contingente de exiliados de regreso a Jerusalén y colocó los cimientos del Segundo Templo en medio de grandes dificultades."
     },
     {
+      "url-img": "/img/JOSUE.webp",
       "nombre": "Jesúa (o Josué)",
       "descripcion": "Sumo sacerdote que trabajó codo a codo con Zorobabel. Se encargó de restaurar inmediatamente el altar de los holocaustos para reanudar los sacrificios litúrgicos diarios."
     },
     {
+      "url-img": "/img/SAMUEL.webp",
       "nombre": "Hageo y Zacarías",
       "descripcion": "Profetas enviados por Dios para sacudir la apatía espiritual del pueblo. Sus mensajes inspiraron y confrontaron a los líderes para reanudar la construcción del Templo tras años de parálisis por la oposición enemiga."
     },
     {
+      "url-img": "/img/ESDRAS.webp",
       "nombre": "Esdras",
       "descripcion": "Sacerdote, escriba y maestro erudito de la Ley de Dios. Lideró el segundo retorno desde Babilonia con la misión de enseñar las Escrituras, purificar el culto y confrontar el pecado de las alianzas matrimoniales prohibidas."
     }

@@ -1,6 +1,7 @@
 {
   "titulo": "PANORAMA BÍBLICO – LIBRO DE 2 SAMUEL",
   "datos_bibliograficos": {
+    "url-bg": "/img/PortadaSamuel.webp",
     "autor": "Desconocido (tradicionalmente asociado a los profetas Gad y Natán, quienes continuaron el registro tras la muerte de Samuel).",
     "destinatarios": "El pueblo de Israel, para legitimar el pacto dinástico de Dios con David y mostrar las consecuencias del pecado en el liderazgo.",
     "fecha": "Escrito aproximadamente entre el 930 y el 722 a.C. (narra eventos ocurridos entre el 1010 y el 970 a.C.).",
@@ -11,18 +12,22 @@
   "contexto_historico": "Tras la trágica muerte del rey Saúl, Israel enfrenta una inminente guerra civil y una profunda división interna. La tribu de Judá proclama rey a David, mientras que las tribus del norte apoyan a Isboset, hijo de Saúl. Una vez unificada la nación bajo el mando de David, Israel experimenta una era de tremenda expansión militar, prosperidad económica y consolidación espiritual. Sin embargo, el contexto también registra las intensas intrigas políticas en la corte y las graves crisis familiares que desestabilizaron el reino debido a los fallos morales de su propio monarca.",
   "personajes": [
     {
+      "url-img": "/img/DAVID.webp",
       "nombre": "David",
       "descripcion": "Segundo rey de Israel, descrito como un hombre conforme al corazón de Dios; unifica las tribus, expande el imperio y recibe la promesa de un trono eterno, aunque su pecado trae graves consecuencias sobre su casa."
     },
     {
+      "url-img": "/img/NATAN.webp",
       "nombre": "Natán",
       "descripcion": "Profeta fiel de la corte de David, encargado de comunicarle el Pacto Davídico y de confrontarlo con valentía y sabiduría tras su pecado con Betsabé."
     },
     {
+      "url-img": "/img/BETSABE.webp",
       "nombre": "Betsabé",
       "descripcion": "Esposa de Urías el heteo con quien David comete adulterio, y que más tarde se convierte en esposa del rey y madre del futuro rey Salomón."
     },
     {
+      "url-img": "/img/ABSALON.webp",
       "nombre": "Absalón",
       "descripcion": "Hijo ambicioso y carismático de David que asesina a su hermano Ammón, conspira contra su padre, usurpa temporalmente el trono y desata una sangrienta rebelión interna."
     }

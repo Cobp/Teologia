@@ -1,6 +1,8 @@
 {
   "titulo": "PANORAMA BÍBLICO – LIBRO DE GÉNESIS",
   "datos_bibliograficos": {
+    "url-bg":"/img/PortadaGenesis.webp",
+    "url-autor": "/img/MOISES.webp",
     "autor": "Moisés",
     "destinatarios": "El pueblo de Israel (y toda la humanidad a través de las Escrituras).",
     "fecha": "Aproximadamente entre el 1445 y el 1405 a.C. (durante el éxodo por el desierto).",
@@ -11,26 +13,32 @@
   "contexto_historico": "Génesis fue escrito para los israelitas que salían de la esclavitud en Egipto...",
   "personajes": [
     {
+      "url-img": "/img/DIOS.webp",
       "nombre": "Dios (Jehová/Elohim)",
       "descripcion": "Creador del universo, soberano y dador del pacto."
     },
     {
+      "url-img": "/img/ADANEVA.webp",
       "nombre": "Adán y Eva",
       "descripcion": "Los primeros seres humanos y la fuente de la caída en el pecado."
     },
     {
+      "url-img": "/img/NOE.webp",
       "nombre": "Noé",
       "descripcion": "Hombre fiel a quien Dios salvó del diluvio universal junto con su familia."
     },
     {
+      "url-img": "/img/ABRAHAM.webp",
       "nombre": "Abraham",
       "descripcion": "Padre de la fe y patriarca con quien Dios estableció el pacto..."
     },
     {
+      "url-img": "/img/IsaacJacob.webp",
       "nombre": "Isaac y Jacob",
       "descripcion": "Herederos del pacto patriarcal..."
     },
     {
+      "url-img": "/img/JOSE.webp",
       "nombre": "José",
       "descripcion": "Hijo de Jacob, vendido como esclavo en Egipto..."
     }

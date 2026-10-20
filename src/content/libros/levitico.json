@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE LEVÍTICO",
+  "titulo": "LIBRO DE LEVÍTICO",
+  "fuente": "Antiguo Testamento - Pentateuco",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "Moisés.",
     "destinatarios": "El pueblo de Israel, especialmente los sacerdotes de la tribu de Leví.",
     "fecha": "Aproximadamente entre el 1445 y el 1405 a.C.",
@@ -11,14 +14,17 @@
   "contexto_historico": "Tras la construcción del Tabernáculo en el monte Sinaí, Dios se disponía a habitar en medio de su pueblo. Sin embargo, al ser un Dios santo, requería que un pueblo pecaminoso aprendiera a acercarse a Él de manera correcta. Levítico surge como el manual litúrgico, moral y espiritual para regular el culto, la pureza ritual y la conducta ética de Israel, enseñando que la santidad de Dios demanda santidad en sus adoradores.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Moisés",
       "descripcion": "Receptor de las revelaciones y leyes divinas en el monte Sinaí para transmitirlas a Israel."
     },
     {
+      "url-img": "",
       "nombre": "Aarón y sus hijos",
       "descripcion": "Primeros sacerdotes de la línea levítica encargados de mediar en los sacrificios y el culto del Tabernáculo."
     },
     {
+      "url-img": "",
       "nombre": "Nadab y Abiú",
       "descripcion": "Hijos de Aarón que ofrecieron fuego extraño ante el Señor y fueron juzgados con la muerte, subrayando la reverencia debida a Dios."
     }
@@ -27,27 +33,27 @@
   "sintesis": "En los capítulos 1–16, se detallan las normativas del culto y el acercamiento a Dios: los diferentes tipos de sacrificios y ofrendas, la consagración del sacerdocio de Aarón, las leyes sobre la pureza e impureza ritual (alimentos, enfermedades y el cuerpo), y la solemne ceremonia del Día de la Expiación (Yom Kipur), cuando se obtenía el perdón de los pecados de toda la nación. En los capítulos 17–27, se establece el llamado a la santidad práctica en la vida cotidiana (el \"Código de Santidad\"), las leyes morales y sociales, las reglas para las fiestas sagradas, las bendiciones por la obediencia y las advertencias por la desobediencia al pacto.",
   "bosquejo": [
     {
-      "seccion": "I. Las leyes de los sacrificios (1:1–7:38)",
+      "seccion": "Las leyes de los sacrificios (1:1–7:38)",
       "descripcion": "Instrucciones sobre las ofrendas quemadas, de grano, de paz, por el pecado y por la culpa."
     },
     {
-      "seccion": "II. La consagración del sacerdocio (8:1–10:20)",
+      "seccion": "La consagración del sacerdocio (8:1–10:20)",
       "descripcion": "La investidura de Aarón y sus hijos, el inicio del ministerio en el Tabernáculo y el juicio divino sobre Nadab y Abiú."
     },
     {
-      "seccion": "III. Leyes de pureza e impureza (11:1–15:33)",
+      "seccion": "Leyes de pureza e impureza (11:1–15:33)",
       "descripcion": "Distinción entre animales limpios e impuros, la purificación después del parto y regulaciones sobre la lepra y flujos corporales."
     },
     {
-      "seccion": "IV. El Día de la Expiación (16:1–17:16)",
+      "seccion": "El Día de la Expiación (16:1–17:16)",
       "descripcion": "Ritos anuales del sumo sacerdote en el Lugar Santísimo y el chivo expiatorio para la limpieza de la nación."
     },
     {
-      "seccion": "V. El Código de Santidad y la vida práctica (18:1–25:55)",
+      "seccion": "El Código de Santidad y la vida práctica (18:1–25:55)",
       "descripcion": "Mandatos sobre la moral sexual, el amor al prójimo, la justicia social, las festividades religiosas del año y las leyes de los años sabáticos y del Jubileo."
     },
     {
-      "seccion": "VI. Conclusión: Bendiciones, castigos y votos (26:1–27:34)",
+      "seccion": "Conclusión: Bendiciones, castigos y votos (26:1–27:34)",
       "descripcion": "Promesas de bendición por la fidelidad, consecuencias de la apostasía y regulaciones para los votos y diezmos consagrados al Señor."
     }
   ],

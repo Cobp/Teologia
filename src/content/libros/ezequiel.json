@@ -1,6 +1,9 @@
 {
   "titulo": "PANORAMA BÍBLICO – LIBRO DE EZEQUIEL",
+  "fuente": "Antiguo Testamento - Profetas Mayores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "El profeta Ezequiel, hijo de Buzi (un sacerdote de la línea de Sadoc, cuyo nombre significa \"Dios fortalece\").",
     "destinatarios": "Los judíos exiliados en Babilonia (especialmente la comunidad asentada junto al río Quebar), sirviendo también de advertencia para el remanente que aún quedaba en Jerusalén.",
     "fecha": "Escrito aproximadamente entre el 593 y el 571 a.C. (las profecías están registradas con fechas exactas basadas en los años del cautiverio del rey Joaquín).",
@@ -11,22 +14,27 @@
   "contexto_historico": "Ezequiel pertenece a la aristocracia sacerdotal de Jerusalén y es deportado a Babilonia en la segunda ola de cautiverio (597 a.C.), cinco años antes de recibir su llamamiento profético. Mientras él vive en los campos de refugiados babilónicos, Jerusalén todavía sigue en pie bajo el gobierno títere de Sedequías, pero hundiéndose en la idolatría. Los exiliados en Babilonia alimentan la falsa esperanza de que el cautiverio será corto y que Dios no permitirá la destrucción de Su ciudad sagrada. El ministerio de Ezequiel rompe esta ilusión al anunciar que el Templo será arrasado debido a los pecados nacionales, para luego, tras la caída de la ciudad en el 586 a.C., cambiar su mensaje hacia el consuelo y el renacimiento espiritual del pueblo.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Ezequiel",
       "descripcion": "Sacerdote transformado en profeta a los treinta años en el exilio. Destaca por su obediencia absoluta al actuar como una \"señal viviente\", realizando impactantes representaciones dramáticas y presenciando visiones sobrenaturales de la gloria de Dios."
     },
     {
+      "url-img": "",
       "nombre": "Los ancianos de Judá",
       "descripcion": "Líderes de la comunidad en el exilio que acudían constantemente a la casa de Ezequías para consultar la palabra del Señor, pero cuyos corazones seguían apegados a la idolatría secreta, siendo duramente confrontados por el profeta."
     },
     {
+      "url-img": "",
       "nombre": "La esposa de Ezequiel",
       "descripcion": "Descrita cariñosamente por Dios como \"el deleite de sus ojos\". Su muerte repentina e inesperada fue utilizada por el Señor como una trágica señal visual para ilustrar que Jerusalén y su Templo serían destruidos sin que el pueblo pudiera guardar luto formal."
     },
     {
+      "url-img": "",
       "nombre": "El pastor falso y el Verdadero",
       "descripcion": "Figuras representativas del liderazgo. Los gobernantes de Israel son denunciados como pastores codiciosos que devoraron a las ovejas, contrastando con la promesa de que Dios mismo enviará a un Pastor fiel (el Mesías de la línea de David) para pastorear al rebaño."
     },
     {
+      "url-img": "",
       "nombre": "El pueblo rebelde (\"Casa rebelde\")",
       "descripcion": "La metáfora colectiva utilizada a lo largo de todo el libro para describir a la nación de Israel, caracterizada por su obstinación, dureza de corazón y una resistencia histórica a escuchar las advertencias divinas."
     }
@@ -35,19 +43,19 @@
   "sintesis": "En los capítulos 1–24, se describe el impactante llamamiento de Ezequiel y una serie de profecías drásticas que anuncian el juicio inminente sobre Jerusalén. El profeta observa en visión cómo la gloria de Dios abandona el Templo profanado por la idolatría. En los capítulos 25–32, el tono se expande hacia el plano internacional con oráculos de juicio contra las naciones paganas vecinas que se burlaron de la caída de Judá. El libro da un giro de esperanza en los capítulos 33–39, donde tras confirmarse la destrucción material de Jerusalén, Dios promete el regreso del exilio, la regeneración espiritual ilustrada en el valle de los huesos secos y la victoria sobre los enemigos. Concluye en los capítulos 40–48 con una detallada visión apocalíptica del nuevo Templo, la restauración del culto y el retorno definitivo de la gloria divina.",
   "bosquejo": [
     {
-      "seccion": "I. Visiones de la gloria divina y juicio sobre Jerusalén (1:1–24:27)",
+      "seccion": "Visiones de la gloria divina y juicio sobre Jerusalén (1:1–24:27)",
       "descripcion": "La espectacular visión del carro celestial y los querubines, las representaciones dramáticas del asedio (dibujar la ciudad en un adobe, acostarse de lado, raparse el cabello), la visión del Templo profanado, la salida de la gloria de Dios y la muerte de la esposa del profeta."
     },
     {
-      "seccion": "II. Oráculos de juicio contra las naciones extranjeras (25:1–32:32)",
+      "seccion": "Oráculos de juicio contra las naciones extranjeras (25:1–32:32)",
       "descripcion": "Sentencias divinas de destrucción contra Amón, Moab, Edom, Filistea, las ciudades comerciales de Tiro y Sidón, y el imperio de Egipto."
     },
     {
-      "seccion": "III. El atalaya de Israel y la restauración del pueblo (33:1–39:29)",
+      "seccion": "El atalaya de Israel y la restauración del pueblo (33:1–39:29)",
       "descripcion": "La renovación del llamado de Ezequiel como atalaya, la denuncia a los malos pastores, la profecía de la resurrección nacional en el Valle de los Huesos Secos, la unificación de las dos varas (Israel y Judá) y la derrota final de Gog y Magog."
     },
     {
-      "seccion": "IV. La visión del nuevo Templo y la restauración futura (40:1–48:35)",
+      "seccion": "La visión del nuevo Templo y la restauración futura (40:1–48:35)",
       "descripcion": "Las medidas minuciosas de la nueva estructura sagrada, el regreso triunfal de la gloria de Jehová a su casa, el río de aguas medicinales que fluye desde el altar y la redistribución de la tierra entre las doce tribus, finalizando con el nuevo nombre de la ciudad."
     }
   ],

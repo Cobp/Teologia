@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE JOEL",
+  "titulo": "LIBRO DE JOEL",
+  "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "El profeta Joel, hijo de Petuel.",
     "destinatarios": "El pueblo de Judá.",
     "fecha": "Desconocida; existen diferentes propuestas de datación.",
@@ -11,6 +14,7 @@
   "contexto_historico": "Joel describe una devastadora plaga de langostas y una situación de sequía que afectó a la tierra. Estos acontecimientos sirven como una llamada a reconocer el juicio de Dios y buscarlo con sinceridad. El profeta también anuncia el derramamiento del Espíritu de Dios y el día del Señor.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Joel",
       "descripcion": "Profeta que llama al pueblo a arrepentirse."
     }
@@ -19,19 +23,19 @@
   "sintesis": "En el capítulo 1, Joel describe la plaga de langostas y llama al pueblo a lamentarse. En 2:1-17, anuncia el día del Señor e invita al arrepentimiento sincero. En 2:18-32, Dios promete restauración y el derramamiento de su Espíritu. En el capítulo 3, anuncia el juicio de las naciones y la esperanza para su pueblo. El libro enseña la importancia de buscar a Dios de corazón.",
   "bosquejo": [
     {
-      "seccion": "I. La plaga de langostas (1:1-20)",
+      "seccion": "La plaga de langostas (1:1-20)",
       "descripcion": "Lamento y llamado a la oración."
     },
     {
-      "seccion": "II. El día del Señor (2:1-17)",
+      "seccion": "El día del Señor (2:1-17)",
       "descripcion": "Arrepentimiento y búsqueda de Dios."
     },
     {
-      "seccion": "III. Promesa de restauración (2:18-32)",
+      "seccion": "Promesa de restauración (2:18-32)",
       "descripcion": "Bendición y derramamiento del Espíritu."
     },
     {
-      "seccion": "IV. Juicio y esperanza (3:1-21)",
+      "seccion": "Juicio y esperanza (3:1-21)",
       "descripcion": "Juicio de las naciones y protección de Judá."
     }
   ]

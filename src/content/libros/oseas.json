@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE OSEAS",
+  "titulo": "LIBRO DE OSEAS",
+  "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "El profeta Oseas, hijo de Beeri.",
     "destinatarios": "El reino de Israel (reino del norte).",
     "fecha": "Aproximadamente entre 755 y 715 a.C.",
@@ -11,14 +14,17 @@
   "contexto_historico": "Oseas profetizó durante un tiempo de infidelidad espiritual y corrupción en Israel. El pueblo había abandonado a Dios para seguir a otros dioses. A través de la vida matrimonial del profeta, Dios mostró el amor y el dolor que experimentaba por la infidelidad de su pueblo. El mensaje llama al arrepentimiento y anuncia tanto juicio como restauración.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Oseas",
       "descripcion": "Profeta que transmite el mensaje de Dios."
     },
     {
+      "url-img": "",
       "nombre": "Gomer",
       "descripcion": "Esposa de Oseas, cuya vida representa la infidelidad de Israel."
     },
     {
+      "url-img": "",
       "nombre": "Dios",
       "descripcion": "Esposo fiel que llama a su pueblo a regresar a Él."
     }
@@ -27,15 +33,15 @@
   "sintesis": "En los capítulos 1–3, el matrimonio de Oseas representa la relación entre Dios e Israel. En los capítulos 4–10, se denuncian la idolatría, la injusticia y la falta de conocimiento de Dios. En los capítulos 11–14, se muestra el amor compasivo del Señor y se llama a Israel a volver a Él. El libro enseña que Dios es justo, pero también misericordioso y fiel a su pacto.",
   "bosquejo": [
     {
-      "seccion": "I. La vida matrimonial de Oseas (1:1–3:5)",
+      "seccion": "La vida matrimonial de Oseas (1:1–3:5)",
       "descripcion": "Representación de la infidelidad de Israel."
     },
     {
-      "seccion": "II. Acusación contra Israel (4:1–10:15)",
+      "seccion": "Acusación contra Israel (4:1–10:15)",
       "descripcion": "Pecado, idolatría y juicio."
     },
     {
-      "seccion": "III. Amor y restauración de Dios (11:1–14:9)",
+      "seccion": "Amor y restauración de Dios (11:1–14:9)",
       "descripcion": "Llamado al arrepentimiento y esperanza."
     }
   ]

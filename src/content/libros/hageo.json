@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE HAGEO",
+  "titulo": "LIBRO DE HAGEO",
+  "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "El profeta Hageo.",
     "destinatarios": "Los judíos que regresaron del exilio y sus líderes.",
     "fecha": "Año 520 a.C., durante el reinado de Darío I de Persia.",
@@ -11,14 +14,17 @@
   "contexto_historico": "Después del exilio en Babilonia, los judíos regresaron a Jerusalén, pero la reconstrucción del templo había quedado detenida. Hageo fue enviado por Dios para animar al pueblo a poner nuevamente la casa del Señor como prioridad. Sus mensajes llaman a la obediencia, al trabajo y a la esperanza en las promesas de Dios.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Hageo",
       "descripcion": "Profeta que anima al pueblo a reconstruir el templo."
     },
     {
+      "url-img": "",
       "nombre": "Zorobabel",
       "descripcion": "Gobernador de Judá."
     },
     {
+      "url-img": "",
       "nombre": "Josué",
       "descripcion": "Sumo sacerdote."
     }
@@ -27,19 +33,19 @@
   "sintesis": "En 1:1-15, Hageo confronta al pueblo porque se preocupa por sus propias casas mientras el templo permanece en ruinas. En 2:1-9, anima a los constructores y anuncia la gloria futura de la casa del Señor. En 2:10-19, enseña sobre la santidad y la bendición. En 2:20-23, Dios confirma su promesa a Zorobabel. El libro enseña la importancia de obedecer a Dios y trabajar en su obra.",
   "bosquejo": [
     {
-      "seccion": "I. Llamado a reconstruir el templo (1:1-15)",
+      "seccion": "Llamado a reconstruir el templo (1:1-15)",
       "descripcion": "El pueblo debe poner a Dios en primer lugar."
     },
     {
-      "seccion": "II. Promesa de gloria futura (2:1-9)",
+      "seccion": "Promesa de gloria futura (2:1-9)",
       "descripcion": "Dios anima a los constructores."
     },
     {
-      "seccion": "III. Santidad y bendición (2:10-19)",
+      "seccion": "Santidad y bendición (2:10-19)",
       "descripcion": "Enseñas sobre la obediencia."
     },
     {
-      "seccion": "IV. Promesa a Zorobabel (2:20-23)",
+      "seccion": "Promesa a Zorobabel (2:20-23)",
       "descripcion": "Confirmación del propósito de Dios."
     }
   ]

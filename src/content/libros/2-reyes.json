@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE 2 REYES",
+  "titulo": "LIBRO DE 2 REYES",
+  "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "Desconocido (tradicionalmente atribuido al profeta Jeremías, quien compilaría los anales oficiales de la corte real mientras vivía el exilio).",
     "destinatarios": "El pueblo de Israel en el exilio babilónico, para explicarles la razón de su caída, la destrucción de Jerusalén y recordarles la fidelidad del pacto de Dios.",
     "fecha": "Escrito aproximadamente entre el 561 y el 538 a.C. (narra eventos ocurridos entre el 853 y el 561 a.C.).",
@@ -11,22 +14,27 @@
   "contexto_historico": "El libro relata la dolorosa decadencia y el colapso final de los dos reinos. En el Reino del Norte (Israel), una sucesión de dinastías corruptas e idólatras ignora por completo las advertencias de los profetas, provocando su destrucción y deportación total a manos del Imperio Asirio. En el Reino del Sur (Judá), la historia es intermitente; periodos de profunda apostasía alternan con reformas espirituales lideradas por reyes piadosos. Sin embargo, tras la acumulación de pecados nacionales y el declive moral, Judá también sucumbe a su juicio divino, terminando con la invasión del Imperio Babilonio, el incendio del Templo de Salomón y el exilio masivo de la población.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Eliseo",
       "descripcion": "Sucesor del profeta Elías. Recibe una doble porción de su espíritu y realiza numerosos milagros en Israel, aconsejando a reyes y demostrando el poder del Dios verdadero frente a la idolatría nacional."
     },
     {
+      "url-img": "",
       "nombre": "Jehú",
       "descripcion": "General militar ungido por orden divina para destruir la dinastía de Acab. Ejecuta el juicio contra Jezabel y erradica el culto a Baal en Israel, aunque no se apartó de los pecados de Jeroboam I."
     },
     {
+      "url-img": "",
       "nombre": "Ezequías",
       "descripcion": "Uno de los reyes más piadosos de Judá. Purificó el Templo, restableció la Pascua y confió en Dios para resistir la invasión asiria de Senaquerib, recibiendo una milagrosa extensión de vida."
     },
     {
+      "url-img": "",
       "nombre": "Josías",
       "descripcion": "Joven rey de Judá que impulsó la última gran reforma espiritual tras el hallazgo del Libro de la Ley en el Templo. Destruyó los altares paganos y renovó el pacto con el Señor."
     },
     {
+      "url-img": "",
       "nombre": "Nabucodonosor II",
       "descripcion": "Rey de Babilonia que actúa como instrumento de juicio divino contra Judá. Sitia y destruye Jerusalén, saquea el Templo y deporta a los sobrevivientes a Babilonia."
     }
@@ -35,15 +43,15 @@
   "sintesis": "En los capítulos 1–10, se narra la transición profética de Elías a Eliseo, marcada por milagros de gracia y poder, junto con la violenta purificación de la casa de Acab ejecutada por el rey Jehú en el norte. En los capítulos 11–17, la inestabilidad política y espiritual de ambos reinos se intensifica de forma paralela, culminando en el año 722 a.C. con la trágica caída de Samaria y la deportación del Reino del Norte por el Imperio Asirio. El libro concluye en los capítulos 18–25 enfocándose exclusivamente en el Reino del Sur (Judá), donde los esfuerzos reformadores de Ezequías y Josías no logran frenar el peso del pecado acumulado por reyes previos como Manasés, resultando en la caída de Jerusalén en el 586 a.C. a manos de Babilonia.",
   "bosquejo": [
     {
-      "seccion": "I. El ministerio de Eliseo y el juicio sobre la casa de Acab (1:1–10:36)",
+      "seccion": "El ministerio de Eliseo y el juicio sobre la casa de Acab (1:1–10:36)",
       "descripcion": "La ascensión de Elías en un torbellino, los milagros de Eliseo, la unción de Jehú, la violenta muerte de Jezabel y la destrucción de los sacerdotes de Baal en el norte."
     },
     {
-      "seccion": "II. El declive paralelo y la caída del Reino del Norte (11:1–17:41)",
+      "seccion": "El declive paralelo y la caída del Reino del Norte (11:1–17:41)",
       "descripcion": "La tiranía de Atalía en Judá y el rescate del joven rey Joás, reinados sucesivos marcados por la idolatría y el cautiverio definitivo de las diez tribus de Israel bajo Asiria debido a su infidelidad."
     },
     {
-      "seccion": "III. Las reformas finales y la caída del Reino del Sur (18:1–25:30)",
+      "seccion": "Las reformas finales y la caída del Reino del Sur (18:1–25:30)",
       "descripcion": "El piadoso reinado de Ezequías y la liberación de Jerusalén, la extrema apostasía de Manasés, el avivamiento bajo Josías, las tres deportaciones babilónicas, la destrucción de Jerusalén y el epílogo de gracia con la liberación de Joaquín en Babilonia."
     }
   ],

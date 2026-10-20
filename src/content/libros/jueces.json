@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE JUECES",
+  "titulo": "LIBRO DE JUECES",
+  "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "Tradicionalmente atribuido al profeta Samuel.",
     "destinatarios": "El pueblo de Israel, como una advertencia para las futuras generaciones sobre las consecuencias de la apostasía.",
     "fecha": "Escrito aproximadamente entre el 1050 y el 1000 a.C.",
@@ -11,18 +14,22 @@
   "contexto_historico": "Tras la muerte de Josué, Israel no logró expulsar por completo a las naciones paganas de la Tierra Prometida. Al convivir con los cananeos, el pueblo adoptó progresivamente su idolatría, desobediencia y degradación moral. Sin un líder central que unificara a las doce tribus, el libro describe el período más oscuro en la historia del pacto. Es una época de espiral descendente marcada por un ciclo repetitivo: el pecado del pueblo, la consecuente opresión por naciones enemigas, el clamor angustiado de los israelitas y la milagrosa liberación divina mediante líderes locales improvisados.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Débora",
       "descripcion": "Profetisa y única jueza de Israel, quien demostró gran sabiduría, fe y coraje al guiar al general Barac a derrotar a las fuerzas cananeas."
     },
     {
+      "url-img": "",
       "nombre": "Gedeón",
       "descripcion": "Hombre humilde transformado por Dios en un valiente guerrero, que libró a Israel de los madianitas con un ejército reducido a solo 300 hombres, aunque su vida terminó ensombrecida por la idolatría familiar."
     },
     {
+      "url-img": "",
       "nombre": "Jefté",
       "descripcion": "Líder marginado y guerrero marginado que salvó al pueblo de la amenaza amonita, pero cuya falta de conocimiento de la naturaleza divina lo llevó a hacer un trágico voto cananeo."
     },
     {
+      "url-img": "",
       "nombre": "Sansón",
       "descripcion": "El juez con mayor fuerza física pero enormes debilidades morales, quien combatió individualmente a los filisteos en medio de conflictos pasionales y personales."
     }
@@ -31,19 +38,19 @@
   "sintesis": "En los capítulos 1–3:6, se plantea el escenario del fracaso militar y espiritual de la nueva generación israelita, que decide tolerar y asimilar la cultura cananea. En los capítulos 3:7–16, se desarrolla la sección central del libro, donde se exponen cronológicamente las vidas y campañas de los seis jueces mayores y seis menores. Esta sección ilustra una decadencia moral e institucional progresiva: los líderes van de buenos a peores. El libro concluye trágicamente en los capítulos 17–21 (un apéndice cronológico) con historias de idolatría privada, corrupción sacerdotal, violencia y una atroz guerra civil, evidenciando que Israel había tocado fondo y se había vuelto indistinguible de Sodoma o de las naciones paganas.",
   "bosquejo": [
     {
-      "seccion": "I. El fracaso en completar la conquista y la apostasía (1:1–3:6)",
+      "seccion": "El fracaso en completar la conquista y la apostasía (1:1–3:6)",
       "descripcion": "Compromisos militares inconclusos, el reproche del ángel de Jehová en Boquim y la descripción del ciclo de apostasía institucional."
     },
     {
-      "seccion": "II. La historia de la liberación por los jueces (3:7–16:31)",
+      "seccion": "La historia de la liberación por los jueces (3:7–16:31)",
       "descripcion": "Ciclos de servidumbre y rescate liderados por Otoniel, Aod, Samgar, Débora, Gedeón, Tola, Jaír, Jefté, Ibzán, Elón, Abdón y Sansón."
     },
     {
-      "seccion": "III. Apéndice de la anarquía religiosa (17:1–18:31)",
+      "seccion": "Apéndice de la anarquía religiosa (17:1–18:31)",
       "descripcion": "La idolatría en el hogar de Micaía y el saqueo descontrolado perpetrado por la tribu de Dan."
     },
     {
-      "seccion": "IV. Apéndice de la decadencia moral y social (19:1–21:25)",
+      "seccion": "Apéndice de la decadencia moral y social (19:1–21:25)",
       "descripcion": "El crimen atroz de Gabaa y la devastadora guerra civil que casi extermina a la tribu de Benjamín."
     }
   ],

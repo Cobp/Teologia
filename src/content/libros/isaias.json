@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE ISAÍAS",
+  "titulo": "LIBRO DE ISAÍAS",
+  "fuente": "Antiguo Testamento - Profetas Mayores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "El profeta Isaías, hijo de Amoz (con registros y preservación de sus profecías por parte de sus discípulos).",
     "destinatarios": "El pueblo de Judá y Jerusalén, así como las naciones vecinas y las futuras generaciones de exiliados que necesitarían consuelo y esperanza.",
     "fecha": "Escrito aproximadamente entre el 740 y el 680 a.C. (durante los reinados de Uzías, Jotam, Acaz y Ezequías).",
@@ -11,22 +14,27 @@
   "contexto_historico": "Judá se encuentra en una encrucijada geopolítica y espiritual devastadora. Por un lado, el Imperio Asirio está en plena expansión expansionista, habiendo destruido y deportado ya al Reino del Norte (Israel) en el 722 a.C., y amenazando constantemente con sitiar a Jerusalén. Por otro lado, internamente la nación sufre una profunda corrupción moral, injusticia social e hipocresía religiosa. Los reyes y el pueblo vacilan constantemente entre confiar en alianzas políticas militares extranjeras (con Egipto o Asiria) o volverse a Dios. Isaías ejerce su ministerio en la corte real, advirtiendo sobre el juicio inminente de Babilonia pero vislumbrando la restauración futura.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Isaías",
       "descripcion": "Profeta de la corte real de Jerusalén cuyo nombre significa \"Jehová salva\". Destaca por su elocuencia literaria, su impactante visión de la santidad divina y su fidelidad al confrontar a reyes y gobernantes durante más de cuarenta años."
     },
     {
+      "url-img": "",
       "nombre": "El rey Acaz",
       "descripcion": "Monarca impío de Judá que rechazó las señales y advertencias de Isaías. Prefirió desvalijar el Templo para pagar un tributo de alianza al rey de Asiria en lugar de confiar en el Señor, sumiendo al pueblo en la idolatría profunda."
     },
     {
+      "url-img": "",
       "nombre": "El rey Ezequías",
       "descripcion": "Hijo de Acaz y rey piadoso que lideró reformas espirituales. Encomendó la defensa de Jerusalén a las oraciones de Isaías ante la invasión asiria de Senaquerib, experimentando una milagrosa liberación y una extensión divina de su vida."
     },
     {
+      "url-img": "",
       "nombre": "El Siervo sufriente",
       "descripcion": "Personaje profético y mesiánico central en la segunda mitad del libro. Es descrito como el redentor elegido por Dios que cargaría con los pecados de la humanidad mediante su sacrificio voluntario y posterior exaltación."
     },
     {
+      "url-img": "",
       "nombre": "Ciro el Grande",
       "descripcion": "Rey de Persia que es profetizado y llamado por su propio nombre por Isaías con más de 150 años de anticipación, señalándolo como el instrumento providencial que decretaría el regreso de los exiliados y la reconstrucción de Jerusalén."
     }
@@ -35,19 +43,19 @@
   "sintesis": "En los capítulos 1–39 (conocidos como el \"Libro del Juicio\"), la narrativa se enfoca en la reprensión de los pecados contemporáneos de Judá, las profecías de destrucción sobre las naciones paganas vecinas y los relatos históricos sobre la crisis asiria bajo el rey Ezequías. En los capítulos 40–66 (conocidos como el \"Libro del Consuelo\"), el tono cambia drásticamente hacia el futuro. Dios consuela anticipadamente a los cautivos en Babilonia prometiendo su liberación, detalla la obra redentora del Siervo sufriente para perdonar las iniquidades y concluye con la gloriosa promesa de la restauración final de Sion y la creación de cielos nuevos y tierra nueva.",
   "bosquejo": [
     {
-      "seccion": "I. Profecías de juicio contra Judá y las naciones (1:1–35:10)",
+      "seccion": "Profecías de juicio contra Judá y las naciones (1:1–35:10)",
       "descripcion": "El llamado al arrepentimiento de Judá, la visión del llamamiento del profeta en el Templo, la profecía del Emanuel, los oráculos de juicio contra Babilonia, Asiria y otras naciones, y la promesa del reino futuro."
     },
     {
-      "seccion": "II. Paréntesis histórico: La crisis de Ezequías (36:1–39:8)",
+      "seccion": "Paréntesis histórico: La crisis de Ezequías (36:1–39:8)",
       "descripcion": "La invasión y blasfemia de Senaquerib, la oración de Ezequías y la destrucción del ejército asirio, la enfermedad y sanidad del rey, y el grave error político al mostrar los tesoros a los mensajeros de Babilonia."
     },
     {
-      "seccion": "III. Mensajes de consuelo y liberación del exilio (40:1–48:22)",
+      "seccion": "Mensajes de consuelo y liberación del exilio (40:1–48:22)",
       "descripcion": "La proclamación de consuelo para el pueblo, el contraste entre la grandeza del Dios creador y la impotencia de los ídolos, y el anuncio del libertador Ciro."
     },
     {
-      "seccion": "IV. La redención por medio del Siervo y la gloria futura (49:1–66:24)",
+      "seccion": "La redención por medio del Siervo y la gloria futura (49:1–66:24)",
       "descripcion": "Las canciones del Siervo de Jehová (destacando el sacrificio sustitutivo del capítulo 53), la invitación universal a la salvación, la futura gloria de Jerusalén y la consumación final con cielos nuevos y tierra nueva."
     }
   ],

@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE DANIEL",
+  "titulo": "LIBRO DE DANIEL",
+  "fuente": "Antiguo Testamento - Profetas Mayores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "El profeta Daniel (quien escribió las secciones narrativas en tercera persona y registró sus propias visiones en primera persona, validado por Jesucristo en el Nuevo Testamento).",
     "destinatarios": "Los judíos exiliados en Babilonia y las futuras generaciones del pueblo de Dios sufriendo persecución, para consolarlos y asegurarles el triunfo final del reino divino.",
     "fecha": "Escrito aproximadamente entre el 536 y el 530 a.C. (narra eventos ocurridos entre el 605 y el 536 a.C.).",
@@ -11,22 +14,27 @@
   "contexto_historico": "Daniel y sus compañeros pertenecen a la nobleza de Judá y son capturados en el año 605 a.C., durante la primera incursión del rey Nabucodonosor en Jerusalén. En Babilonia, son sometidos a un agresivo proceso de adoctrinamiento cultural y lingüístico diseñado para borrar su identidad judía y asimilarlos al imperio pagano. El libro se desarrolla a lo largo de los setenta años del cautiverio, cruzando la dramática caída del Imperio Babilónico y la transición hacia el Imperio Medo-Persa. El entorno registra las suntuosas cortes imperiales, las intrigas gubernamentales entre sátrapas y la amenaza de muerte constante para aquellos que se niegan a comprometer sus convicciones religiosas.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Daniel (Beltsasar)",
       "descripcion": "Joven piadoso de Judá dotado por Dios de una extraordinaria sabiduría y la capacidad de interpretar sueños y visiones. Asciende a los puestos políticos más altos bajo varios emperadores y mantiene una integridad moral intachable y una disciplina de oración inquebrantable a lo largo de toda su vida."
     },
     {
+      "url-img": "",
       "nombre": "Ananías, Misael y Azarías (Sadrac, Mesac y Abed-nego)",
       "descripcion": "Compañeros leales de Daniel. Demuestran una fe radical al desafiar el edicto del emperador y negarse a adorar una estatua de oro, siendo milagrosamente rescatados por Dios de un horno de fuego ardiente."
     },
     {
+      "url-img": "",
       "nombre": "Nabucodonosor II",
       "descripcion": "El poderoso y orgulloso rey de Babilonia. Es quebrantado por Dios a través de sueños proféticos y un periodo de humillante locura temporal (licantropía), reconociendo finalmente la soberanía del Dios verdadero."
     },
     {
+      "url-img": "",
       "nombre": "Belsasar",
       "descripcion": "Último gobernante corregente de Babilonia. En medio de un banquete sacrílego donde profanaba los utensilios sagrados del Templo de Jerusalén, presencia una misteriosa escritura en la pared que anunciaba el fin inmediato de su imperio esa misma noche."
     },
     {
+      "url-img": "",
       "nombre": "Darío el Medo",
       "descripcion": "Gobernante de la dinastía medo-persa que conquista Babilonia. Siente un gran aprecio por Daniel, pero es engañado por sus propios nobles para emitir un decreto que obliga a arrojar al profeta al foso de los leones."
     }
@@ -35,15 +43,15 @@
   "sintesis": "En los capítulos 1–6, se desarrolla la sección histórica y narrativa. Expone la resistencia cultural de Daniel y sus amigos, la interpretación de los sueños imperiales de Nabucodonosor, la milagrosa liberación del horno de fuego, el juicio sobre la blaspemia de Belsasar y el rescate de Daniel en el foso de los leones. En los capítulos 7–12, el libro da un giro hacia la profecía apocalíptica a través de visiones complejas recibidas por el propio Daniel. Estas visiones describen la sucesión de grandes imperios mundiales representados como bestias feroces, el surgimiento de un opresor blasfemo (el cuerno pequeño), la venida del \"Hijo del Hombre\" para recibir el dominio eterno y el panorama de los conflictos políticos futuros que culminarán en la resurrección final.",
   "bosquejo": [
     {
-      "seccion": "I. La fidelidad e historias de Daniel en la corte pagana (1:1–6:28)",
+      "seccion": "La fidelidad e historias de Daniel en la corte pagana (1:1–6:28)",
       "descripcion": "El rechazo a la comida del rey, el sueño de la gran estatua multimetálica de Nabucodonosor, la prueba de fe en el horno de fuego, la humillación del rey transformado en bestia, la escritura en la pared del banquete de Belsasar y la protección divina en el foso de los leones bajo el rey Darío."
     },
     {
-      "seccion": "II. Visiones apocalípticas de los imperios mundiales (7:1–8:27)",
+      "seccion": "Visiones apocalípticas de los imperios mundiales (7:1–8:27)",
       "descripcion": "La visión de las cuatro grandes bestias subiendo del mar, la escena judicial del Anciano de Días, la profecía del carnero y el macho cabrío que detalla el choque entre Persia y Grecia, y las acciones del rey blasfemo."
     },
     {
-      "seccion": "III. La profecía de las setenta semanas y las visiones finales (9:1–12:13)",
+      "seccion": "La profecía de las setenta semanas y las visiones finales (9:1–12:13)",
       "descripcion": "La intensa oración de arrepentimiento de Daniel por su nación, la revelación del ángel Gabriel sobre las setenta semanas para la llegada del Mesías, y la gran visión final de las batallas geopolíticas que concluyen con el triunfo del pueblo de Dios y la promesa de la resurrección de los muertos."
     }
   ],

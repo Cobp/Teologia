@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE 1 SAMUEL",
+  "titulo": "LIBRO DE 1 SAMUEL",
+  "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "Desconocido (tradicionalmente asociado a Samuel, con adiciones posteriores de los profetas Gad y Natán).",
     "destinatarios": "El pueblo de Israel, para explicar el origen de la monarquía y la transición del liderazgo espiritual y político de la nación.",
     "fecha": "Escrito aproximadamente entre el 930 y el 722 a.C. (narra eventos ocurridos entre el 1100 y el 1010 a.C.).",
@@ -11,18 +14,22 @@
   "contexto_historico": "Israel se encuentra saliendo de la caótica época de los jueces, enfrentando una severa corrupción espiritual interna (ejemplificada por los hijos del sumo sacerdote Elí) y una constante amenaza militar externa por parte de los filisteos. En este ambiente de inestabilidad, el pueblo rechaza la teocracia directa y exige un rey humano \"como todas las naciones\". El libro documenta este crucial cambio político, marcando la dolorosa transición del liderazgo de los jueces al establecimiento de la monarquía unificada de Israel.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Samuel",
       "descripcion": "El último de los jueces y el primero de los grandes profetas, dedicado a Dios desde su nacimiento, quien ungió a los dos primeros reyes de Israel."
     },
     {
+      "url-img": "",
       "nombre": "Saúl",
       "descripcion": "Primer rey de Israel, de apariencia imponente y gran valor militar, pero cuyo carácter orgulloso, celoso y propenso a la desobediencia provocó el rechazo divino."
     },
     {
+      "url-img": "",
       "nombre": "David",
       "descripcion": "Joven pastor y músico ungido en secreto por Samuel, quien derrotó al gigante Goliat y se convirtió en un gran líder militar, sufriendo el destierro debido a los celos de Saúl."
     },
     {
+      "url-img": "",
       "nombre": "Jonatán",
       "descripcion": "Hijo de Saúl y heredero al trono, caracterizado por su valentía y su profunda e incondicional amistad con David, a quien protegió por encima de sus propios intereses reales."
     }
@@ -31,19 +38,19 @@
   "sintesis": "En los capítulos 1–7, se narra el nacimiento milagroso de Samuel, su llamamiento profético y la decadencia de la casa del sacerdote Elí, culminando con la pérdida temporal del Arca del Pacto ante los filisteos y el posterior avivamiento espiritual liderado por Samuel. En los capítulos 8–15, el pueblo exige un rey y Dios concede la elección de Saúl; aunque inicia con victorias militares, el reinado de Saúl fracasa rápidamente debido a su impaciencia, desobediencia flagrante y autosuficiencia, lo que lleva a Dios a desecharlo. El libro concluye en los capítulos 16–31 con el ungimiento secreto del joven David, su ascenso tras vencer a Goliat, la intensa persecución que sufre en el desierto a manos de un Saúl consumido por los celos, y la trágica muerte de Saúl y Jonatán en la batalla del monte Gilboa.",
   "bosquejo": [
     {
-      "seccion": "I. El ministerio de Samuel como juez y profeta (1:1–7:17)",
+      "seccion": "El ministerio de Samuel como juez y profeta (1:1–7:17)",
       "descripcion": "Nacimiento de Samuel, el canto de Ana, el juicio sobre la casa de Elí, la captura y regreso del Arca, y la victoria en Mizpa."
     },
     {
-      "seccion": "II. El ascenso y fracaso del rey Saúl (8:1–15:35)",
+      "seccion": "El ascenso y fracaso del rey Saúl (8:1–15:35)",
       "descripcion": "La demanda del pueblo por un rey, el ungimiento y confirmación de Saúl, sus victorias iniciales y sus actos de desobediencia que resultaron en su rechazo divino."
     },
     {
-      "seccion": "III. El ascenso de David y la decadencia de Saúl (16:1–23:29)",
+      "seccion": "El ascenso de David y la decadencia de Saúl (16:1–23:29)",
       "descripcion": "El ungimiento de David, la victoria sobre Goliat, el éxito de David en la corte, los celos asesinos de Saúl y el inicio del exilio de David."
     },
     {
-      "seccion": "IV. La persecución de David y el fin de Saúl (24:1–31:13)",
+      "seccion": "La persecución de David y el fin de Saúl (24:1–31:13)",
       "descripcion": "David perdona la vida de Saúl en varias ocasiones, la crisis de Saúl con la adivina de Endor, y la derrota final de Israel con la muerte de Saúl y sus hijos en Gilboa."
     }
   ],

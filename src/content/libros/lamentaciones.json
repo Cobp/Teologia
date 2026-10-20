@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE LAMENTACIONES",
+  "titulo": "LIBRO DE LAMENTACIONES",
+  "fuente": "Antiguo Testamento - Profetas Mayores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "Tradicionalmente atribuido al profeta Jeremías.",
     "destinatarios": "El pueblo de Judá, especialmente los habitantes de Jerusalén.",
     "fecha": "Aproximadamente 586 a.C., después de la destrucción de Jerusalén.",
@@ -11,6 +14,7 @@
   "contexto_historico": "Lamentaciones expresa el dolor por la destrucción de Jerusalén y del templo por los babilonios. El pueblo sufrió hambre, muerte y exilio debido a su desobediencia a Dios.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Jeremías",
       "descripcion": "Tradicionalmente considerado el autor y quien expresa el dolor por la destrucción de Jerusalén."
     }
@@ -19,23 +23,23 @@
   "sintesis": "Lamentaciones describe el sufrimiento de Jerusalén después de su destrucción. A pesar del dolor y el juicio, el autor recuerda que la misericordia de Dios no se acaba y mantiene la esperanza en Él.",
   "bosquejo": [
     {
-      "seccion": "I. Dolor de Jerusalén (1:1–22)",
+      "seccion": "Dolor de Jerusalén (1:1–22)",
       "descripcion": "Jerusalén lamenta su destrucción y soledad."
     },
     {
-      "seccion": "II. El juicio de Dios (2:1–22)",
+      "seccion": "El juicio de Dios (2:1–22)",
       "descripcion": "Se describe la destrucción de la ciudad y el templo."
     },
     {
-      "seccion": "III. Dolor y esperanza (3:1–66)",
+      "seccion": "Dolor y esperanza (3:1–66)",
       "descripcion": "El autor expresa su sufrimiento, pero confía en la misericordia de Dios."
     },
     {
-      "seccion": "IV. La situación de Jerusalén (4:1–22)",
+      "seccion": "La situación de Jerusalén (4:1–22)",
       "descripcion": "Se describe el sufrimiento del pueblo durante la destrucción."
     },
     {
-      "seccion": "V. Oración por restauración (5:1–22)",
+      "seccion": "Oración por restauración (5:1–22)",
       "descripcion": "El pueblo clama a Dios y pide restauración."
     }
   ]

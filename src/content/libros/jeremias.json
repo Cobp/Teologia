@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE JEREMÍAS",
+  "titulo": "LIBRO DE JEREMÍAS",
+  "fuente": "Antiguo Testamento - Profetas Mayores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "El profeta Jeremías (con la asistencia directa de su fiel secretario y escriba Baruc, hijo de Nerías, quien registró gran parte de sus dictados y memorias).",
     "destinatarios": "El pueblo de Judá y Jerusalén antes y durante la invasión, así como los primeros exiliados deportados a Babilonia, para llamarlos al arrepentimiento y ofrecerles esperanza.",
     "fecha": "Escrito aproximadamente entre el 627 y el 580 a.C. (abarca las décadas finales antes del colapso de Jerusalén y los primeros años del exilio).",
@@ -11,22 +14,27 @@
   "contexto_historico": "Jeremías ejerce su ministerio durante el periodo más trágico y turbulento de la historia de Judá: sus últimos cuarenta años como reino independiente. En el plano internacional, el Imperio Babilonio emerge como la superpotencia destructora, aplastando a Asiria y Egipto. Internamente, Judá se encuentra sumida en una decadencia moral absoluta, marcada por la idolatría pagana generalizada, la opresión social y una falsa seguridad espiritual promovida por profetas mentirosos. El libro relata el colapso definitivo de la nación, el terrible sitio de Jerusalén, el incendio del Templo de Salomón y la deportación masiva de los sobrevivientes hacia Babilonia.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Jeremías",
       "descripcion": "Conocido como el \"profeta llorón\" debido a su profundo sufrimiento y compasión por su nación. Predicó un mensaje impopular de rendición ante Babilonia, enfrentando persecución, azotes, prisión y el rechazo absoluto de sus compatriotas."
     },
     {
+      "url-img": "",
       "nombre": "Baruc",
       "descripcion": "Escriba leal, secretario y amigo íntimo de Jeremías. Se encargó de plasmar en pergaminos las extensas profecías dictadas por el profeta, arriesgando su propia seguridad para leerlas públicamente en el Templo."
     },
     {
+      "url-img": "",
       "nombre": "El rey Joacim",
       "descripcion": "Monarca impío de Judá que demostró un desprecio abierto por la palabra divina. Al recibir el rollo escrito por Jeremías y Baruc, lo cortó pedazo a pedazo con un cuchillo y lo quemó por completo en un brasero."
     },
     {
+      "url-img": "",
       "nombre": "El rey Sedequías",
       "descripcion": "El último rey de Judá antes del exilio. Fue un líder débil y vacilante que buscó el consejo secreto de Jeremías en repetidas ocasiones, pero por temor a sus propios nobles desobedeció la voz de Dios, sufriendo un trágico final a manos de Nabucodonosor."
     },
     {
+      "url-img": "",
       "nombre": "Ebed-melec",
       "descripcion": "Esclavo etíope y eunuco del palacio real que demostró una valentía excepcional al interceder ante el rey para rescatar a Jeremías, quien había sido arrojado a una cisterna fangosa para morir de hambre."
     }
@@ -35,19 +43,19 @@
   "sintesis": "En los capítulos 1–25, se detalla el llamado de Jeremías desde su juventud y una extensa serie de sermones y parábolas que denuncian la apostasía de Judá, advirtiendo que el juicio llegará del norte mediante 70 años de cautiverio. En los capítulos 26–45, la narrativa se vuelve biográfica e histórica, exponiendo las crudas persecuciones que sufrió el profeta, el anuncio consolador de la restauración de Israel y el relato detallado de la caída e incendio de Jerusalén. El libro concluye en los capítulos 46–52 con una colección de oráculos de juicio dirigidos contra las naciones paganas vecinas y un apéndice histórico que confirma el cumplimiento exacto de la caída de la ciudad y el cautiverio.",
   "bosquejo": [
     {
-      "seccion": "I. El llamamiento y las profecías contra Judá (1:1–25:38)",
+      "seccion": "El llamamiento y las profecías contra Judá (1:1–25:38)",
       "descripcion": "La comisión divina de Jeremías, las vívidas denuncias contra la idolatría e hipocresía en el Templo, las señales ilustrativas (como el cinto podrido y la vasija del alfarero) y el anuncio formal de los 70 años de exilio bajo Babilonia."
     },
     {
-      "seccion": "II. Conflictos de Jeremías y el Libro del Consuelo (26:1–35:19)",
+      "seccion": "Conflictos de Jeremías y el Libro del Consuelo (26:1–35:19)",
       "descripcion": "Arrestos y juicios contra el profeta, el enfrentamiento con el falso profeta Hananías, las cartas enviadas a los primeros exiliados y las gloriosas promesas de restauración futura que culminan con el anuncio del Nuevo Pacto."
     },
     {
-      "seccion": "III. La caída de Jerusalén y el sufrimiento del profeta (36:1–45:5)",
+      "seccion": "La caída de Jerusalén y el sufrimiento del profeta (36:1–45:5)",
       "descripcion": "La quema del rollo por el rey Joacim, el encarcelamiento de Jeremías en la cisterna, el asedio definitivo y la destrucción material de Jerusalén, la huida forzada del remanente hacia Egipto y el consuelo a Baruc."
     },
     {
-      "seccion": "IV. Juicios contra las naciones y epílogo histórico (46:1–52:34)",
+      "seccion": "Juicios contra las naciones y epílogo histórico (46:1–52:34)",
       "descripcion": "Oráculos de destrucción divina contra Egipto, Filistea, Moab, Amón, Edom y la propia Babilonia, finalizando con el relato del cautiverio del rey Sedequías y la posterior liberación del rey Joaquín en tierras babilónicas."
     }
   ],

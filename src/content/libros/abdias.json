@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE ABDÍAS",
+  "titulo": "LIBRO DE ABDÍAS",
+  "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "El profeta Abdías.",
     "destinatarios": "Judá y el pueblo de Dios; el mensaje de juicio se dirige especialmente contra Edom.",
     "fecha": "Probablemente después de la caída de Jerusalén en 586 a.C., aunque la fecha es debatida.",
@@ -11,6 +14,7 @@
   "contexto_historico": "Edom era un pueblo relacionado históricamente con Israel a través de Esaú y Jacob. Abdías denuncia el orgullo de Edom y su actitud contra Jerusalén durante la desgracia de Judá. El profeta anuncia que Dios juzgará a Edom por su violencia y su falta de solidaridad con su pueblo hermano.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Abdías",
       "descripcion": "Profeta que anuncia el juicio de Dios."
     }
@@ -19,15 +23,15 @@
   "sintesis": "En los versículos 1–14, Abdías anuncia el juicio contra Edom por su orgullo y su conducta durante la caída de Jerusalén. En los versículos 15–16, se presenta el día del Señor y el principio de que las naciones recibirán conforme a sus acciones. En los versículos 17–21, se anuncia la restauración de Judá y el establecimiento del reino del Señor. El libro enseña que Dios juzga la violencia y defiende la justicia.",
   "bosquejo": [
     {
-      "seccion": "I. Juicio contra Edom (1-14)",
+      "seccion": "Juicio contra Edom (1-14)",
       "descripcion": "Orgullo, violencia y traición."
     },
     {
-      "seccion": "II. El día del Señor (15-16)",
+      "seccion": "El día del Señor (15-16)",
       "descripcion": "Juicio conforme a las acciones."
     },
     {
-      "seccion": "III. Restauración de Israel (17-21)",
+      "seccion": "Restauración de Israel (17-21)",
       "descripcion": "Victoria y reino del Señor."
     }
   ]

@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE JONÁS",
+  "titulo": "LIBRO DE JONÁS",
+  "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "Tradicionalmente relacionado con el profeta Jonás.",
     "destinatarios": "El pueblo de Dios, con un mensaje relacionado con Nínive y las naciones.",
     "fecha": "Desconocida; el ministerio de Jonás se sitúa en el siglo VIII a.C.",
@@ -11,6 +14,7 @@
   "contexto_historico": "Jonás fue enviado por Dios a Nínive para anunciar un mensaje de juicio. Sin embargo, el profeta intentó huir en dirección contraria. Después de ser rescatado del mar, cumplió su misión. La historia muestra la misericordia de Dios hacia una ciudad extranjera y confronta la actitud de Jonás ante el arrepentimiento de los ninivitas.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Jonás",
       "descripcion": "Profeta que inicialmente huye del llamado de Dios."
     }
@@ -19,19 +23,19 @@
   "sintesis": "En el capítulo 1, Jonás huye de Dios y se encuentra en medio de una tormenta. En el capítulo 2, ora desde el interior del gran pez y es librado. En el capítulo 3, predica en Nínive y sus habitantes se arrepienten. En el capítulo 4, Jonás se enoja por la misericordia de Dios, y el Señor le enseña sobre su compasión. El libro muestra que Dios se interesa por las personas y llama a sus siervos a obedecer.",
   "bosquejo": [
     {
-      "seccion": "I. Huida de Jonás (1:1-17)",
+      "seccion": "Huida de Jonás (1:1-17)",
       "descripcion": "Desobediencia y tormenta."
     },
     {
-      "seccion": "II. Oración de Jonás (2:1-10)",
+      "seccion": "Oración de Jonás (2:1-10)",
       "descripcion": "Liberación desde el interior del pez."
     },
     {
-      "seccion": "III. Predicación y arrepentimiento (3:1-10)",
+      "seccion": "Predicación y arrepentimiento (3:1-10)",
       "descripcion": "Nínive responde al mensaje."
     },
     {
-      "seccion": "IV. Lección sobre la misericordia (4:1-11)",
+      "seccion": "Lección sobre la misericordia (4:1-11)",
       "descripcion": "Dios enseña a Jonás sobre la compasión."
     }
   ]

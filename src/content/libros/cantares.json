@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE CANTAR DE LOS CANTARES",
+  "titulo": "LIBRO DE CANTAR DE LOS CANTARES",
+  "fuente": "Antiguo Testamento - Libros Poéticos",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "Tradicionalmente se atribuye a Salomón.",
     "destinatarios": "El pueblo de Dios y quienes buscan comprender el amor dentro del matrimonio.",
     "fecha": "Tradicionalmente relacionado con el período de Salomón; la fecha exacta de composición es debatida.",
@@ -11,18 +14,22 @@
   "contexto_historico": "Cantar de los Cantares es una colección de poemas que celebra el amor entre un hombre y una mujer. Presenta el deseo, la admiración, la fidelidad y la alegría de la relación amorosa. A lo largo de la historia, también se ha interpretado de manera simbólica como una representación del amor entre Dios y su pueblo o entre Cristo y la Iglesia, aunque el sentido principal del texto se relaciona con el amor humano.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "La amada",
       "descripcion": "Mujer que expresa su amor, deseo y admiración por su amado."
     },
     {
+      "url-img": "",
       "nombre": "El amado",
       "descripcion": "Hombre que expresa amor y admiración por la mujer."
     },
     {
+      "url-img": "",
       "nombre": "Las hijas de Jerusalén",
       "descripcion": "Grupo que participa en diferentes diálogos y escenas del poema."
     },
     {
+      "url-img": "",
       "nombre": "Salomón",
       "descripcion": "Mencionado en el libro y tradicionalmente considerado su autor."
     }
@@ -31,23 +38,23 @@
   "sintesis": "A lo largo de los ocho capítulos, los poemas presentan el amor y la admiración entre la amada y el amado. Se expresan deseos de estar juntos, elogios a la belleza, momentos de separación y la búsqueda del encuentro. El libro muestra que el amor debe ser valorado y cuidado. En Cantar 8:6-7, el amor se presenta como fuerte y valioso, destacando su importancia y profundidad.",
   "bosquejo": [
     {
-      "seccion": "I. Expresiones de amor y admiración (1:1–2:7)",
+      "seccion": "Expresiones de amor y admiración (1:1–2:7)",
       "descripcion": "La amada y el amado expresan sus sentimientos."
     },
     {
-      "seccion": "II. Búsqueda y encuentro de los enamorados (2:8–3:5)",
+      "seccion": "Búsqueda y encuentro de los enamorados (2:8–3:5)",
       "descripcion": "Deseo de estar juntos y búsqueda del amado."
     },
     {
-      "seccion": "III. Celebración del amor y compromiso (3:6–5:1)",
+      "seccion": "Celebración del amor y compromiso (3:6–5:1)",
       "descripcion": "Admiración mutua y expresión del amor."
     },
     {
-      "seccion": "IV. Separación y búsqueda del amado (5:2–6:13)",
+      "seccion": "Separación y búsqueda del amado (5:2–6:13)",
       "descripcion": "La amada busca a su amado y expresa su deseo."
     },
     {
-      "seccion": "V. Belleza, unidad y fuerza del amor (7:1–8:14)",
+      "seccion": "Belleza, unidad y fuerza del amor (7:1–8:14)",
       "descripcion": "Celebración del amor y su valor incomparable."
     }
   ]

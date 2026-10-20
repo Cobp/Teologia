@@ -1,6 +1,9 @@
 {
   "titulo": "PANORAMA BÍBLICO – LIBRO DE NEHEMÍAS",
+  "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "Nehemías (utiliza principalmente memorias e informes gubernamentales escritos en primera persona, compilados formalmente con la ayuda de Esdras).",
     "destinatarios": "La comunidad judía postexílica que regresó a la Tierra Prometida, para instruirlos sobre el liderazgo piadoso, la reconstrucción civil y la santificación comunitaria.",
     "fecha": "Escrito aproximadamente entre el 430 y el 400 a.C. (narra eventos ocurridos entre el 445 y el 425 a.C.).",
@@ -11,18 +14,22 @@
   "contexto_historico": "Casi un siglo después del primer retorno bajo Zorobabel y unos trece años después de las reformas de Esdras, la ciudad de Jerusalén seguía en una situación vulnerable y precaria. Aunque el Templo físico ya estaba en pie, las murallas de la capital permanecían destruidas y sus puertas quemadas por el fuego. Sin defensas arquitectónicas, los judíos sufrían el constante descrédito, asedio y burla de las naciones paganas vecinas. En este escenario de desolación, un alto funcionario judío de la corte persa recibe una comisión real para viajar como gobernador, con el desafío de unificar a una comunidad desmoralizada y reconstruir los muros en medio de un clima hostil de conspiraciones militares y asfixia financiera interna.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Nehemías",
       "descripcion": "Copero real del rey Artajerjes, transformado en el gobernador civil de Judá; destaca como un líder estratega, un hombre de profunda oración y un administrador íntegro que rechazó privilegios económicos para servir a su pueblo."
     },
     {
+      "url-img": "",
       "nombre": "Esdras",
       "descripcion": "El respetado sacerdote y escriba. Trabaja en perfecta sincronía con Nehemías, encargándose del masivo avivamiento espiritual del pueblo mediante la lectura pública, traducción e instrucción de la Ley de Dios."
     },
     {
+      "url-img": "",
       "nombre": "Sanbalat y Tobías",
       "descripcion": "Gobernantes de Samaria y Amón, respectivamente. Son los principales antagonistas del relato, quienes recurren al desprecio, las amenazas de guerra, el sabotaje y las falsas alarmas para infundir temor y detener la obra."
     },
     {
+      "url-img": "",
       "nombre": "Gesem el árabe",
       "descripcion": "Líder extranjero que se alía con Sanbalat y Tobías para calumniar a Nehemías, acusándolo falsamente ante el imperio de tramar una rebelión política contra el rey de Persia."
     }
@@ -31,19 +38,19 @@
   "sintesis": "En los capítulos 1–7, se detalla la reconstrucción material. Tras recibir el permiso del rey persa, Nehemías viaja a Jerusalén, inspecciona los daños en secreto y organiza al pueblo por familias para reparar las murallas. A pesar de la hostilidad de los enemigos, los muros son milagrosamente culminados en solo 52 días gracias a una estrategia de guardia militar permanente. En los capítulos 8–13, el enfoque pasa de las piedras a las personas. Se produce un masivo avivamiento donde Esdras lee la Ley, provocando el llanto, la confesión nacional de pecados y la firma de un pacto formal de obediencia. El libro concluye con la inauguración de las murallas y las enérgicas reformas finales de Nehemías para corregir la negligencia en los diezmos, el quebrantamiento del día de reposo y los matrimonios paganos.",
   "bosquejo": [
     {
-      "seccion": "I. La comisión de Nehemías y el viaje a Jerusalén (1:1–2:20)",
+      "seccion": "La comisión de Nehemías y el viaje a Jerusalén (1:1–2:20)",
       "descripcion": "La dolorosa noticia sobre el estado de la ciudad, la intercesión de Nehemías, el favor otorgado por el rey Artajerjes, la llegada a Jerusalén, la inspección nocturna y la decisión comunitaria de reedificar."
     },
     {
-      "seccion": "II. La reconstrucción de las murallas bajo oposición (3:1–7:73)",
+      "seccion": "La reconstrucción de las murallas bajo oposición (3:1–7:73)",
       "descripcion": "La distribución del trabajo por puertas y familias, las estrategias frente a las burlas y amenazas de ataque, la resolución de la crisis económica interna por usura, la finalización del muro y el censo de los repatriados."
     },
     {
-      "seccion": "III. El avivamiento espiritual y la renovación del pacto (8:1–10:39)",
+      "seccion": "El avivamiento espiritual y la renovación del pacto (8:1–10:39)",
       "descripcion": "La lectura masiva de las Escrituras por Esdras, la gozosa celebración de la Fiesta de los Tabernáculos, el día de ayuno y confesión nacional, y el compromiso firmado de santidad (guardar el sábado, sostener el Templo y no mezclarse con extranjeros)."
     },
     {
-      "seccion": "IV. Dedicación del muro y reformas finales de Nehemías (11:1–13:31)",
+      "seccion": "Dedicación del muro y reformas finales de Nehemías (11:1–13:31)",
       "descripcion": "La redistribución de la población en Jerusalén, la fiesta de dedicación de las murallas con coros de alabanza y el regreso final de Nehemías para corregir la corrupción sacerdotal, el comercio en sábado y la asimilación cultural."
     }
   ],

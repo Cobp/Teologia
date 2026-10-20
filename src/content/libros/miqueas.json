@@ -1,6 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE MIQUEAS",
+  "titulo": "LIBRO DE MIQUEAS",
+  "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
+    "url-bg": "",
+    "url-autor": "",
     "autor": "El profeta Miqueas, de Moreset.",
     "destinatarios": "Los habitantes de Judá y Samaria.",
     "fecha": "Aproximadamente entre 735 y 700 a.C.",
@@ -11,10 +14,12 @@
   "contexto_historico": "Miqueas profetizó durante un período de injusticia social, corrupción de líderes y amenazas de los imperios vecinos. Denunció los abusos de los gobernantes y la infidelidad del pueblo. Su mensaje combina advertencias de juicio con promesas de restauración y esperanza mesiánica.",
   "personajes": [
     {
+      "url-img": "",
       "nombre": "Miqueas",
       "descripcion": "Profeta que denuncia el pecado y anuncia esperanza."
     },
     {
+      "url-img": "",
       "nombre": "Gobernante de Belén",
       "descripcion": "Figura relacionada con la promesa de un futuro gobernante (5:2)."
     }
@@ -23,19 +28,19 @@
   "sintesis": "En los capítulos 1–3, Miqueas anuncia el juicio contra Samaria y Jerusalén y denuncia la corrupción de los líderes. En los capítulos 4–5, presenta promesas de restauración, paz y un gobernante que saldrá de Belén. En los capítulos 6–7, llama al pueblo a practicar la justicia, amar la misericordia y caminar humildemente con Dios. El libro enseña que Dios desea una vida de obediencia y justicia.",
   "bosquejo": [
     {
-      "seccion": "I. Juicio contra Samaria y Jerusalén (1:1–3:12)",
+      "seccion": "Juicio contra Samaria y Jerusalén (1:1–3:12)",
       "descripcion": "Pecado e injusticia."
     },
     {
-      "seccion": "II. Promesas de restauración (4:1–5:15)",
+      "seccion": "Promesas de restauración (4:1–5:15)",
       "descripcion": "Paz y esperanza futura."
     },
     {
-      "seccion": "III. Llamado a la justicia (6:1–7:6)",
+      "seccion": "Llamado a la justicia (6:1–7:6)",
       "descripcion": "Dios exige fidelidad y obediencia."
     },
     {
-      "seccion": "IV. Esperanza en la misericordia (7:7-20)",
+      "seccion": "Esperanza en la misericordia (7:7-20)",
       "descripcion": "Perdón y fidelidad de Dios."
     }
   ]

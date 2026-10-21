@@ -1,0 +1,148 @@
+---
+const accessKey = import.meta.env.PUBLIC_WEB3FORMS_KEY;
+---
+
+<section id="comentarios" class="min-h-screen px-6 py-16 sm:px-10 lg:px-16">
+  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-[0.9fr_1.1fr]">
+    <div class="max-w-xl">
+      <p
+        class="mb-3 text-sm font-semibold uppercase tracking-[0.18em] text-(--orange-color)"
+      >
+        Tu opinión importa
+      </p>
+      <h2 class="text-3xl font-semibold sm:text-5xl">
+        Déjanos tus <span class="text-(--red-color)">comentarios</span>
+      </h2>
+      <p class="mt-5 text-lg leading-relaxed text-(--txt-primary)/75">
+        ¿Tienes sugerencias, dudas o encontraste algún error? Escríbenos y te
+        responderemos por correo.
+      </p>
+    </div>
+
+    <form
+      id="form-comentarios"
+      class="rounded-2xl border-2 border-(--txt-primary)/10 bg-white/60 p-6 shadow-lg sm:p-8"
+    >
+      <input type="hidden" name="access_key" value={accessKey} />
+      <input
+        type="hidden"
+        name="subject"
+        value="Nuevo comentario - Panorama Bíblico"
+      />
+      <input type="hidden" name="from_name" value="Panorama Bíblico" />
+      <!-- Honeypot anti-spam: los humanos no lo ven -->
+      <input
+        type="checkbox"
+        name="botcheck"
+        class="hidden"
+        tabindex="-1"
+        autocomplete="off"
+      />
+
+      <div class="grid gap-5">
+        <div>
+          <label for="nombre" class="mb-2 block text-sm font-semibold">
+            Nombre
+          </label>
+          <input
+            id="nombre"
+            name="name"
+            type="text"
+            required
+            minlength="2"
+            maxlength="80"
+            autocomplete="name"
+            placeholder="Tu nombre"
+            class="w-full rounded-xl border-2 border-(--txt-primary)/15 bg-transparent px-4 py-3 outline-none transition focus:border-(--red-color)"
+          />
+        </div>
+
+        <div>
+          <label for="correo" class="mb-2 block text-sm font-semibold">
+            Correo electrónico
+          </label>
+          <input
+            id="correo"
+            name="email"
+            type="email"
+            required
+            maxlength="120"
+            autocomplete="email"
+            placeholder="tucorreo@ejemplo.com"
+            class="w-full rounded-xl border-2 border-(--txt-primary)/15 bg-transparent px-4 py-3 outline-none transition focus:border-(--red-color)"
+          />
+        </div>
+
+        <div>
+          <label for="mensaje" class="mb-2 block text-sm font-semibold">
+            Mensaje
+          </label>
+          <textarea
+            id="mensaje"
+            name="message"
+            required
+            minlength="10"
+            maxlength="1000"
+            rows="5"
+            placeholder="Escribe tu comentario aquí..."
+            class="w-full resize-y rounded-xl border-2 border-(--txt-primary)/15 bg-transparent px-4 py-3 outline-none transition focus:border-(--red-color)"
+          ></textarea>
+        </div>
+
+        <button
+          id="btn-enviar"
+          type="submit"
+          class="rounded-xl bg-(--red-color) px-6 py-3 font-semibold text-white shadow-lg shadow-(--red-color)/20 transition hover:-translate-y-0.5 hover:bg-red-800 disabled:cursor-not-allowed disabled:opacity-60"
+        >
+          Enviar comentario
+        </button>
+
+        <p
+          id="estado-form"
+          role="status"
+          aria-live="polite"
+          class="min-h-6 text-sm font-medium"
+        >
+        </p>
+      </div>
+    </form>
+  </div>
+</section>
+<script>
+  const form = document.getElementById("form-comentarios") as HTMLFormElement;
+  const btn = document.getElementById("btn-enviar") as HTMLButtonElement;
+  const estado = document.getElementById("estado-form") as HTMLParagraphElement;
+
+  form?.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    btn.disabled = true;
+    btn.textContent = "Enviando...";
+    estado.textContent = "";
+    estado.className = "min-h-6 text-sm font-medium";
+
+    try {
+      const res = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: { Accept: "application/json" },
+        body: new FormData(form),
+      });
+      const data = await res.json();
+
+      if (data.success) {
+        estado.textContent =
+          "¡Gracias! Tu comentario fue enviado correctamente.";
+        estado.classList.add("text-green-700");
+        form.reset();
+      } else {
+        throw new Error(data.message);
+      }
+    } catch {
+      estado.textContent =
+        "No pudimos enviar tu comentario. Inténtalo de nuevo.";
+      estado.classList.add("text-(--red-color)");
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Enviar comentario";
+    }
+  });
+</script>

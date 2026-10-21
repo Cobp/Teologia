@@ -30,9 +30,9 @@ const d = (entry as CollectionEntry<"libros"> | null)?.data;
   import QRCode from "qrcode";
   import { toCanvas } from "html-to-image";
 
-  const boton = document.querySelector("#download-book");
-  const imagen = document.querySelector("#img-download");
-  const qr = document.querySelector("#book-qr");
+  const boton = document.querySelector<HTMLButtonElement>("#download-book");
+  const imagen = document.querySelector<HTMLElement>("#img-download");
+  const qr = document.querySelector<HTMLImageElement>("#book-qr");
 
   async function descargarLibro() {
     if (!boton || !imagen || !qr) {
@@ -66,7 +66,7 @@ const d = (entry as CollectionEntry<"libros"> | null)?.data;
         },
       });
       const titulo = imagen.dataset.bookTitle ?? "libro";
-      const blob = await new Promise((resolve, reject) => {
+      const blob = await new Promise<Blob>((resolve, reject) => {
         canvas.toBlob((resultado) => {
           if (resultado) {
             resolve(resultado);
@@ -157,7 +157,7 @@ const d = (entry as CollectionEntry<"libros"> | null)?.data;
           )}
 
           {d.personajes?.length > 0 && (
-            <Seccion titulo="Personajes">
+            <Seccion titulo="Personajes" centrado>
               <ul class="flex flex-wrap gap-8">
                 {d.personajes.map((p) => (
                   <li class="flex items-center text-center min-w-0 flex-1 basis-64 flex-col gap-4">

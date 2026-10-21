@@ -1,9 +1,9 @@
 {
-  "titulo": "PANORAMA BÍBLICO – LIBRO DE NEHEMÍAS",
+  "titulo": "LIBRO DE NEHEMÍAS",
   "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaSamuel.webp",
+    "url-autor": "/img/SAMUEL.webp",
     "autor": "Nehemías (utiliza principalmente memorias e informes gubernamentales escritos en primera persona, compilados formalmente con la ayuda de Esdras).",
     "destinatarios": "La comunidad judía postexílica que regresó a la Tierra Prometida, para instruirlos sobre el liderazgo piadoso, la reconstrucción civil y la santificación comunitaria.",
     "fecha": "Escrito aproximadamente entre el 430 y el 400 a.C. (narra eventos ocurridos entre el 445 y el 425 a.C.).",
@@ -14,22 +14,20 @@
   "contexto_historico": "Casi un siglo después del primer retorno bajo Zorobabel y unos trece años después de las reformas de Esdras, la ciudad de Jerusalén seguía en una situación vulnerable y precaria. Aunque el Templo físico ya estaba en pie, las murallas de la capital permanecían destruidas y sus puertas quemadas por el fuego. Sin defensas arquitectónicas, los judíos sufrían el constante descrédito, asedio y burla de las naciones paganas vecinas. En este escenario de desolación, un alto funcionario judío de la corte persa recibe una comisión real para viajar como gobernador, con el desafío de unificar a una comunidad desmoralizada y reconstruir los muros en medio de un clima hostil de conspiraciones militares y asfixia financiera interna.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/SAMUEL.webp",
       "nombre": "Nehemías",
       "descripcion": "Copero real del rey Artajerjes, transformado en el gobernador civil de Judá; destaca como un líder estratega, un hombre de profunda oración y un administrador íntegro que rechazó privilegios económicos para servir a su pueblo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ESDRAS.webp",
       "nombre": "Esdras",
       "descripcion": "El respetado sacerdote y escriba. Trabaja en perfecta sincronía con Nehemías, encargándose del masivo avivamiento espiritual del pueblo mediante la lectura pública, traducción e instrucción de la Ley de Dios."
     },
     {
-      "url-img": "",
       "nombre": "Sanbalat y Tobías",
       "descripcion": "Gobernantes de Samaria y Amón, respectivamente. Son los principales antagonistas del relato, quienes recurren al desprecio, las amenazas de guerra, el sabotaje y las falsas alarmas para infundir temor y detener la obra."
     },
     {
-      "url-img": "",
       "nombre": "Gesem el árabe",
       "descripcion": "Líder extranjero que se alía con Sanbalat y Tobías para calumniar a Nehemías, acusándolo falsamente ante el imperio de tramar una rebelión política contra el rey de Persia."
     }

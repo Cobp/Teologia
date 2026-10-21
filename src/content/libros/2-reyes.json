@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE 2 REYES",
   "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaReyes.webp",
+    "url-autor": "/img/DESCONOCIDO.png",
     "autor": "Desconocido (tradicionalmente atribuido al profeta Jeremías, quien compilaría los anales oficiales de la corte real mientras vivía el exilio).",
     "destinatarios": "El pueblo de Israel en el exilio babilónico, para explicarles la razón de su caída, la destrucción de Jerusalén y recordarles la fidelidad del pacto de Dios.",
     "fecha": "Escrito aproximadamente entre el 561 y el 538 a.C. (narra eventos ocurridos entre el 853 y el 561 a.C.).",
@@ -14,27 +14,27 @@
   "contexto_historico": "El libro relata la dolorosa decadencia y el colapso final de los dos reinos. En el Reino del Norte (Israel), una sucesión de dinastías corruptas e idólatras ignora por completo las advertencias de los profetas, provocando su destrucción y deportación total a manos del Imperio Asirio. En el Reino del Sur (Judá), la historia es intermitente; periodos de profunda apostasía alternan con reformas espirituales lideradas por reyes piadosos. Sin embargo, tras la acumulación de pecados nacionales y el declive moral, Judá también sucumbe a su juicio divino, terminando con la invasión del Imperio Babilonio, el incendio del Templo de Salomón y el exilio masivo de la población.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/ELISEO.webp",
       "nombre": "Eliseo",
       "descripcion": "Sucesor del profeta Elías. Recibe una doble porción de su espíritu y realiza numerosos milagros en Israel, aconsejando a reyes y demostrando el poder del Dios verdadero frente a la idolatría nacional."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JEHU.webp",
       "nombre": "Jehú",
       "descripcion": "General militar ungido por orden divina para destruir la dinastía de Acab. Ejecuta el juicio contra Jezabel y erradica el culto a Baal en Israel, aunque no se apartó de los pecados de Jeroboam I."
     },
     {
-      "url-img": "",
+      "url-img": "/img/EZEQUIAS.webp",
       "nombre": "Ezequías",
       "descripcion": "Uno de los reyes más piadosos de Judá. Purificó el Templo, restableció la Pascua y confió en Dios para resistir la invasión asiria de Senaquerib, recibiendo una milagrosa extensión de vida."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JOSIAS.webp",
       "nombre": "Josías",
       "descripcion": "Joven rey de Judá que impulsó la última gran reforma espiritual tras el hallazgo del Libro de la Ley en el Templo. Destruyó los altares paganos y renovó el pacto con el Señor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/NABUCODUNOSOR.webp",
       "nombre": "Nabucodonosor II",
       "descripcion": "Rey de Babilonia que actúa como instrumento de juicio divino contra Judá. Sitia y destruye Jerusalén, saquea el Templo y deporta a los sobrevivientes a Babilonia."
     }

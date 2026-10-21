@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE JOSUÉ",
   "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJosueRut.webp",
+    "url-autor": "/img/JOSUE.webp",
     "autor": "Atribuido tradicionalmente a Josué (con secciones finales añadidas posiblemente por el sumo sacerdote Eleazar o Finees).",
     "destinatarios": "El pueblo de Israel, la nueva generación nacida en el desierto lista para poseer la tierra.",
     "fecha": "Aproximadamente entre 1405 y 1385 a.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Canaán estaba habitada por diversas naciones idólatras, moralmente degradadas y organizadas en ciudades-estado fuertemente amuralladas. Tras la muerte de Moisés, Israel deja atrás su vida nómada de 40 años en el desierto. Bajo el nuevo liderazgo de Josué, la nación debe cruzar el río Jordán y enfrentar batallas militares teocéntricas. El relato enfatiza que la conquista no es un logro humano, sino el cumplimiento de la promesa de Dios hecha a Abraham.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JOSUE.webp",
       "nombre": "Josué",
       "descripcion": "Sucesor de Moisés, general del ejército de Israel y líder fiel del pacto."
     },
     {
-      "url-img": "",
+      "url-img": "/img/RAHAB.webp",
       "nombre": "Rahab",
       "descripcion": "Mujer cananea de Jericó que demostró una gran fe, protegió a los espías y fue integrada en el pueblo de Israel."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ACAN.webp",
       "nombre": "Acán",
       "descripcion": "Israelita cuya desobediencia al codiciar y esconder el botín consagrado de Jericó causó la derrota del pueblo en la batalla de Hai."
     },
     {
-      "url-img": "",
+      "url-img": "/img/CALEB.webp",
       "nombre": "Caleb",
       "descripcion": "Compañero fiel de Josué que recibió su herencia especial por haber confiado plenamente en Dios desde su juventud."
     }

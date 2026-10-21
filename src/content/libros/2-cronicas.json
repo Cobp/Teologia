@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE 2 CRÓNICAS",
   "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaCronicas.webp",
+    "url-autor": "/img/DESCONOCIDO.png",
     "autor": "Desconocido (tradicionalmente atribuido a Esdras el escriba, quien habría recopilado y unificado los registros genealógicos e históricos tras el retorno del exilio).",
     "destinatarios": "La comunidad judía postexílica que regresó a Jerusalén, para restaurar su identidad espiritual, recordar su linaje y fundamentar la reconstrucción del Templo.",
     "fecha": "Escrito aproximadamente entre el 450 y el 400 a.C. (narra eventos ocurridos entre el 971 y el 538 a.C.).",
@@ -14,27 +14,26 @@
   "contexto_historico": "Al igual que la primera parte, este libro se dirige al remanente que ha vuelto de Babilonia para reedificar su nación. Abarca cronológicamente el mismo periodo de 1 y 2 Reyes, pero con una perspectiva teológica radicalmente distinta: omite por completo la historia política y las monarquías del Reino del Norte (Israel) debido a su apostasía total. El enfoque se concentra exclusivamente en los reyes de la línea de David en el Reino del Sur (Judá), evaluando su éxito o fracaso político no por sus logros militares, sino por su fidelidad al Templo de Jerusalén y a las reformas religiosas.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/SALOMON.webp",
       "nombre": "Salomón",
       "descripcion": "Hijo de David. Consolida el reino, destaca por su inigualable sabiduría y riquezas, y cumple el gran propósito de edificar y dedicar el Templo de Jerusalén."
     },
     {
-      "url-img": "",
       "nombre": "Josafat",
       "descripcion": "Rey piadoso de Judá que estableció reformas judiciales y educativas basadas en la Ley de Dios, y que experimentó una milagrosa victoria militar guiada por la oración y la alabanza."
     },
     {
-      "url-img": "",
+      "url-img": "/img/EZEQUIAS.webp",
       "nombre": "Ezequías",
       "descripcion": "Monarca que lideró una de las reformas espirituales más profundas, reabriendo el Templo, restableciendo la Pascua y purificando a la nación de la idolatría."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JOSIAS.webp",
       "nombre": "Josías",
       "descripcion": "El último gran rey reformador de Judá. Tras hallar el Libro de la Ley, derribó los altares paganos y renovó solemnemente el pacto nacional con Dios."
     },
     {
-      "url-img": "",
+      "url-img": "/img/CIRO.webp",
       "nombre": "Ciro el Grande",
       "descripcion": "Rey de Persia. Actúa como el instrumento providencial al final del libro, promulgando el decreto oficial que permite el fin del exilio y el regreso de los judíos a Jerusalén."
     }

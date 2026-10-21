@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE RUT",
   "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJosueRut.webp",
+    "url-autor": "/img/SAMUEL.webp",
     "autor": "Tradicionalmente atribuido al profeta Samuel.",
     "destinatarios": "El pueblo de Israel, para revelar el linaje providencial de la monarquía del rey David y la inclusión de los gentiles en el plan de Dios.",
     "fecha": "Escrito aproximadamente entre el 1050 y el 1000 a.C. (narra eventos ocurridos alrededor del 1100 a.C.).",
@@ -14,17 +14,17 @@
   "contexto_historico": "Los acontecimientos ocurren durante la época caótica de los jueces, un tiempo de crisis espiritual, hambre y guerra civil en Israel. Debido a una intensa hambruna en Belén, una familia israelita emigra a la nación pagana de Moab, un pueblo históricamente enemigo de Israel. Tras la muerte de los varones de la familia, el relato da un giro íntimo y doméstico. A diferencia de la violencia generalizada de Jueces, Rut brilla como un oasis de lealtad, piedad y redención, mostrando que incluso en los tiempos más oscuros, Dios sigue obrando en la vida de las personas ordinarias.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/RUT.webp",
       "nombre": "Rut",
       "descripcion": "Joven viuda moabita que, por amor y fe ciega, abandona su tierra y sus dioses paganos para unirse al pueblo de Israel y al Dios de su suegra."
     },
     {
-      "url-img": "",
+      "url-img": "/img/NOEMI.webp",
       "nombre": "Noemí",
       "descripcion": "Viuda israelita que regresa a Belén amargada y quebrantada por las pérdidas de su esposo e hijos, pero cuya vida es restaurada por la fidelidad de Rut."
     },
     {
-      "url-img": "",
+      "url-img": "/img/BOOZ.webp",
       "nombre": "Booz",
       "descripcion": "Terrateniente rico y piadoso de Belén, pariente de Elimelec, quien actúa voluntariamente como el \"pariente redentor\" al casarse con Rut y rescatar las tierras de la familia."
     }

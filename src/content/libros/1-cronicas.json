@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE 1 CRÓNICAS",
   "fuente": "Nuevo Testamento - Cartas Paulinas",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaCronicas.webp",
+    "url-autor": "/img/DESCONOCIDO.png",
     "autor": "Desconocido (tradicionalmente atribuido a Esdras el escriba, quien habría recopilado y unificado los registros genealógicos e históricos tras el retorno del exilio).",
     "destinatarios": "La comunidad judía postexílica que regresó a Jerusalén, para restaurar su identidad espiritual, recordar su linaje y fundamentar la reconstrucción del Templo.",
     "fecha": "Escrito aproximadamente entre el 450 y el 400 a.C. (abarca desde las genealogías de la creación humana hasta la muerte de David en el 970 a.C.).",
@@ -14,27 +14,27 @@
   "contexto_historico": "Tras pasar setenta años de cautiverio en Babilonia, un remanente judío regresa a una Jerusalén devastada. La comunidad sobreviviente sufre una profunda crisis de identidad: carecen de un rey en el trono, el Templo está en ruinas y dudan si las promesas del pacto de Dios con David siguen vigentes. En este escenario, el libro no busca repetir la historia política ya narrada en los libros de Samuel, sino ofrecer una reinterpretación espiritual. Se omite deliberadamente el Reino del Norte (Israel) por su apostasía y se enfoca en el Reino del Sur (Judá), reviviendo la gloria de David para demostrar que el verdadero motor de la nación es la adoración comunitaria y la fidelidad al Templo.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/ADAN.webp",
       "nombre": "Adán (y los patriarcas)",
       "descripcion": "Encabeza las extensas listas genealógicas del libro. Su inclusión conecta directamente al remanente que volvió del exilio con los orígenes de la creación y las promesas hechas a Abraham."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SAUL.webp",
       "nombre": "Saúl",
       "descripcion": "Primer rey de Israel. Su trágica muerte es presentada de forma breve como un ejemplo directo del juicio de Dios debido a su infidelidad y desobediencia al Señor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/DAVID.webp",
       "nombre": "David",
       "descripcion": "Personaje central del libro. Es presentado bajo una luz idealizada, omitiendo sus fallos morales y familiares para resaltar su rol como el rey piadoso, el organizador del culto en el Templo y el receptor del pacto eterno."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SALOMON.webp",
       "nombre": "Salomón",
       "descripcion": "Hijo y sucesor de David. Aparece al final del libro como el monarca elegido y preparado por Dios para llevar a cabo la edificación del Templo, contando con todo el respaldo de su padre y del pueblo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/Autoridades.webp",
       "nombre": "Los levitas y sacerdotes",
       "descripcion": "Mencionados minuciosamente a lo largo de las genealogías y narraciones. Son los encargados de resguardar el Arca del Pacto, dirigir la alabanza musical y mantener la santidad del culto litúrgico."
     }

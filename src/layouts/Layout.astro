@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
 import "@fontsource-variable/outfit";
+import Analytics from '@vercel/analytics/astro'
 ---
 
 <!doctype html>
@@ -13,6 +14,7 @@ import "@fontsource-variable/outfit";
     <meta name="theme-color" content="#002f49" />
     <meta name="generator" content={Astro.generator} />
     <title>Panorama Bílico - UEB</title>
+    <Analytics />
   </head>
   <body>
     <slot />

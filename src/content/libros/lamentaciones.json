@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE LAMENTACIONES",
   "fuente": "Antiguo Testamento - Profetas Mayores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaSamuell.webp",
+    "url-autor": "/img/JEREMIAS.webp",
     "autor": "Tradicionalmente atribuido al profeta Jeremías.",
     "destinatarios": "El pueblo de Judá, especialmente los habitantes de Jerusalén.",
     "fecha": "Aproximadamente 586 a.C., después de la destrucción de Jerusalén.",
@@ -14,7 +14,7 @@
   "contexto_historico": "Lamentaciones expresa el dolor por la destrucción de Jerusalén y del templo por los babilonios. El pueblo sufrió hambre, muerte y exilio debido a su desobediencia a Dios.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JEREMIAS.webp",
       "nombre": "Jeremías",
       "descripcion": "Tradicionalmente considerado el autor y quien expresa el dolor por la destrucción de Jerusalén."
     }

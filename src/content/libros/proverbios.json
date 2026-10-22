@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE PROVERBIOS",
   "fuente": "Antiguo Testamento - Libros Poéticos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaSalmosProverbios.webp",
+    "url-autor": "/img/SALOMON.webp",
     "autor": "Principalmente Salomón; también se mencionan Agur y el rey Lemuel, entre otros recopiladores.",
     "destinatarios": "El pueblo de Dios, especialmente los jóvenes y quienes desean adquirir sabiduría.",
     "fecha": "Recopilación y composición a lo largo de diferentes períodos, principalmente durante la monarquía de Israel.",
@@ -14,17 +14,17 @@
   "contexto_historico": "Proverbios reúne enseñanzas de sabiduría, principalmente de Salomón, para orientar al pueblo de Israel a vivir con temor de Dios y tomar buenas decisiones.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/SALOMON.webp",
       "nombre": "Salomón",
       "descripcion": "Rey de Israel conocido por su sabiduría y autor principal del libro."
     },
     {
-      "url-img": "",
+      "url-img": "/img/AGUR.webp",
       "nombre": "Agur",
       "descripcion": "Autor de las palabras recogidas en Proverbios 30."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LEMUEL.webp",
       "nombre": "Lemuel",
       "descripcion": "Rey mencionado en Proverbios 31."
     }

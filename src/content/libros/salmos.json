@@ -2,8 +2,8 @@
   "titulo": "PANORAMA BÍBLICO – LIBRO DE SALMOS",
   "fuente": "Antiguo Testamento - Libros Poéticos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaSalmosProverbios.webp",
+    "url-autor": "/img/DAVID.webp",
     "autor": "Varios autores, entre ellos David, Asaf y los hijos de Coré.",
     "destinatarios": "El pueblo de Israel y todos los creyentes que buscan adorar a Dios.",
     "fecha": "Composición y recopilación durante varios siglos, aproximadamente entre los siglos XV y V a.C.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Salmos es una colección de cantos, oraciones y poemas utilizados en la adoración del pueblo de Israel. Expresa diferentes experiencias humanas, como la alegría, el temor, la tristeza, el arrepentimiento y la confianza en Dios. Muchos salmos están relacionados con la vida del rey David y la adoración en Israel.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/DAVID.webp",
       "nombre": "David",
       "descripcion": "Rey de Israel y autor de numerosos salmos."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ASAF.webp",
       "nombre": "Asaf",
       "descripcion": "Músico y autor de varios salmos."
     },
     {
-      "url-img": "",
+      "url-img": "/img/HijoDeCore.webp",
       "nombre": "Hijos de Coré",
       "descripcion": "Grupo relacionado con la música y la adoración."
     },
     {
-      "url-img": "",
+      "url-img": "/img/DIOS.webp",
       "nombre": "Dios",
       "descripcion": "Centro de la alabanza, oración y confianza del libro."
     }

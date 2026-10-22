@@ -3,7 +3,7 @@
   "fuente": "Antiguo Testamento - Libros Históricos",
   "datos_bibliograficos": {
     "url-bg": "/img/PortadaSamuel.webp",
-    "url-autor": "/img/DESCONOCIDO.png",
+    "url-autor": "/img/DESCONOCIDO.webp",
     "autor": "Desconocido (tradicionalmente asociado a Mardoqueo o a la Gran Sinagoga, debido al profundo conocimiento de las costumbres e intrigas de la corte persa).",
     "destinatarios": "Los judíos de la diáspora (y las futuras generaciones), para explicar el origen histórico de la Fiesta de Purim y recordar la fiel protección divina fuera de la Tierra Prometida.",
     "fecha": "Escrito aproximadamente entre el 460 y el 400 a.C. (narra eventos ocurridos entre el 483 y el 473 a.C., durante el reinado de Jerjes I).",
@@ -27,6 +27,7 @@
       "descripcion": "Rey poderoso, impulsivo y ostentoso del Imperio Persa. Es fácilmente influenciable por sus consejeros, cuyas decisiones y edictos reales irrevocables sellan involuntariamente el destino de millones de personas."
     },
     {
+      "url-img": "/img/AMASIAS.webp",
       "nombre": "Amán",
       "descripcion": "Primer ministro arrogante y descendiente de Agag (rey amalequita, enemigo histórico de Israel). Urde un maquiavélico plan de genocidio legalizado para exterminar a todos los judíos del imperio motivado por su orgullo herido."
     }

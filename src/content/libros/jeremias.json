@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE JEREMÍAS",
   "fuente": "Antiguo Testamento - Profetas Mayores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJudas.webp",
+    "url-autor": "/img/JEREMIAS.webp",
     "autor": "El profeta Jeremías (con la asistencia directa de su fiel secretario y escriba Baruc, hijo de Nerías, quien registró gran parte de sus dictados y memorias).",
     "destinatarios": "El pueblo de Judá y Jerusalén antes y durante la invasión, así como los primeros exiliados deportados a Babilonia, para llamarlos al arrepentimiento y ofrecerles esperanza.",
     "fecha": "Escrito aproximadamente entre el 627 y el 580 a.C. (abarca las décadas finales antes del colapso de Jerusalén y los primeros años del exilio).",
@@ -14,27 +14,27 @@
   "contexto_historico": "Jeremías ejerce su ministerio durante el periodo más trágico y turbulento de la historia de Judá: sus últimos cuarenta años como reino independiente. En el plano internacional, el Imperio Babilonio emerge como la superpotencia destructora, aplastando a Asiria y Egipto. Internamente, Judá se encuentra sumida en una decadencia moral absoluta, marcada por la idolatría pagana generalizada, la opresión social y una falsa seguridad espiritual promovida por profetas mentirosos. El libro relata el colapso definitivo de la nación, el terrible sitio de Jerusalén, el incendio del Templo de Salomón y la deportación masiva de los sobrevivientes hacia Babilonia.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JEREMIAS.webp",
       "nombre": "Jeremías",
       "descripcion": "Conocido como el \"profeta llorón\" debido a su profundo sufrimiento y compasión por su nación. Predicó un mensaje impopular de rendición ante Babilonia, enfrentando persecución, azotes, prisión y el rechazo absoluto de sus compatriotas."
     },
     {
-      "url-img": "",
+      "url-img": "/img/BARUC.webp",
       "nombre": "Baruc",
       "descripcion": "Escriba leal, secretario y amigo íntimo de Jeremías. Se encargó de plasmar en pergaminos las extensas profecías dictadas por el profeta, arriesgando su propia seguridad para leerlas públicamente en el Templo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ReyJoacim.webp",
       "nombre": "El rey Joacim",
       "descripcion": "Monarca impío de Judá que demostró un desprecio abierto por la palabra divina. Al recibir el rollo escrito por Jeremías y Baruc, lo cortó pedazo a pedazo con un cuchillo y lo quemó por completo en un brasero."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SEDEQUIAS.webp",
       "nombre": "El rey Sedequías",
       "descripcion": "El último rey de Judá antes del exilio. Fue un líder débil y vacilante que buscó el consejo secreto de Jeremías en repetidas ocasiones, pero por temor a sus propios nobles desobedeció la voz de Dios, sufriendo un trágico final a manos de Nabucodonosor."
     },
     {
-      "url-img": "",
+      "url-img": "/img/EBEDMELEC.webp",
       "nombre": "Ebed-melec",
       "descripcion": "Esclavo etíope y eunuco del palacio real que demostró una valentía excepcional al interceder ante el rey para rescatar a Jeremías, quien había sido arrojado a una cisterna fangosa para morir de hambre."
     }

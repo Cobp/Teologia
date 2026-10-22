@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE DANIEL",
   "fuente": "Antiguo Testamento - Profetas Mayores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaDaniel.webp",
+    "url-autor": "/img/DANIEL.webp",
     "autor": "El profeta Daniel (quien escribió las secciones narrativas en tercera persona y registró sus propias visiones en primera persona, validado por Jesucristo en el Nuevo Testamento).",
     "destinatarios": "Los judíos exiliados en Babilonia y las futuras generaciones del pueblo de Dios sufriendo persecución, para consolarlos y asegurarles el triunfo final del reino divino.",
     "fecha": "Escrito aproximadamente entre el 536 y el 530 a.C. (narra eventos ocurridos entre el 605 y el 536 a.C.).",
@@ -14,27 +14,26 @@
   "contexto_historico": "Daniel y sus compañeros pertenecen a la nobleza de Judá y son capturados en el año 605 a.C., durante la primera incursión del rey Nabucodonosor en Jerusalén. En Babilonia, son sometidos a un agresivo proceso de adoctrinamiento cultural y lingüístico diseñado para borrar su identidad judía y asimilarlos al imperio pagano. El libro se desarrolla a lo largo de los setenta años del cautiverio, cruzando la dramática caída del Imperio Babilónico y la transición hacia el Imperio Medo-Persa. El entorno registra las suntuosas cortes imperiales, las intrigas gubernamentales entre sátrapas y la amenaza de muerte constante para aquellos que se niegan a comprometer sus convicciones religiosas.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/DANIEL.webp",
       "nombre": "Daniel (Beltsasar)",
       "descripcion": "Joven piadoso de Judá dotado por Dios de una extraordinaria sabiduría y la capacidad de interpretar sueños y visiones. Asciende a los puestos políticos más altos bajo varios emperadores y mantiene una integridad moral intachable y una disciplina de oración inquebrantable a lo largo de toda su vida."
     },
     {
-      "url-img": "",
+      "url-img": "/img/AnaniasMisaelAzarias.webp",
       "nombre": "Ananías, Misael y Azarías (Sadrac, Mesac y Abed-nego)",
       "descripcion": "Compañeros leales de Daniel. Demuestran una fe radical al desafiar el edicto del emperador y negarse a adorar una estatua de oro, siendo milagrosamente rescatados por Dios de un horno de fuego ardiente."
     },
     {
-      "url-img": "",
+      "url-img": "/img/NABUCODUNOSOR.webp",
       "nombre": "Nabucodonosor II",
       "descripcion": "El poderoso y orgulloso rey de Babilonia. Es quebrantado por Dios a través de sueños proféticos y un periodo de humillante locura temporal (licantropía), reconociendo finalmente la soberanía del Dios verdadero."
     },
     {
-      "url-img": "",
+      "url-img": "/img/BELSASAR.webp",
       "nombre": "Belsasar",
       "descripcion": "Último gobernante corregente de Babilonia. En medio de un banquete sacrílego donde profanaba los utensilios sagrados del Templo de Jerusalén, presencia una misteriosa escritura en la pared que anunciaba el fin inmediato de su imperio esa misma noche."
     },
     {
-      "url-img": "",
       "nombre": "Darío el Medo",
       "descripcion": "Gobernante de la dinastía medo-persa que conquista Babilonia. Siente un gran aprecio por Daniel, pero es engañado por sus propios nobles para emitir un decreto que obliga a arrojar al profeta al foso de los leones."
     }

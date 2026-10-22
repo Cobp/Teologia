@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE OSEAS",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaOseas.webp",
+    "url-autor": "/img/OSEAS.webp",
     "autor": "El profeta Oseas, hijo de Beeri.",
     "destinatarios": "El reino de Israel (reino del norte).",
     "fecha": "Aproximadamente entre 755 y 715 a.C.",
@@ -14,17 +14,17 @@
   "contexto_historico": "Oseas profetizó durante un tiempo de infidelidad espiritual y corrupción en Israel. El pueblo había abandonado a Dios para seguir a otros dioses. A través de la vida matrimonial del profeta, Dios mostró el amor y el dolor que experimentaba por la infidelidad de su pueblo. El mensaje llama al arrepentimiento y anuncia tanto juicio como restauración.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/OSEAS.webp",
       "nombre": "Oseas",
       "descripcion": "Profeta que transmite el mensaje de Dios."
     },
     {
-      "url-img": "",
+      "url-img": "/img/GOMER.webp",
       "nombre": "Gomer",
       "descripcion": "Esposa de Oseas, cuya vida representa la infidelidad de Israel."
     },
     {
-      "url-img": "",
+      "url-img": "/img/DIOS.webp",
       "nombre": "Dios",
       "descripcion": "Esposo fiel que llama a su pueblo a regresar a Él."
     }

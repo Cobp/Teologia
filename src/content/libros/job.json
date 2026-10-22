@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE JOB",
   "fuente": "Antiguo Testamento - Libros Poéticos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJob.webp",
+    "url-autor": "/img/DESCONOCIDO.webp",
     "autor": "Desconocido.",
     "destinatarios": "El pueblo de Dios y lectores interesados en el sufrimiento y la fe.",
     "fecha": "Desconocida; el contexto de la historia se sitúa en la época patriarcal.",
@@ -14,27 +14,27 @@
   "contexto_historico": "El libro presenta a Job, un hombre justo y rico que enfrenta grandes sufrimientos. Satanás cuestiona la sinceridad de su fe, y Dios permite que sea probado. Sus amigos intentan explicar su sufrimiento, pero sus respuestas no reflejan correctamente la justicia de Dios. El libro trata sobre el dolor humano, la soberanía de Dios y la confianza en Él.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JOB.webp",
       "nombre": "Job",
       "descripcion": "Hombre justo que atraviesa pruebas y sufrimiento."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SATANAS.webp",
       "nombre": "Satanás",
       "descripcion": "Acusador que cuestiona la fidelidad de Job."
     },
     {
-      "url-img": "",
+      "url-img": "/img/EsposaJob.webp",
       "nombre": "Esposa de Job",
       "descripcion": "Le aconseja abandonar su integridad."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ElifazBildadZofar.webp",
       "nombre": "Elifaz, Bildad y Zofar",
       "descripcion": "Amigos que dialogan con Job."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ELIU.webp",
       "nombre": "Eliú",
       "descripcion": "Joven que presenta una perspectiva diferente sobre el sufrimiento."
     }

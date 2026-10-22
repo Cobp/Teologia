@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE ABDÍAS",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaAbdias.webp",
+    "url-autor": "/img/ABDIAS.webp",
     "autor": "El profeta Abdías.",
     "destinatarios": "Judá y el pueblo de Dios; el mensaje de juicio se dirige especialmente contra Edom.",
     "fecha": "Probablemente después de la caída de Jerusalén en 586 a.C., aunque la fecha es debatida.",
@@ -14,7 +14,7 @@
   "contexto_historico": "Edom era un pueblo relacionado históricamente con Israel a través de Esaú y Jacob. Abdías denuncia el orgullo de Edom y su actitud contra Jerusalén durante la desgracia de Judá. El profeta anuncia que Dios juzgará a Edom por su violencia y su falta de solidaridad con su pueblo hermano.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/ABDIAS.webp",
       "nombre": "Abdías",
       "descripcion": "Profeta que anuncia el juicio de Dios."
     }

@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE CANTAR DE LOS CANTARES",
   "fuente": "Antiguo Testamento - Libros Poéticos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaCantares.webp",
+    "url-autor": "/img/SALOMON.webp",
     "autor": "Tradicionalmente se atribuye a Salomón.",
     "destinatarios": "El pueblo de Dios y quienes buscan comprender el amor dentro del matrimonio.",
     "fecha": "Tradicionalmente relacionado con el período de Salomón; la fecha exacta de composición es debatida.",
@@ -14,22 +14,22 @@
   "contexto_historico": "Cantar de los Cantares es una colección de poemas que celebra el amor entre un hombre y una mujer. Presenta el deseo, la admiración, la fidelidad y la alegría de la relación amorosa. A lo largo de la historia, también se ha interpretado de manera simbólica como una representación del amor entre Dios y su pueblo o entre Cristo y la Iglesia, aunque el sentido principal del texto se relaciona con el amor humano.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/LaAmada.webp",
       "nombre": "La amada",
       "descripcion": "Mujer que expresa su amor, deseo y admiración por su amado."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ElAmado.webp",
       "nombre": "El amado",
       "descripcion": "Hombre que expresa amor y admiración por la mujer."
     },
     {
-      "url-img": "",
+      "url-img": "/img/HijasJerusalen.webp",
       "nombre": "Las hijas de Jerusalén",
       "descripcion": "Grupo que participa en diferentes diálogos y escenas del poema."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SALOMON.webp",
       "nombre": "Salomón",
       "descripcion": "Mencionado en el libro y tradicionalmente considerado su autor."
     }

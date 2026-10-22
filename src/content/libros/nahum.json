@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE NAHÚM",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJudas.webp",
+    "url-autor": "/img/NAHUM.webp",
     "autor": "El profeta Nahúm, de Elcos.",
     "destinatarios": "Judá, con un mensaje de juicio contra Nínive.",
     "fecha": "Probablemente entre 663 y 612 a.C.",
@@ -14,7 +14,7 @@
   "contexto_historico": "Nínive, capital de Asiria, era conocida por su poder militar y por la violencia ejercida sobre otros pueblos. Nahúm anunció su caída como juicio de Dios por su maldad y opresión. El mensaje también trae consuelo a Judá, que había sufrido bajo el dominio asirio.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/NAHUM.webp",
       "nombre": "Nahúm",
       "descripcion": "Profeta que anuncia la caída de Nínive."
     }

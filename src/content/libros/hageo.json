@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE HAGEO",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/Portada.webp",
+    "url-autor": "/img/HAGEO.webp",
     "autor": "El profeta Hageo.",
     "destinatarios": "Los judíos que regresaron del exilio y sus líderes.",
     "fecha": "Año 520 a.C., durante el reinado de Darío I de Persia.",
@@ -14,17 +14,17 @@
   "contexto_historico": "Después del exilio en Babilonia, los judíos regresaron a Jerusalén, pero la reconstrucción del templo había quedado detenida. Hageo fue enviado por Dios para animar al pueblo a poner nuevamente la casa del Señor como prioridad. Sus mensajes llaman a la obediencia, al trabajo y a la esperanza en las promesas de Dios.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/HAGEO.webp",
       "nombre": "Hageo",
       "descripcion": "Profeta que anima al pueblo a reconstruir el templo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ZOROBABEL.webp",
       "nombre": "Zorobabel",
       "descripcion": "Gobernador de Judá."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JESUS.webp",
       "nombre": "Josué",
       "descripcion": "Sumo sacerdote."
     }

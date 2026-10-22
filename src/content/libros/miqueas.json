@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE MIQUEAS",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJudas.webp",
+    "url-autor": "/img/MIQUEAS.webp",
     "autor": "El profeta Miqueas, de Moreset.",
     "destinatarios": "Los habitantes de Judá y Samaria.",
     "fecha": "Aproximadamente entre 735 y 700 a.C.",
@@ -14,12 +14,12 @@
   "contexto_historico": "Miqueas profetizó durante un período de injusticia social, corrupción de líderes y amenazas de los imperios vecinos. Denunció los abusos de los gobernantes y la infidelidad del pueblo. Su mensaje combina advertencias de juicio con promesas de restauración y esperanza mesiánica.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/MIQUEAS.webp",
       "nombre": "Miqueas",
       "descripcion": "Profeta que denuncia el pecado y anuncia esperanza."
     },
     {
-      "url-img": "",
+      "url-img": "/img/DESCONOCIDO.webp",
       "nombre": "Gobernante de Belén",
       "descripcion": "Figura relacionada con la promesa de un futuro gobernante (5:2)."
     }

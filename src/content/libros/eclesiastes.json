@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE ECLESIASTÉS",
   "fuente": "Antiguo Testamento - Libros Poéticos",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJudas.webp",
+    "url-autor": "/img/SALOMON.webp",
     "autor": "Tradicionalmente se atribuye a Salomón; la identidad del autor se debate en los estudios bíblicos.",
     "destinatarios": "El pueblo de Dios y las personas que buscan comprender el sentido de la vida.",
     "fecha": "Tradicionalmente relacionado con Salomón; la fecha de composición final es discutida.",
@@ -14,15 +14,17 @@
   "contexto_historico": "Eclesiastés reflexiona sobre la vida humana, el trabajo, la riqueza, el placer, la sabiduría y la muerte. Utiliza la expresión «vanidad» para señalar lo pasajero y limitado de muchas cosas que las personas buscan. El autor observa las dificultades de la vida y llama a reconocer a Dios como la verdadera referencia para vivir.",
   "personajes": [
     {
-      
+      "url-img": "/img/DESCONOCIDO.webp",
       "nombre": "El Predicador (Qohelet)",
       "descripcion": "Voz principal que reflexiona sobre el sentido de la vida."
     },
     {
+      "url-img": "/img/DIOS.webp",
       "nombre": "Dios",
       "descripcion": "El Creador y juez ante quien las personas deben vivir con reverencia."
     },
     {
+      "url-img": "/img/SerHumano.webp",
       "nombre": "El ser humano",
       "descripcion": "Presentado en sus esfuerzos, limitaciones, alegrías y dificultades."
     }

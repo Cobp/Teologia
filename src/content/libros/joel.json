@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE JOEL",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJudas.webp",
+    "url-autor": "/img/JOEL.webp",
     "autor": "El profeta Joel, hijo de Petuel.",
     "destinatarios": "El pueblo de Judá.",
     "fecha": "Desconocida; existen diferentes propuestas de datación.",
@@ -14,7 +14,7 @@
   "contexto_historico": "Joel describe una devastadora plaga de langostas y una situación de sequía que afectó a la tierra. Estos acontecimientos sirven como una llamada a reconocer el juicio de Dios y buscarlo con sinceridad. El profeta también anuncia el derramamiento del Espíritu de Dios y el día del Señor.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JOEL.webp",
       "nombre": "Joel",
       "descripcion": "Profeta que llama al pueblo a arrepentirse."
     }

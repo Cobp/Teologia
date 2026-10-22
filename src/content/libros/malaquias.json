@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE MALAQUÍAS",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJudas.webp",
+    "url-autor": "/img/MALAQUIAS.webp",
     "autor": "El profeta Malaquías.",
     "destinatarios": "El pueblo de Judá, especialmente la comunidad de Jerusalén.",
     "fecha": "Probablemente entre 500 y 450 a.C.",
@@ -14,12 +14,12 @@
   "contexto_historico": "Malaquías profetizó después del exilio, cuando el templo ya había sido reconstruido, pero el pueblo y sus líderes religiosos mostraban indiferencia espiritual. Los sacerdotes ofrecían sacrificios defectuosos y el pueblo descuidaba su fidelidad a Dios. El profeta confronta estas actitudes y anuncia la venida del mensajero del Señor.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/MALAQUIAS.webp",
       "nombre": "Malaquías",
       "descripcion": "Profeta que confronta la infidelidad del pueblo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/SACERDOTE.webp",
       "nombre": "Sacerdotes",
       "descripcion": "Líderes religiosos reprendidos por sus prácticas incorrectas."
     }

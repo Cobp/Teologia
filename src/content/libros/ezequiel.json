@@ -2,8 +2,8 @@
   "titulo": "PANORAMA BÍBLICO – LIBRO DE EZEQUIEL",
   "fuente": "Antiguo Testamento - Profetas Mayores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaEzequiel.webp",
+    "url-autor": "/img/EZEQUIEL.webp",
     "autor": "El profeta Ezequiel, hijo de Buzi (un sacerdote de la línea de Sadoc, cuyo nombre significa \"Dios fortalece\").",
     "destinatarios": "Los judíos exiliados en Babilonia (especialmente la comunidad asentada junto al río Quebar), sirviendo también de advertencia para el remanente que aún quedaba en Jerusalén.",
     "fecha": "Escrito aproximadamente entre el 593 y el 571 a.C. (las profecías están registradas con fechas exactas basadas en los años del cautiverio del rey Joaquín).",
@@ -14,22 +14,22 @@
   "contexto_historico": "Ezequiel pertenece a la aristocracia sacerdotal de Jerusalén y es deportado a Babilonia en la segunda ola de cautiverio (597 a.C.), cinco años antes de recibir su llamamiento profético. Mientras él vive en los campos de refugiados babilónicos, Jerusalén todavía sigue en pie bajo el gobierno títere de Sedequías, pero hundiéndose en la idolatría. Los exiliados en Babilonia alimentan la falsa esperanza de que el cautiverio será corto y que Dios no permitirá la destrucción de Su ciudad sagrada. El ministerio de Ezequiel rompe esta ilusión al anunciar que el Templo será arrasado debido a los pecados nacionales, para luego, tras la caída de la ciudad en el 586 a.C., cambiar su mensaje hacia el consuelo y el renacimiento espiritual del pueblo.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/EZEQUIEL.webp",
       "nombre": "Ezequiel",
       "descripcion": "Sacerdote transformado en profeta a los treinta años en el exilio. Destaca por su obediencia absoluta al actuar como una \"señal viviente\", realizando impactantes representaciones dramáticas y presenciando visiones sobrenaturales de la gloria de Dios."
     },
     {
-      "url-img": "",
+      "url-img": "/img/LosAncianos.webp",
       "nombre": "Los ancianos de Judá",
       "descripcion": "Líderes de la comunidad en el exilio que acudían constantemente a la casa de Ezequías para consultar la palabra del Señor, pero cuyos corazones seguían apegados a la idolatría secreta, siendo duramente confrontados por el profeta."
     },
     {
-      "url-img": "",
+      "url-img": "/img/EsposaDeEzequiel.webp",
       "nombre": "La esposa de Ezequiel",
       "descripcion": "Descrita cariñosamente por Dios como \"el deleite de sus ojos\". Su muerte repentina e inesperada fue utilizada por el Señor como una trágica señal visual para ilustrar que Jerusalén y su Templo serían destruidos sin que el pueblo pudiera guardar luto formal."
     },
     {
-      "url-img": "",
+      "url-img": "/img/FalsosMaestros.webp",
       "nombre": "El pastor falso y el Verdadero",
       "descripcion": "Figuras representativas del liderazgo. Los gobernantes de Israel son denunciados como pastores codiciosos que devoraron a las ovejas, contrastando con la promesa de que Dios mismo enviará a un Pastor fiel (el Mesías de la línea de David) para pastorear al rebaño."
     },

@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE ZACARÍAS",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaZacarias.webp",
+    "url-autor": "/img/ZACARIAS.webp",
     "autor": "El profeta Zacarías, hijo de Berequías.",
     "destinatarios": "Los judíos que regresaron del exilio en Babilonia.",
     "fecha": "Aproximadamente entre 520 y 518 a.C. para las primeras visiones; otras secciones tienen propuestas de fechas diferentes.",
@@ -14,17 +14,17 @@
   "contexto_historico": "Zacarías profetizó junto con Hageo durante la reconstrucción del templo de Jerusalén. El pueblo había regresado del exilio y necesitaba ánimo para continuar la obra. Mediante visiones y mensajes proféticos, Zacarías anunció la restauración de Jerusalén, la purificación del pueblo y promesas relacionadas con el futuro reinado de Dios.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/ZACARIAS.webp",
       "nombre": "Zacarías",
       "descripcion": "Profeta que transmite visiones y mensajes de esperanza."
     },
     {
-      "url-img": "",
+      "url-img": "/img/ZOROBABEL.webp",
       "nombre": "Zorobabel",
       "descripcion": "Gobernador relacionado con la reconstrucción del templo."
     },
     {
-      "url-img": "",
+      "url-img": "/img/JOSUE.webp",
       "nombre": "Josué",
       "descripcion": "Sumo sacerdote."
     }

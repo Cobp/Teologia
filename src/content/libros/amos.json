@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE AMÓS",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaAmos.webp",
+    "url-autor": "/img/AMOS.webp",
     "autor": "El profeta Amós, pastor y cultivador de sicómoros.",
     "destinatarios": "Principalmente el reino de Israel.",
     "fecha": "Aproximadamente entre 760 y 750 a.C.",
@@ -14,12 +14,12 @@
   "contexto_historico": "Amós profetizó durante un período de prosperidad económica en Israel, pero también existían injusticias sociales, abuso de los pobres y corrupción religiosa. El pueblo continuaba celebrando sus cultos, pero no vivía de acuerdo con la justicia de Dios. Amós anunció que el Señor juzgaría el pecado de Israel y de las naciones.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/AMOS.webp",
       "nombre": "Amós",
       "descripcion": "Profeta llamado por Dios para denunciar la injusticia."
     },
     {
-      "url-img": "",
+      "url-img": "/img/AMASIAS.webp",
       "nombre": "Amasías",
       "descripcion": "Sacerdote de Betel que se opuso al mensaje de Amós."
     }

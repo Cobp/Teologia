@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE HABACUC",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJudas.webp",
+    "url-autor": "/img/HABACUC.webp",
     "autor": "El profeta Habacuc.",
     "destinatarios": "El pueblo de Judá.",
     "fecha": "Aproximadamente entre 609 y 597 a.C.",
@@ -14,7 +14,7 @@
   "contexto_historico": "Habacuc vivió en un período de violencia e injusticia en Judá, cuando el poder de Babilonia comenzaba a crecer. El profeta pregunta por qué Dios permite el mal y cómo puede utilizar a una nación aún más malvada para juzgar a Judá. El libro presenta un diálogo de fe y termina con una declaración de confianza en Dios.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/HABACUC.webp",
       "nombre": "Habacuc",
       "descripcion": "Profeta que expresa sus preguntas y su confianza en Dios."
     }

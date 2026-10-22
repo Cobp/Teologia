@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE SOFONÍAS",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJudas.webp",
+    "url-autor": "/img/SOFONIAS.webp",
     "autor": "El profeta Sofonías, hijo de Cusí.",
     "destinatarios": "Judá y Jerusalén.",
     "fecha": "Durante el reinado de Josías, aproximadamente entre 640 y 609 a.C.",
@@ -14,7 +14,7 @@
   "contexto_historico": "Sofonías profetizó durante el reinado de Josías, en un período en que existían prácticas de idolatría e injusticia en Judá. Anunció el día del Señor como un tiempo de juicio sobre el pecado, pero también presentó promesas de restauración para quienes buscaran a Dios con humildad.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/SOFONIAS.webp",
       "nombre": "Sofonías",
       "descripcion": "Profeta que anuncia el día del Señor."
     }

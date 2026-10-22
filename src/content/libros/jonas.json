@@ -2,8 +2,8 @@
   "titulo": "LIBRO DE JONÁS",
   "fuente": "Antiguo Testamento – Profetas Menores",
   "datos_bibliograficos": {
-    "url-bg": "",
-    "url-autor": "",
+    "url-bg": "/img/PortadaJonas.webp",
+    "url-autor": "/img/JONAS.webp",
     "autor": "Tradicionalmente relacionado con el profeta Jonás.",
     "destinatarios": "El pueblo de Dios, con un mensaje relacionado con Nínive y las naciones.",
     "fecha": "Desconocida; el ministerio de Jonás se sitúa en el siglo VIII a.C.",
@@ -14,7 +14,7 @@
   "contexto_historico": "Jonás fue enviado por Dios a Nínive para anunciar un mensaje de juicio. Sin embargo, el profeta intentó huir en dirección contraria. Después de ser rescatado del mar, cumplió su misión. La historia muestra la misericordia de Dios hacia una ciudad extranjera y confronta la actitud de Jonás ante el arrepentimiento de los ninivitas.",
   "personajes": [
     {
-      "url-img": "",
+      "url-img": "/img/JONAS.webp",
       "nombre": "Jonás",
       "descripcion": "Profeta que inicialmente huye del llamado de Dios."
     }
